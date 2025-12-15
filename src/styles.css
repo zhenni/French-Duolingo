@@ -1,0 +1,150 @@
+body {
+  font-family: 'Inter', sans-serif;
+/*  background-color: #EDEBE6; */
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #555; /* main text color */
+}
+/* Section navigation */
+#sections {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 30px;
+  gap: 12px;
+}
+
+#sections button {
+  background-color: #B8AFAF; /* Morandi soft button */
+  color: #fff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+}
+
+#sections button:hover {
+  background-color: #A8A29E;
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 5px 12px rgba(0,0,0,0.12);
+}
+
+#sections button.active {
+  background-color: #4E4A44; /* Darker active color for current section */
+  color: #fff;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+/*word-blocks-container*/
+#word-blocks-container{
+  width: 100%;
+  max-width: 1000px;
+}
+/* Card block */
+.word-block {
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 30px;
+  width: 90%;
+  max-width: 1000px;
+  margin: 20px auto;
+  background-color: #F5F3EE; /* soft Morandi card color */
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.word-block:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+/* Title */
+.word-block-title {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-bottom: 15px;
+  position: relative;
+  padding-left: 15px;
+  color: #4E4A44;
+}
+.word-block-title::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 6px;
+  height: 28px;
+  border-radius: 3px;
+}
+
+/* Table */
+.word-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 6px;
+}
+
+.word-table th {
+  background-color: #DDD8D1;
+  padding: 12px;
+  border:12px;
+  text-align: left;
+  font-weight: 600;
+  border-radius: 8px 8px 0 0;
+  color: #4E4A44;
+}
+
+.word-table td {
+  background-color: #F8F6F2;
+  padding: 10px;
+  border: 10px;
+  vertical-align: middle;
+  border-radius: 6px;
+  transition: transform 0.15s, box-shadow 0.15s, background-color 0.15s;
+}
+
+.word-table tr:hover td {
+  background-color: #EFEDE8;
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+}
+
+.word-table tr.pronounced tr {
+  background-color: rgba(200,180,160,0.3) !important; /* soft highlight */
+  transform: scale(1.02);
+  transition: 0.2s;
+}
+
+/* Button */
+.word-table button {
+  background-color: #B8AFAF; /* Morandi soft button */
+  color: #fff;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.word-table button:hover {
+  background-color: #A8A29E;
+  transform: scale(1.05);
+}
+
+/* Icon next to word */
+.word-icon {
+  display: inline-block;
+  margin-right: 6px;
+  transition: transform 0.2s;
+}
+
+.word-table td:hover .word-icon {
+  transform: scale(1.2);
+}
