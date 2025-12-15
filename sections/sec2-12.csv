@@ -81,7 +81,7 @@ New words - Story,,comprends,understand
 New words - Story,,Un homme arrive,A man arrives
 New words - Story,,génial,brilliant
 Adventure: Juniorès Morning,,Lève-toi Junior! Il est espt heures du matin! Tu es enretard pour aller à l'école!,Get up Junior! It's seven o'clock in the morning! You are late for school!
-Adventure: Juniorès Morning,,D'accord Papa. Je me lèeve maintenant.,"Okay, Dad. I'm getting up now."
+Adventure: Juniorès Morning,,D'accord Papa. Je me lève maintenant.,"Okay, Dad. I'm getting up now."
 Adventure: Juniorès Morning,,"Va dans la salle de bain pour te brosser les dents, s'il te plaît.",Please go to the bathroom to brush your teeth.
 Adventure: Juniorès Morning,,"Je vais me brosser les dents maintenant, Papa!","I'm going to brush my teeth now, Dad!"
 Adventure: Juniorès Morning,,Qu'est-ce que tu veux pour le petit déjeuner?,What do you want for breakfast?
@@ -93,6 +93,8 @@ Adventure: Juniorès Morning,,"Non merci, je n'ai pas faim.","No thank you, I am
 Adventure: Juniorès Morning,,Tu as mangé le petit déjeuner! Tes livres sont dans ton sac à dos,You ate breakfast! Your books are in your backpack.
 Adventure: Juniorès Morning,,"Ah oui, j'ai besoin de mes livres!","Oh yes, I need my books!"
 Adventure: Juniorès Morning,,Allons à l'école!,Let's go to school!
+New words - Adventure,,léve-toi,Get up
+New words - Adventure,,je me lève,I get up
 New words - Adventure,,tabouret,stool
 New words - Adventure,,grenouille domestique,pet frog
 New words - Adventure,,plante,plant
