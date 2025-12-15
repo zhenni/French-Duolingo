@@ -1,27 +1,30 @@
 // Morandi palette (soft muted colors)
-const morandiColors = ["#B8AFAF", "#C1B6A6", "#A8B3A1", "#BFB3B3", "#ADA698"];
+const morandiColors = ["#AAB8AB", "#97A5C0", "#8D8FA4", "#BFB3B3", "#D3BBB7"];
 
 // Load CSV
 async function loadCSV(path) {
   const response = await fetch(path);
   const text = await response.text();
-  const lines = text.trim().split("\n");
-  const headers = lines[0].split(",");
-  const rows = lines.slice(1);
 
+  const result = Papa.parse(text, {
+    header: true,
+    skipEmptyLines: true
+  });
+
+  // result.data is an array of objects { category, color, word, meaning }
   const data = [];
-  rows.forEach(line => {
-    const [category, color, word, meaning] = line.split(",");
-    let block = data.find(b => b.category === category);
+  result.data.forEach(row => {
+    let block = data.find(b => b.category === row.category);
     if (!block) {
-      block = { category, color: color || morandiColors[data.length % morandiColors.length], words: [] };
+      block = { category: row.category, color: row.color || morandiColors[data.length % morandiColors.length], words: [] };
       data.push(block);
     }
-    block.words.push({ word, meaning });
+    block.words.push({ word: row.word, meaning: row.meaning });
   });
 
   return data;
 }
+
 
 // Render blocks
 function renderWordBlocks(data) {
@@ -72,30 +75,41 @@ function renderWordBlocks(data) {
     block.words.forEach(entry => {
       const tr = document.createElement("tr");
 
+      // French word column
       const tdWord = document.createElement("td");
-      tdWord.textContent = entry.word;
+      tdWord.textContent = entry.word || ""; // empty if missing
 
+      // Meaning column
       const tdMeaning = document.createElement("td");
-      tdMeaning.textContent = entry.meaning;
+      tdMeaning.textContent = entry.meaning || "";
 
+      // Pronunciation button column
       const tdButton = document.createElement("td");
-      const button = document.createElement("button");
-      button.textContent = "🔊";
-      button.onclick = () => {
-        tr.classList.add("pronounced");
-        setTimeout(() => tr.classList.remove("pronounced"), 700);
 
-        const utterance = new SpeechSynthesisUtterance(entry.word);
-        utterance.lang = "fr-FR";
-        speechSynthesis.speak(utterance);
-      };
-      tdButton.appendChild(button);
+      if (entry.word && entry.word.trim() !== "") {
+        // Only add button if French word exists
+        const button = document.createElement("button");
+        button.textContent = "🔊";
+        button.onclick = () => {
+          tr.classList.add("pronounced");
+          setTimeout(() => tr.classList.remove("pronounced"), 700);
+
+          const utterance = new SpeechSynthesisUtterance(entry.word);
+          utterance.lang = "fr-FR";
+          speechSynthesis.speak(utterance);
+        };
+        tdButton.appendChild(button);
+      } else {
+        // Leave the cell empty (or you can put a dash: "-")
+        tdButton.textContent = "";
+      }
 
       tr.appendChild(tdWord);
       tr.appendChild(tdMeaning);
       tr.appendChild(tdButton);
       tbody.appendChild(tr);
     });
+
 
     table.appendChild(tbody);
     blockDiv.appendChild(table);
