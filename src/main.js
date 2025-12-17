@@ -118,7 +118,6 @@ function renderWordBlocks(data) {
 }
 
 // Load CSV and render
-// ✅ CORRECT CSV PATH RESOLUTION
 const container = document.getElementById("word-blocks-container");
 // const csvPath = container.dataset.csv;
 // loadCSV(csvPath).then(renderWordBlocks);
