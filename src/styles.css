@@ -38,6 +38,7 @@ body {
   border-radius: 2px;
 }
 .section-header:hover {
+  color: #AAB8AB;
   background: none;
   transform: none;
   box-shadow: none;
@@ -51,7 +52,18 @@ body {
   display: flex;
   flex-direction: column; /* SINGLE COLUMN */
   gap: 12px;
+  opacity: 1;
 }
+.unit-list.folded {
+  max-height: 0;       /* collapse height */
+  opacity: 0;          /* hide content visually */
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 0;           /* remove margin */
+  overflow: hidden;
+  pointer-events: none; /* prevent clicks while folded */
+}
+
 .unit-list li {
   background-color: #F5F3EE;
   padding: 18px 20px;

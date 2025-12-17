@@ -153,6 +153,26 @@ async function loadSection(csvPath) {
 //   });
 // });
 
+
+// Start all sections folded
+document.querySelectorAll('.unit-list').forEach((list, index) => {
+  if (index === 0) {
+    // First section → leave unfolded
+    list.classList.remove('folded');
+  } else {
+    list.classList.add('folded');
+  }
+});
+
+// Fold/unfold sections when header clicked
+document.querySelectorAll('.section-header').forEach(header => {
+  header.addEventListener('click', () => {
+    const unitList = header.nextElementSibling; // <ul class="unit-list">
+    unitList.classList.toggle('folded');
+  });
+});
+
+
 const unitItems = document.querySelectorAll('#sections li[data-csv]');
 unitItems.forEach(item => {
   item.addEventListener("click", () => {
@@ -164,6 +184,9 @@ unitItems.forEach(item => {
     // Set active
     item.classList.add("active");
 
+    // Save last clicked in localStorage
+    localStorage.setItem('lastUnit', item.dataset.csv);
+
     // Load CSV
     const csvPath = item.dataset.csv;
     loadSection(csvPath);
@@ -174,12 +197,31 @@ unitItems.forEach(item => {
   });
 });
 
+// // Auto-load first unit on page load
+// if (unitItems.length > 0) {
+//   const firstUnit = unitItems[0];
+//   firstUnit.classList.add("active");
+//   loadSection(firstUnit.dataset.csv);
+// }
 
-// Auto-load first unit on page load
-if (unitItems.length > 0) {
-  const firstUnit = unitItems[0];
-  firstUnit.classList.add("active");
-  loadSection(firstUnit.dataset.csv);
-}
+// On page load: restore last clicked unit
+window.addEventListener('DOMContentLoaded', () => {
+  const lastCsv = localStorage.getItem('lastUnit');
+  if (lastCsv) {
+    const lastUnit = document.querySelector(`.unit-list li[data-csv="${lastCsv}"]`);
+    if (lastUnit) {
+      // Unfold its section
+      const section = lastUnit.closest('.unit-list');
+      section.classList.remove('folded');
 
+      // Activate the unit
+      lastUnit.classList.add('active');
 
+      // Load CSV and scroll
+      loadSection(lastCsv);
+
+      const container = document.getElementById("word-blocks-container");
+      container.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  }
+});
