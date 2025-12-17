@@ -10,11 +10,12 @@ body {
 /* Section navigation */
 #sections {
   width: 100%;
+  max-width: 1000px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 30px;
-  gap: 12px;
+  row-gap: 12px;
 }
 /* Section headers */
 .section-header {
@@ -45,13 +46,13 @@ body {
 .unit-list {
   list-style: none;
   padding: 0;
-  margin: 0 auto 30px;
+  margin: 0px 0px 30px 0px;
   max-width: 1000px;
   width: 100%;
   display: grid;
 /*  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));*/
   flex-direction: column;
-  gap: 14px;
+  row-gap: 14px;
 }
 
 .unit-list li:not(.section-header) {
@@ -90,14 +91,15 @@ body {
 #word-blocks-container{
   width: 100%;
   max-width: 1000px;
+  padding: 20px;
 }
 /* Card block */
 .word-block {
   border-radius: 12px;
   padding: 20px;
   margin-bottom: 30px;
-  width: 100%;
-  max-width: 1000px;
+/*  width: 100%;*/
+/*  max-width: 1000px;*/
 /*  margin: 20px auto;*/
   background-color: #F5F3EE; /* soft Morandi card color */
   box-shadow: 0 5px 15px rgba(0,0,0,0.05);
