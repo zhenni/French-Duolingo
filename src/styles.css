@@ -9,37 +9,83 @@ body {
 }
 /* Section navigation */
 #sections {
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 30px;
   gap: 12px;
 }
+/* Section headers */
+.section-header {
+  font-size: 1.1em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #4E4A44;
+  margin: 20px 0 6px;
+  padding-left: 4px;
+  cursor: default;
+}
+/* Divider line */
+.section-header::after {
+  content: '';
+  display: block;
+  height: 2px;
+  width: 100%;
+  background-color: #DDD8D1;
+  margin-top: 6px;
+  border-radius: 2px;
+}
+.section-header:hover {
+  background: none;
+  transform: none;
+  box-shadow: none;
+}
+.unit-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto 30px;
+  max-width: 1000px;
+  width: 100%;
+  display: grid;
+/*  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));*/
+  flex-direction: column;
+  gap: 14px;
+}
 
-#sections button {
-  background-color: #B8AFAF; /* Morandi soft button */
-  color: #fff;
-  border: none;
-  padding: 10px 18px;
+.unit-list li:not(.section-header) {
+  background-color: #F5F3EE;
+  padding: 14px 18px 14px 24px;
   border-radius: 12px;
   cursor: pointer;
-  font-size: 16px;
+  color: #4E4A44;
   font-weight: 500;
-  transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+  position: relative;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    background-color 0.2s ease;
 }
 
-#sections button:hover {
-  background-color: #A8A29E;
-  transform: translateY(-2px) scale(1.03);
-  box-shadow: 0 5px 12px rgba(0,0,0,0.12);
+.unit-list li:not(.section-header):hover {
+  background-color: #EFEDE8;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
 }
 
-#sections button.active {
-  background-color: #4E4A44; /* Darker active color for current section */
-  color: #fff;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+.unit-list li.active {
+  background-color: #DDD8D1;
+  font-weight: 600;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
 }
+
+.unit-list li.active::before {
+  background-color: #4E4A44;
+}
+
 /*word-blocks-container*/
 #word-blocks-container{
   width: 100%;
@@ -50,9 +96,9 @@ body {
   border-radius: 12px;
   padding: 20px;
   margin-bottom: 30px;
-  width: 90%;
+  width: 100%;
   max-width: 1000px;
-  margin: 20px auto;
+/*  margin: 20px auto;*/
   background-color: #F5F3EE; /* soft Morandi card color */
   box-shadow: 0 5px 15px rgba(0,0,0,0.05);
   transition: transform 0.2s, box-shadow 0.2s;
@@ -147,4 +193,30 @@ body {
 
 .word-table td:hover .word-icon {
   transform: scale(1.2);
+}
+
+
+@media (max-width: 600px) {
+  body {
+    padding: 16px;
+  }
+
+  .unit-list li:not(.section-header) {
+    padding: 12px 14px 12px 22px;
+    font-size: 0.95em;
+  }
+
+  .word-block {
+    width: 100%;
+    padding: 16px;
+  }
+
+  .word-block-title {
+    font-size: 1.3em;
+  }
+
+  .word-table th,
+  .word-table td {
+    padding: 8px;
+  }
 }

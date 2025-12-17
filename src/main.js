@@ -141,16 +141,35 @@ async function loadSection(csvPath) {
   }
 }
 
-// Hook up buttons
-document.querySelectorAll("#sections button").forEach(btn => {
-  btn.addEventListener("click", () => {
-    // Remove active from all
-    document.querySelectorAll("#sections button").forEach(b => b.classList.remove("active"));
-    // Set active for clicked
-    btn.classList.add("active");
+// // Hook up buttons
+// document.querySelectorAll('#sections li').forEach(item => {
+//   btn.addEventListener("click", () => {
+//     // Remove active from all
+//     document.querySelectorAll("#sections button").forEach(b => b.classList.remove("active"));
+//     // Set active for clicked
+//     btn.classList.add("active");
 
-    loadSection(btn.dataset.csv);
+//     loadSection(btn.dataset.csv);
+//   });
+// });
+
+const unitItems = document.querySelectorAll('#sections li[data-csv]');
+unitItems.forEach(item => {
+  item.addEventListener("click", () => {
+
+    document.querySelectorAll("#sections li[data-csv]")
+      .forEach(li => li.classList.remove("active"));
+
+    item.classList.add("active");
+    loadSection(item.dataset.csv);
   });
 });
+
+// Auto-load first unit on page load
+if (unitItems.length > 0) {
+  const firstUnit = unitItems[0];
+  firstUnit.classList.add("active");
+  loadSection(firstUnit.dataset.csv);
+}
 
 
