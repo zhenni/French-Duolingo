@@ -19,14 +19,13 @@ body {
 }
 /* Section headers */
 .section-header {
-  font-size: 1.1em;
+  margin: 28px 0 12px;
+  font-size: 1.4rem;
   font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
   color: #4E4A44;
-  margin: 20px 0 6px;
-  padding-left: 4px;
-  cursor: default;
+  text-align: left;
+  max-width: 1000px;
+  width: 100%;
 }
 /* Divider line */
 .section-header::after {
@@ -46,33 +45,26 @@ body {
 .unit-list {
   list-style: none;
   padding: 0;
-  margin: 0px 0px 30px 0px;
+  margin: 0 auto 24px;
   max-width: 1000px;
   width: 100%;
-  display: grid;
-/*  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));*/
-  flex-direction: column;
-  row-gap: 14px;
+  display: flex;
+  flex-direction: column; /* SINGLE COLUMN */
+  gap: 12px;
 }
-
-.unit-list li:not(.section-header) {
+.unit-list li {
   background-color: #F5F3EE;
-  padding: 14px 18px 14px 24px;
-  border-radius: 12px;
+  padding: 18px 20px;
+  border-radius: 14px;
   cursor: pointer;
   color: #4E4A44;
-  font-weight: 500;
-  position: relative;
-
+  font-size: 1.05rem; /* desktop */
+  line-height: 1.5;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease,
-    background-color 0.2s ease;
+  transition: transform 0.2s, box-shadow 0.2s;
+  position: relative;
 }
-
-.unit-list li:not(.section-header):hover {
-  background-color: #EFEDE8;
+.unit-list li:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 16px rgba(0,0,0,0.08);
 }
@@ -80,11 +72,6 @@ body {
 .unit-list li.active {
   background-color: #DDD8D1;
   font-weight: 600;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
-}
-
-.unit-list li.active::before {
-  background-color: #4E4A44;
 }
 
 /*word-blocks-container*/
@@ -199,26 +186,30 @@ body {
 
 
 @media (max-width: 600px) {
+  #sections{
+    margin-bottom: 12px;
+  }
+  .unit-list{
+    gap: 6px;
+    margin: 0;
+  }
+  .unit-list li {
+    font-size: 1.0rem; /* bigger text */
+    padding: 10px 12px;
+  }
+
+  .section-header {
+    font-size: 1.4rem;
+    margin: 18px auto 0px;
+  }
+  .word-block-title{
+    font-size: 1.0rem;
+  }
+  .word-table{
+    font-size: 0.8rem;
+  }
   body {
-    padding: 16px;
-  }
-
-  .unit-list li:not(.section-header) {
-    padding: 12px 14px 12px 22px;
-    font-size: 0.95em;
-  }
-
-  .word-block {
-    width: 100%;
-    padding: 16px;
-  }
-
-  .word-block-title {
-    font-size: 1.3em;
-  }
-
-  .word-table th,
-  .word-table td {
-    padding: 8px;
+    padding: 10px;
   }
 }
+

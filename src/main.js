@@ -68,7 +68,7 @@ function renderWordBlocks(data) {
     const table = document.createElement("table");
     table.className = "word-table";
     table.innerHTML = `<thead>
-      <tr><th>Word</th><th>Meaning</th><th>Pronunciation</th></tr>
+      <tr><th>Word</th><th>Meaning</th><th>Pron.</th></tr>
     </thead>`;
     const tbody = document.createElement("tbody");
 
