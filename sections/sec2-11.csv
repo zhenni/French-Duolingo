@@ -12,7 +12,7 @@ Tip - Speak you French?,,Êtes-vous professeur?,Are you a teacher?
 Radio: Family Trip Conversation,,"Bonjour, comment vas-tu?","Hello, how are you?"
 Radio: Family Trip Conversation,,"Bonjour, Omar. Je vais bien, et toi?","Hello, Omar. I am fine, and you?"
 Radio: Family Trip Conversation,,Je vais bien aussi.,I'm fine too.
-Radio: Family Trip Conversation,,Aimes-tu ce voyageÉ,Do you like this trip?
+Radio: Family Trip Conversation,,Aimes-tu ce voyage?,Do you like this trip?
 Radio: Family Trip Conversation,,"Oui, c'est intéressant, et toi? Aimes-tu?","Yes, that's interesting, and you? Do you like it?"
 Radio: Family Trip Conversation,,"Oui, j'aime beaucoup. Avec qui es-tu ici?","Yes, I like it a lot. Who are you here with?"
 Radio: Family Trip Conversation,,"Je suis avec ma famille, et toi?","I am with my family, and you?"
@@ -75,9 +75,9 @@ Radio: Foreign Students,,"Bonjour, je m'appelle Ben. Et toi? Comment tu t'appell
 Radio: Foreign Students,,Je m'appelle Lisa. Où habites-tu?,My name is Lisa. Where do you live?
 Radio: Foreign Students,,J'habite près de l'église.,I live near the church.
 Radio: Foreign Students,,Je connais cette église.,I know this church.
-Radio: Foreign Students,,Pourquoi es-tu en Espagne maintenant.,Why are you in Spain now.
-Radio: Foreign Students,,"J'étudie l'espagnol, et toi? Pourquoi es-tu ici?","I am studying Spanish, and you? Why are you here?"
-Radio: Foreign Students,,J'étudie l'espagnol. J'étudie avec mon frère.,I am studying Spanish. I am studying with my brother.
+Radio: Foreign Students,,Pourquoi es-tu en Espagne maintenant?,Why are you in Spain now?
+Radio: Foreign Students,,J'étudie l'espagnol. Et toi? Pourquoi es-tu ici?,I am studying Spanish. And you? Why are you here?
+Radio: Foreign Students,,J'étudie l'espagnol. J'étudie avec mon frère.,I study Spanish. I study with my brother.
 Radio: Walking in the Park,,"Bonjour, Alice. Où habite-tu?","Hello, Alice. Where do you live?"
 Radio: Walking in the Park,,"Bonjour, Léo. J'habite en France. Et toi?","Hello, Léo. I live in France. And you?"
 Radio: Walking in the Park,,J'habite près d'un parc en ville.,I live near a park in the city.
