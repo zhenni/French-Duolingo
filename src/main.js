@@ -157,13 +157,23 @@ const unitItems = document.querySelectorAll('#sections li[data-csv]');
 unitItems.forEach(item => {
   item.addEventListener("click", () => {
 
-    document.querySelectorAll("#sections li[data-csv]")
+    // Remove active from all
+    document.querySelectorAll("#sections li")
       .forEach(li => li.classList.remove("active"));
 
+    // Set active
     item.classList.add("active");
-    loadSection(item.dataset.csv);
+
+    // Load CSV
+    const csvPath = item.dataset.csv;
+    loadSection(csvPath);
+
+    // Smooth scroll to word blocks
+    const container = document.getElementById("word-blocks-container");
+    container.scrollIntoView({ behavior: "smooth", block: "start" });
   });
 });
+
 
 // Auto-load first unit on page load
 if (unitItems.length > 0) {
