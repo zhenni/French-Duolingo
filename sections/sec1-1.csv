@@ -11,6 +11,10 @@ Tip - Gender,,un homme,a man
 Tip - Gender,,une femme,a woman
 Tip - Gender,,un chien ,a dog
 Tip - Gender,,une pizza,a pizza
+Speak: Ask About Pets,,Tu as un chien?,You have a dog?
+Speak: Ask About Pets,,"Oui, j'ai un chien.","Yes, I have a dog."
+Speak: Ask About Pets,,Tu as un chat?,Do you have a cat?
+Speak: Ask About Pets,,"Oui, j'ai un chat","Yes, I have a cat"
 "Tip - I think, therefore...",,je suis ,I am
 "Tip - I think, therefore...",,tu es,you are
 "Tip - I think, therefore...",,il est,He is or It is

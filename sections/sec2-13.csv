@@ -78,9 +78,9 @@ Radio: Human Introductions,,"Oui, s'il vous plaît.","Yes, please."
 Radio: Human Introductions,,"Bonne journée, Madame Dubois.","Have a good day, Madam Dubois."
 Radio: Human Introductions,,"Merci, à bientôt.","Thank you, and see you soon."
 Speak: Ask for Preferences,,Voulez-vous un café?,Would you like a coffee?
-Speak: Ask for Preferences,,Voulez-vous manger quelque chose?,Do you want something to eat?
 Speak: Ask for Preferences,,"Oui, je voudrais un café.","Yes, I'd like a coffee."
-Speak: Ask for Preferences,,"Oui, je voudrais manger quelque chose.",The cell is empty. Please provide the French word or phrase you would like translated to English.
+Speak: Ask for Preferences,,Voulez-vous manger quelque chose?,Do you want to eat something?
+Speak: Ask for Preferences,,"Oui, je voudrais manger quelque chose.","Yes, I would like to eat something."
 Story: I want a Pizza,,Je veux une pizza.,I want a pizza.
 Story: I want a Pizza,,Lin marche dans la rue.,Lin is walking down the street.
 Story: I want a Pizza,,Elle a deux pizzas.,She has two pizzas.
@@ -104,8 +104,8 @@ Radio: Important Destination,,Bonjour. Je m'appelle Louis. Je voyage au Sénéga
 Radio: Important Destination,,Le Sénégal est un pays d'Afrique.,Senegal is an African country.
 Radio: Important Destination,,Mes bagages sont ici. Ma destination est très importante pour moi. À bientôt.,My luggage is here. My destination is very important to me. See you soon.
 Speak: Ask for Help,,Pouvez-vous attendre ici?,Can you wait here?
-Speak: Ask for Help,,Pouvez-vous attendre venir avec moi?,Can you wait to come with me?
 Speak: Ask for Help,,"Oui, je peux attendre ici.","Yes, I can wait here."
+Speak: Ask for Help,,Pouvez-vous attendre venir avec moi?,Can you wait to come with me?
 Speak: Ask for Help,,"Oui, je peux venir avec vous.","Yes, I can come with you."
 Radio: Paul's Daily Routine,,Bonjour. Je m'appelle Paul. Le matin je bois un café et mange du pain.,Hello. My name is Paul. In the morning I drink a coffee and eat bread.
 Radio: Paul's Daily Routine,,Après je vais au travail tous le jours.,"After, I go to work every day."
