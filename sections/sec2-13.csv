@@ -96,3 +96,48 @@ Story: I want a Pizza,,Oscar prend son téléphone.,Oscar takes his phone.
 Story: I want a Pizza,,"Salut, Lucie, c'est Oscar. Tu fais quelque chose pour le dîner?","Hi, Lucie, it's Oscar. Are you doing anything for dinner?"
 Story: I want a Pizza,,Je mange une pizza avec Lin! Tu veux manger avec nous?,I'm eating a pizza with Lin! Do you want to eat with us?
 Story: I want a Pizza,,"Bonne idée, merci!","Good idea, thank you!"
+Radio: Important Destination,,Bonjour. Je m'appelle Louis. Je voyage au Sénégal.,Hello. My name is Louis. I am traveling to Senegal.
+Radio: Important Destination,,Le Sénégal est un pays d'Afrique.,Senegal is an African country.
+Radio: Important Destination,,Mes bagages sont ici. Ma destination est très importante pour moi. À bientôt.,My luggage is here. My destination is very important to me. See you soon.
+Radio: Paul's Daily Routine,,Bonjour. Je m'appelle Paul. Le matin je bois un café et mange du pain.,Hello. My name is Paul. In the morning I drink a coffee and eat bread.
+Radio: Paul's Daily Routine,,Après je vais au travail tous le jours.,"After, I go to work every day."
+Radio: Paul's Daily Routine,,Je travaille dans une usine.,I work in a factory.
+Radio: Paul's Daily Routine,,C'est intéressant et j'aime mon travail.,That's interesting and I love my job.
+Radio: Paul's Daily Routine,,"Après le travail, je rentre chez moi et lis un livre.","After work, I go home and read a book."
+Adventure: Lucy's Lost Luggage,,Où est ma valise?,Where is my suitcase?
+Adventure: Lucy's Lost Luggage,,La valise bleue est à vous?,Is the blue suitcase yours?
+Adventure: Lucy's Lost Luggage,,"Non, ma valise est jaune.","No, my suitcase is yellow."
+Adventure: Lucy's Lost Luggage,,Votre valise n'est pas ici.,Your suitcase is not here.
+Adventure: Lucy's Lost Luggage,,Vous devez voir ça avev la compagnie aérienne.,You must see this with the airline.
+Adventure: Lucy's Lost Luggage,,Je dois trouver ma valise.,I have to find my suitcase.
+Adventure: Lucy's Lost Luggage,,Pas de problème! ,No problem!
+Adventure: Lucy's Lost Luggage,,Quand est-ce que vous êtes arrivée?,When did you arrive?
+Adventure: Lucy's Lost Luggage,,Je suis arrivée à 14h00.,I arrived at 2:00 PM.
+Adventure: Lucy's Lost Luggage,,Et d'où est-ce que vous venez?,And where do you come from?
+Adventure: Lucy's Lost Luggage,,Je viens en cours chaque lundi.,I come to class every Monday.
+Adventure: Lucy's Lost Luggage,,"Apprendre, c'est important.",Learning is important.
+Adventure: Lucy's Lost Luggage,,Mais de quelle ville est-ce que vous venez?,But which city do you come from?
+Adventure: Lucy's Lost Luggage,,"Je viens de Berlin, en Allemagne.","I come from Berlin, in Germany."
+Adventure: Lucy's Lost Luggage,,"Je peux voir votre passeport, s'il vous plaît?","May I see your passport, please?"
+Adventure: Lucy's Lost Luggage,,Génial! J'ai trouvé votre valise.,Great! I found your suitcase.
+Adventure: Lucy's Lost Luggage,,"Donnez ce billet à Eddy, l'homme devant les valises.","Give this ticket to Eddy, the man in front of the suitcases."
+Adventure: Lucy's Lost Luggage,,"Ah, C'est encore vous!","Ah, it's you again!"
+Adventure: Lucy's Lost Luggage,,Oui. La compagnie aérienne a trouvé ma valise!,Yes. The airline found my suitcase!
+Adventure: Lucy's Lost Luggage,,Génial! Vous avez un billet pour la valise?,Great! Do you have a ticket for the suitcase?
+Adventure: Lucy's Lost Luggage,,Je ne me sens pas bien.,I don't feel well.
+Adventure: Lucy's Lost Luggage,,Je suis désolé. Je dois voir le billet pour votre valise.,I am sorry. I must see the ticket for your suitcase.
+Adventure: Lucy's Lost Luggage,,"Oui, voici le billet.","Yes, here is the ticket."
+Adventure: Lucy's Lost Luggage,,Oh non! J'ai donné votre valise à cette jeune femme!,Oh no! I gave your suitcase to that young woman!
+Adventure: Lucy's Lost Luggage,,"Euh, excusez-moi, mais vous avez ma valise.","Um, excuse me, but you have my suitcase."
+Adventure: Lucy's Lost Luggage,,"Ah, vous avez raison. Ma valise est voilette.","Ah, you are right. My suitcase is purple."
+New words - Adventure,,voir ça,see that
+New words - Adventure,,la compangnie aérienne,the airline company
+New words - Adventure,,carte,"card, map, menu"
+New words - Adventure,,distributeur automatique,vending machine
+New words - Adventure,,trouver,to find
+New words - Adventure,,Pas de problème,No problem
+New words - Adventure,,arrivée,arrival
+New words - Adventure,,portefeuille,wallet
+New words - Adventure,,clés,keys
+New words - Adventure,,encore,"still, yet, again, more, even"
+New words - Adventure,,raison,reason
