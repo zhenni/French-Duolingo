@@ -29,7 +29,39 @@ Radio: Bus Stop Encounter,,"Ah, tu prends l'avion.","Ah, you're taking the plane
 Radio: Bus Stop Encounter,,"Oui, j'ai un passeport américain et un billet d'avion.","Yes, I have an American passport and a plane ticket."
 Radio: Bus Stop Encounter,,"Super, bonne journée. ","Great, good day."
 Radio: Bus Stop Encounter,,Merci! À bientôt!,Thank you! See you soon!
-Speak: Ask About Living,,,Please provide the French text you would like to translate.
-Speak: Ask About Living,,,Please provide the French text you would like translated into English.
-Speak: Ask About Living,,,Please provide the French text you would like translated.
-Speak: Ask About Living,,,Please provide the French text you would like translated.
+Speak: Ask About Living,,Tu habites où?,Where do you live?
+Speak: Ask About Living,,J'habite à Paris.,I live in Paris.
+Speak: Ask About Living,,Tu travailles où?,Where do you work?
+Speak: Ask About Living,,Je travaille à Lyon.,I work in Lyon.
+Story: At the Airport,,À l'aéroport,at the airport
+Story: At the Airport,,"Lin, tu as ton passeport?","Lin, do you have your passport?"
+Story: At the Airport,,J'ai la valise!,I have the suitcase!
+Story: At the Airport,,Et le billet d'avion!,And the plane ticket!
+Story: At the Airport,,Et un croissant!,And a croissant!
+Story: At the Airport,,"Où est ton passeport, Lin?","Where is your passport, Lin?"
+Story: At the Airport,,Oh non! Il est à la gare!,Oh no! He is at the station!
+Story: At the Airport,,Comment on va en Espagne?!,How do we go to Spain?!
+Radio: Traveling to France,,"Bonjour, je m'appelle Alice. Je vais en France.","Hello, my name is Alice. I'm going to France."
+Radio: Traveling to France,,Je prends le traint et l'avion.,I'm taking the train and the plane.
+Radio: Traveling to France,,J'ai un passeport américain.,I have an American passport.
+Radio: Traveling to France,,"En France, je vais à un restaurant français.","In France, I go to a French restaurant."
+Radio: Traveling to France,,Le restaurant est près de la gare.,The restaurant is near the train station.
+Speak: Ask About Places,,Tu étudies où?,Where do you study?
+Speak: Ask About Places,,J'étudie à Paris.,I study in Paris.
+Speak: Ask About Places,,Tu habites où?,Where do you live?
+Speak: Ask About Places,,J'habite à Marseille.,I live in Marseille.
+New Words - Story,,on va,we will
+New Words - Radio,,près de la gare,near the station
+Adventure: Let's Fly!,,Bonjour! Tu vas où?,Hello! Where are you going?
+Adventure: Let's Fly!,,Bonjour! Je vais à Paris.,Hello! I am going to Paris.
+Adventure: Let's Fly!,,Passeport?,Passport?
+Adventure: Let's Fly!,,Oh non... Où est le passeport?,Oh no... Where is the passport?
+Adventure: Let's Fly!,,Des valises. Le passeport est ici? Non.,Suitcases. Is the passport here? No.
+Adventure: Let's Fly!,,Le passeport est ici.,The passport is here.
+Adventure: Let's Fly!,,Merci! Tu as une valise?,Thank you! Do you have a suitcase?
+Adventure: Let's Fly!,,Une valise? Non.,A suitcase? No.
+Adventure: Let's Fly!,,Le billet d'avion.,The plane ticket.
+Adventure: Let's Fly!,,Bon voyage!,Have a good trip!
+New words - Adventure,,Une plante. ,A plant.
+New words - Adventure,,Des chaises.,Chairs.
+New words - Adventure,,Une poubelle.,A dustbin
