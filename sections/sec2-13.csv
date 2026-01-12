@@ -46,15 +46,15 @@ New words - Talk to someone formally,,Elle va attendre,She is going to wait
 New words - Talk to someone formally,,Pouvez-vous attendre ici?,Can you wait here?
 New words - Talk to someone formally,,bagages,luggage
 New words - Talk to someone formally,,Mes bagages sont ici,My luggage is here
-Radio: A Café Encouter,,"Excusez-moi, mademoiselle. ","Excuse me, miss."
-Radio: A Café Encouter,,Voulez-vous boire quelque chose?,Would you like a drink?
-Radio: A Café Encouter,,"Oui, je voudrais du jus, s'il vous plaît.","Yes, I would like some juice, please."
-Radio: A Café Encouter,,Bien sûr. Vous venez d'Europe.,Of course. You come from Europe.
-Radio: A Café Encouter,,"Non, je viens des États-Unis, et vous?","No, I come from the United States, and you?"
-Radio: A Café Encouter,,Je viens d'Afrique. Quel est votre destination? ,I come from Africa. What is your destination?
-Radio: A Café Encouter,,Je vais en France. Vous voyagez où?,I'm going to France. Where are you traveling?
-Radio: A Café Encouter,,Je vais en Italie. Bonne journée.,I am going to Italy. Have a nice day.
-Radio: A Café Encouter,,"Merci, bonne journée à vous aussi.","Thank you, have a good day to you too."
+Radio: A Cafe Encounter - Lucy is Listening,,"Excusez-moi, mademoiselle. ","Excuse me, miss."
+Radio: A Cafe Encounter - Lucy is Listening,,Voulez-vous boire quelque chose?,Would you like a drink?
+Radio: A Cafe Encounter - Lucy is Listening,,"Oui, je voudrais du jus, s'il vous plaît.","Yes, I would like some juice, please."
+Radio: A Cafe Encounter - Lucy is Listening,,Bien sûr. Vous venez d'Europe.,Of course. You come from Europe.
+Radio: A Cafe Encounter - Lucy is Listening,,"Non, je viens des États-Unis, et vous?","No, I come from the United States, and you?"
+Radio: A Cafe Encounter - Lucy is Listening,,Je viens d'Afrique. Quel est votre destination? ,I come from Africa. What is your destination?
+Radio: A Cafe Encounter - Lucy is Listening,,Je vais en France. Vous voyagez où?,I'm going to France. Where are you traveling?
+Radio: A Cafe Encounter - Lucy is Listening,,Je vais en Italie. Bonne journée.,I am going to Italy. Have a nice day.
+Radio: A Cafe Encounter - Lucy is Listening,,"Merci, bonne journée à vous aussi.","Thank you, have a good day to you too."
 Story: Lily's Clothes,,Les vêtements de Lily,Lily's clothes
 Story: Lily's Clothes,,Zari est avec Lily. Elle regarde les vêtements de Lily.,Zari is with Lily. She is looking at Lily's clothes.
 Story: Lily's Clothes,,Tu as beaucoup de vêtements violets.,You have a lot of purple clothes.
@@ -69,14 +69,14 @@ Story: Lily's Clothes,,Il y a un nouveau magasin en ville.,There is a new store 
 Story: Lily's Clothes,,"Regarde, c'est por toi!","Look, it's for you!"
 Story: Lily's Clothes,,Le rouge est super pour toi!,Red is great for you!
 Story: Lily's Clothes,,Le magasin n'a pas de lunettes de soleil violettes?,The store doesn't have any purple sunglasses?
-Radio: Human Introductions,,"Excusez moi, Madame. Votre nom de famille, s'il vous plaît?","Excuse me, Ma'am. Your last name, please?"
-Radio: Human Introductions,,Je suis Lisa Dubois. ,I am Lisa Dubois.
-Radio: Human Introductions,,Vous voyagez avec votre femme?,Are you traveling with your wife?
-Radio: Human Introductions,,"Non, je voyage seule.","No, I travel alone."
-Radio: Human Introductions,,Voulez vous un café?,Would you like a coffee?
-Radio: Human Introductions,,"Oui, s'il vous plaît.","Yes, please."
-Radio: Human Introductions,,"Bonne journée, Madame Dubois.","Have a good day, Madam Dubois."
-Radio: Human Introductions,,"Merci, à bientôt.","Thank you, and see you soon."
+Radio: Human Introductions - Falstaff’s Guide to Humans,,"Excusez moi, Madame. Votre nom de famille, s'il vous plaît?","Excuse me, Ma'am. Your last name, please?"
+Radio: Human Introductions - Falstaff’s Guide to Humans,,Je suis Lisa Dubois. ,I am Lisa Dubois.
+Radio: Human Introductions - Falstaff’s Guide to Humans,,Vous voyagez avec votre femme?,Are you traveling with your wife?
+Radio: Human Introductions - Falstaff’s Guide to Humans,,"Non, je voyage seule.","No, I travel alone."
+Radio: Human Introductions - Falstaff’s Guide to Humans,,Voulez vous un café?,Would you like a coffee?
+Radio: Human Introductions - Falstaff’s Guide to Humans,,"Oui, s'il vous plaît.","Yes, please."
+Radio: Human Introductions - Falstaff’s Guide to Humans,,"Bonne journée, Madame Dubois.","Have a good day, Madam Dubois."
+Radio: Human Introductions - Falstaff’s Guide to Humans,,"Merci, à bientôt.","Thank you, and see you soon."
 Speak: Ask for Preferences,,Voulez-vous un café?,Would you like a coffee?
 Speak: Ask for Preferences,,"Oui, je voudrais un café.","Yes, I'd like a coffee."
 Speak: Ask for Preferences,,Voulez-vous manger quelque chose?,Do you want to eat something?
@@ -100,9 +100,9 @@ Story: I want a Pizza,,Oscar prend son téléphone.,Oscar takes his phone.
 Story: I want a Pizza,,"Salut, Lucie, c'est Oscar. Tu fais quelque chose pour le dîner?","Hi, Lucie, it's Oscar. Are you doing anything for dinner?"
 Story: I want a Pizza,,Je mange une pizza avec Lin! Tu veux manger avec nous?,I'm eating a pizza with Lin! Do you want to eat with us?
 Story: I want a Pizza,,"Bonne idée, merci!","Good idea, thank you!"
-Radio: Important Destination,,Bonjour. Je m'appelle Louis. Je voyage au Sénégal.,Hello. My name is Louis. I am traveling to Senegal.
-Radio: Important Destination,,Le Sénégal est un pays d'Afrique.,Senegal is an African country.
-Radio: Important Destination,,Mes bagages sont ici. Ma destination est très importante pour moi. À bientôt.,My luggage is here. My destination is very important to me. See you soon.
+Radio: Important Destination - Lily and Strangers,,Bonjour. Je m'appelle Louis. Je voyage au Sénégal.,Hello. My name is Louis. I am traveling to Senegal.
+Radio: Important Destination - Lily and Strangers,,Le Sénégal est un pays d'Afrique.,Senegal is an African country.
+Radio: Important Destination - Lily and Strangers,,Mes bagages sont ici. Ma destination est très importante pour moi. À bientôt.,My luggage is here. My destination is very important to me. See you soon.
 Speak: Ask for Help,,Pouvez-vous attendre ici?,Can you wait here?
 Speak: Ask for Help,,"Oui, je peux attendre ici.","Yes, I can wait here."
 Speak: Ask for Help,,Pouvez-vous attendre venir avec moi?,Can you wait to come with me?

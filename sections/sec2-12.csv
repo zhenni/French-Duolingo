@@ -9,11 +9,11 @@ Tip - Resent Tense,,Je viens,I come
 Tip - Resent Tense,,Nous venons,we come
 Tip - Resent Tense,,Je dois venir.,I must come.
 Tip - Resent Tense,,Je dois manger.,I have to eat.
-Radio: Early Coffee,,Bonjour! Je m'appelle Léo. ,Hello! My name is Léo.
-Radio: Early Coffee,,Tous les jours je prends un café avec un peu de sucre.,Every day I have a coffee with a little sugar.
-Radio: Early Coffee,,Il est cinq heures du matin et je bois mon café dans ma cuisine.,It is five o'clock in the morning and I am drinking my coffee in my kitchen.
-Radio: Early Coffee,,Mon frigo est très grand avec beaucoup de lait parfois.,My fridge is very big with a lot of milk sometimes.
-Radio: Early Coffee,, Je sors de bon matin pour acheter plus de café ensuite je prépare un bon petit-déjeuner,I go out early in the morning to buy more coffee then I prepare a good breakfast.
+Radio: Early Coffee - Late Nights with Lin,,Bonjour! Je m'appelle Léo. ,Hello! My name is Léo.
+Radio: Early Coffee - Late Nights with Lin,,Tous les jours je prends un café avec un peu de sucre.,Every day I have a coffee with a little sugar.
+Radio: Early Coffee - Late Nights with Lin,,Il est cinq heures du matin et je bois mon café dans ma cuisine.,It is five o'clock in the morning and I am drinking my coffee in my kitchen.
+Radio: Early Coffee - Late Nights with Lin,,Mon frigo est très grand avec beaucoup de lait parfois.,My fridge is very big with a lot of milk sometimes.
+Radio: Early Coffee - Late Nights with Lin,,Je sors de bon matin pour acheter plus de café ensuite je prépare un bon petit-déjeuner,I go out early in the morning to buy more coffee then I prepare a good breakfast
 Story: This Is Not Art,,Ce n'est pas de l'art,It's not art
 Story: This Is Not Art,,Eddy et son ami Oscar sont au musée.,Eddy and his friend Oscar are at the museum.
 Story: This Is Not Art,,Eddy regarde une sculpture de chien.,Eddy is looking at a dog sculpture.
@@ -33,13 +33,13 @@ Story: This Is Not Art,,Je ne comprends pas l'art.,I do not understand art.
 Story: This Is Not Art,,"Un homme arrive. Il prend le sandwich, et le mange.","A man arrives. He takes the sandwich, and eats it."
 Story: This Is Not Art,,"Excusez-moi! Vous ne pouvez pas manger ça, c'est de l'art!","Excuse me! You cannot eat that, it is art!"
 Story: This Is Not Art,,Ce n'est pas de l'art... C'est mon déjeuner.,It's not art... It's my lunch.
-Radio: Time Talk,,"Bonjour Léo. Il est tôt, n'est-ce pas?","Hello Léo. It is early, isn't it?"
-Radio: Time Talk,,"Oui, il est cinq heures du matin.","Yes, it is five o'clock in the morning."
-Radio: Time Talk,,Tu sors de chez Paul?,Are you leaving Paul's place?
-Radio: Time Talk,,"Non, je sors du travail.","No, I'm leaving work."
-Radio: Time Talk,,"Ah, je dois rentrer bientôt.","Ah, I have to go home soon."
-Radio: Time Talk,,Chez toi ou chez Alice et Paul?,At your place or at Alice and Paul's?
-Radio: Time Talk,,Chez moi pour prendre un peu de café.,At my place to have some coffee.
+Radio: Time Talk - Falstaff’s Guide to Humans,,"Bonjour Léo. Il est tôt, n'est-ce pas?","Hello Léo. It is early, isn't it?"
+Radio: Time Talk - Falstaff’s Guide to Humans,,"Oui, il est cinq heures du matin.","Yes, it is five o'clock in the morning."
+Radio: Time Talk - Falstaff’s Guide to Humans,,Tu sors de chez Paul?,Are you leaving Paul's place?
+Radio: Time Talk - Falstaff’s Guide to Humans,,"Non, je sors du travail.","No, I'm leaving work."
+Radio: Time Talk - Falstaff’s Guide to Humans,,"Ah, je dois rentrer bientôt.","Ah, I have to go home soon."
+Radio: Time Talk - Falstaff’s Guide to Humans,,Chez toi ou chez Alice et Paul?,At your place or at Alice and Paul's?
+Radio: Time Talk - Falstaff’s Guide to Humans,,Chez moi pour prendre un peu de café.,At my place to have some coffee.
 "Story: A Coffee, Please",,"Un café, s'il te plaît.","A cup of coffee, please."
 "Story: A Coffee, Please",,"Eddy est au restaurant avec son fils, Junior.","Eddy is at the restaurant with his son, Junior."
 "Story: A Coffee, Please",,"Salut, Eddy! Tu veux un thé?","Hello, Eddy! Do you want a tea?"
@@ -57,12 +57,12 @@ Radio: Time Talk,,Chez moi pour prendre un peu de café.,At my place to have som
 "Story: A Coffee, Please",,Oui!,Yes!
 "Story: A Coffee, Please",,"Oh, je veux un milk-shake aussi.","Oh, I want a milkshake too."
 "Story: A Coffee, Please",,"Deux milk-shakes, s'il te plaît!","Two milkshakes, please!"
-Radio: Noon Meeting,,"Bonjour Marie. Il est tôt aujourd'hui, non?","Hello Marie. It's early today, isn't it?"
-Radio: Noon Meeting,,Bonjour Léo. Il est cinq heures du matin.,Hello Leo. It is five o'clock in the morning.
-Radio: Noon Meeting,,Je vais prendre un peu de café dans la cuisine.,I will have some coffee in the kitchen.
-Radio: Noon Meeting,,Très bien. Il y a du sucre dans le placard.,Very good. There is sugar in the cupboard.
-Radio: Noon Meeting,,Merci. Nous mangeons à midi aujourd'hui?,Thank you. Are we eating at noon today?
-Radio: Noon Meeting,,"Oui, à midi. Tu dois rentrer chez toi avant de manger.","Yes, at noon. You must go home before eating."
+Radio: Noon meeting - Lucy is Listening,,"Bonjour Marie. Il est tôt aujourd'hui, non?","Hello Marie. It's early today, isn't it?"
+Radio: Noon meeting - Lucy is Listening,,Bonjour Léo. Il est cinq heures du matin.,Hello Leo. It is five o'clock in the morning.
+Radio: Noon meeting - Lucy is Listening,,Je vais prendre un peu de café dans la cuisine.,I will have some coffee in the kitchen.
+Radio: Noon meeting - Lucy is Listening,,Très bien. Il y a du sucre dans le placard.,Very good. There is sugar in the cupboard.
+Radio: Noon meeting - Lucy is Listening,,Merci. Nous mangeons à midi aujourd'hui?,Thank you. Are we eating at noon today?
+Radio: Noon meeting - Lucy is Listening,,"Oui, à midi. Tu dois rentrer chez toi avant de manger.","Yes, at noon. You must go home before eating."
 Radio: The Kitchen Clock,,"Bonjour, je m'appelle Omar. Chez moi il y a une grande horloge. ","Hello, my name is Omar. At my place, there is a large clock."
 Radio: The Kitchen Clock,,l'horloge est dans la cuisine près de la table,The clock is in the kitchen near the table
 Radio: The Kitchen Clock,,J'aime cette horloge parce qu'elle est très jolie.,I like this clock because it is very pretty.
