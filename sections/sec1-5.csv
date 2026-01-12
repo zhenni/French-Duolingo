@@ -15,20 +15,20 @@ Tip - Tu as un passeport?,,j'ai ,I have
 Tip - Tu as un passeport?,,tu ai,you have
 Tip - Tu as un passeport?,,"il a, elle a",he/she has
 Tip - Tu as un passeport?,,J'ai un passeport.,I have a passport.
-Radio: Flying Plans,,"Bonjour, Louis. Tu vas où?","Hello, Louis. Where are you going?"
-Radio: Flying Plans,,"Salut, Samia. Je vais à la gare. Et toi?","Hi, Samia. I am going to the train station. And you?"
-Radio: Flying Plans,,Je vais à l'aéroport.,I'm going to the airport.
-Radio: Flying Plans,,Tu prends un avion?,Are you taking a plane?
-Radio: Flying Plans,,"Oui, j'ai un billet d'avion. Et toi, le train?","Yes, I have a plane ticket. And you, the train?"
-Radio: Flying Plans,,"Oui, je prends le train. Bonne journée.","Yes, I am taking the train. Have a nice day."
-Radio: Flying Plans,,Merci! À bientôt!,Thank you! See you soon!
-Radio: Bus Stop Encounter,,"Salut, Léo. Tu vas où?","Hi, Léo. Where are you going?"
-Radio: Bus Stop Encounter,,"Salut, Paul. Je vais à la gare. Et toi?","Hi, Paul. I'm going to the station. And you?"
-Radio: Bus Stop Encounter,,Je vais à l'aeroport en taxi.,I am going to the airport by taxi.
-Radio: Bus Stop Encounter,,"Ah, tu prends l'avion.","Ah, you're taking the plane."
-Radio: Bus Stop Encounter,,"Oui, j'ai un passeport américain et un billet d'avion.","Yes, I have an American passport and a plane ticket."
-Radio: Bus Stop Encounter,,"Super, bonne journée. ","Great, good day."
-Radio: Bus Stop Encounter,,Merci! À bientôt!,Thank you! See you soon!
+Radio: Flying Plans - Falstaff’s Guide to Humans,,"Bonjour, Louis. Tu vas où?","Hello, Louis. Where are you going?"
+Radio: Flying Plans - Falstaff’s Guide to Humans,,"Salut, Samia. Je vais à la gare. Et toi?","Hi, Samia. I am going to the train station. And you?"
+Radio: Flying Plans - Falstaff’s Guide to Humans,,Je vais à l'aéroport.,I'm going to the airport.
+Radio: Flying Plans - Falstaff’s Guide to Humans,,Tu prends un avion?,Are you taking a plane?
+Radio: Flying Plans - Falstaff’s Guide to Humans,,"Oui, j'ai un billet d'avion. Et toi, le train?","Yes, I have a plane ticket. And you, the train?"
+Radio: Flying Plans - Falstaff’s Guide to Humans,,"Oui, je prends le train. Bonne journée.","Yes, I am taking the train. Have a nice day."
+Radio: Flying Plans - Falstaff’s Guide to Humans,,Merci! À bientôt!,Thank you! See you soon!
+Radio: Bus Stop Encounter - Lucy is Listening,,"Salut, Léo. Tu vas où?","Hi, Léo. Where are you going?"
+Radio: Bus Stop Encounter - Lucy is Listening,,"Salut, Paul. Je vais à la gare. Et toi?","Hi, Paul. I'm going to the station. And you?"
+Radio: Bus Stop Encounter - Lucy is Listening,,Je vais à l'aeroport en taxi.,I am going to the airport by taxi.
+Radio: Bus Stop Encounter - Lucy is Listening,,"Ah, tu prends l'avion.","Ah, you're taking the plane."
+Radio: Bus Stop Encounter - Lucy is Listening,,"Oui, j'ai un passeport américain et un billet d'avion.","Yes, I have an American passport and a plane ticket."
+Radio: Bus Stop Encounter - Lucy is Listening,,"Super, bonne journée. ","Great, good day."
+Radio: Bus Stop Encounter - Lucy is Listening,,Merci! À bientôt!,Thank you! See you soon!
 Speak: Ask About Living,,Tu habites où?,Where do you live?
 Speak: Ask About Living,,J'habite à Paris.,I live in Paris.
 Speak: Ask About Living,,Tu travailles où?,Where do you work?
@@ -41,11 +41,11 @@ Story: At the Airport,,Et un croissant!,And a croissant!
 Story: At the Airport,,"Où est ton passeport, Lin?","Where is your passport, Lin?"
 Story: At the Airport,,Oh non! Il est à la gare!,Oh no! He is at the station!
 Story: At the Airport,,Comment on va en Espagne?!,How do we go to Spain?!
-Radio: Traveling to France,,"Bonjour, je m'appelle Alice. Je vais en France.","Hello, my name is Alice. I'm going to France."
-Radio: Traveling to France,,Je prends le traint et l'avion.,I'm taking the train and the plane.
-Radio: Traveling to France,,J'ai un passeport américain.,I have an American passport.
-Radio: Traveling to France,,"En France, je vais à un restaurant français.","In France, I go to a French restaurant."
-Radio: Traveling to France,,Le restaurant est près de la gare.,The restaurant is near the train station.
+Radio: Traveling to France - Lily and Strangers,,"Bonjour, je m'appelle Alice. Je vais en France.","Hello, my name is Alice. I'm going to France."
+Radio: Traveling to France - Lily and Strangers,,Je prends le traint et l'avion.,I'm taking the train and the plane.
+Radio: Traveling to France - Lily and Strangers,,J'ai un passeport américain.,I have an American passport.
+Radio: Traveling to France - Lily and Strangers,,"En France, je vais à un restaurant français.","In France, I go to a French restaurant."
+Radio: Traveling to France - Lily and Strangers,,Le restaurant est près de la gare.,The restaurant is near the train station.
 Speak: Ask About Places,,Tu étudies où?,Where do you study?
 Speak: Ask About Places,,J'étudie à Paris.,I study in Paris.
 Speak: Ask About Places,,Tu habites où?,Where do you live?

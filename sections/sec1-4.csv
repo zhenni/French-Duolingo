@@ -10,9 +10,9 @@ Tip - J'habite à Paris!,,J'habite en France.,I live in France.
 Tip - J'habite à Paris!,,Je travaille à Madrid.,I work in Madrid.
 Tip - J'habite à Paris!,,Je travaille en Espagne.,I work in Spain.
 Tip - J'habite à Paris!,,Je travaille en France.,I work in France.
-Radio: Brief Encounter,,Bonjour! Je m'appelle Omar. J'étudie en France. ,Hello! My name is Omar. I am studying in France.
-Radio: Brief Encounter,,J'étudie à Paris. Je suis étudiant. J'étudie avec un professeur. ,I am studying in Paris. I am a student. I am studying with a professor.
-Radio: Brief Encounter,,"Oui, je suis très heureux ici.","Yes, I am very happy here."
+Radio: Brief Encounter - Lily and Strangers,,Bonjour! Je m'appelle Omar. J'étudie en France. ,Hello! My name is Omar. I am studying in France.
+Radio: Brief Encounter - Lily and Strangers,,J'étudie à Paris. Je suis étudiant. J'étudie avec un professeur. ,I am studying in Paris. I am a student. I am studying with a professor.
+Radio: Brief Encounter - Lily and Strangers,,"Oui, je suis très heureux ici.","Yes, I am very happy here."
 Radio: Living in Different Cities,,"Bonjour, Lisa!","Hello, Lisa!"
 Radio: Living in Different Cities,,"Bonjour, Louis! Tu habites ici?","Hello, Louis! Do you live here?"
 Radio: Living in Different Cities,,"Non, j'habite en Angleterre. Et toi?","No, I live in England. And you?"
@@ -20,6 +20,10 @@ Radio: Living in Different Cities,,J'habite à Paris. J'étudie à Bordeaux.,I l
 Radio: Living in Different Cities,,"Ah, tu es étudiante.","Ah, you're a student."
 Radio: Living in Different Cities,,Oui. Et toi? Tu travaille.,Yes. And you? Do you work.
 Radio: Living in Different Cities,,Oui. Je travaille à Paris et à New York.,Yes. I work in Paris and in New York.
+Speak: Discuss Studies,,"Tu étudie l'anglais, non?","You study English, right?"
+Speak: Discuss Studies,,"Oui, j'étudie l'anglais.","Yes, I am studying English."
+Speak: Discuss Studies,,"Tu étudie l'espagnol, non?","You study Spanish, right?"
+Speak: Discuss Studies,,"Oui, j'étudie l'espagnol.","Yes, I study Spanish."
 Story: The Journalist,,Le journaliste.,The journalist.
 Story: The Journalist,,Pardon.,Sorry. / Excuse me. / Pardon?
 Story: The Journalist,,Bonjour! Je m'appelle Eddy.,Hello! My name is Eddy.
@@ -33,13 +37,13 @@ Story: The Journalist,,Super!,Great!
 Story: The Journalist,,Euh... je prends le train maintenant...,Uh... I'm taking the train now...
 Story: The Journalist,,Au revior!,Goodbye.
 Story: The Journalist,,Ah... Bonne journée!,Ah... Have a nice day!
-Radio: Names and Smells,,Bonjour. Comment tu t'appelles?,Hello. What's your name?
-Radio: Names and Smells,,Salut. J m’appelle Lisa. Et toi?,Hello. My name is Lisa. And you?
-Radio: Names and Smells,,Je m'appelle Léo. Tu es étudiante?,My name is Léo. Are you a student?
-Radio: Names and Smells,,"Oui j'étudie à une université américaine. Et toi, tu travailles?","Yes, I study at an American university. And you, do you work?"
-Radio: Names and Smells,,"Oui, je travaille ici en France.","Yes, I work here in France."
-Radio: Names and Smells,,"Ah, tu habites en France?","Ah, you live in France?"
-Radio: Names and Smells,,"Non, j'habite en Angleterre.","No, I live in England."
+Radio: Names and Smells - Falstaff’s Guide to Humans,,Bonjour. Comment tu t'appelles?,Hello. What's your name?
+Radio: Names and Smells - Falstaff’s Guide to Humans,,Salut. J m’appelle Lisa. Et toi?,Hello. My name is Lisa. And you?
+Radio: Names and Smells - Falstaff’s Guide to Humans,,Je m'appelle Léo. Tu es étudiante?,My name is Léo. Are you a student?
+Radio: Names and Smells - Falstaff’s Guide to Humans,,"Oui j'étudie à une université américaine. Et toi, tu travailles?","Yes, I study at an American university. And you, do you work?"
+Radio: Names and Smells - Falstaff’s Guide to Humans,,"Oui, je travaille ici en France.","Yes, I work here in France."
+Radio: Names and Smells - Falstaff’s Guide to Humans,,"Ah, tu habites en France?","Ah, you live in France?"
+Radio: Names and Smells - Falstaff’s Guide to Humans,,"Non, j'habite en Angleterre.","No, I live in England."
 Radio: Students Abroad,,Salut Léo! tu habites ici? ,Hello Leo! Do you live here?
 Radio: Students Abroad,,"Oui, j'habite en France. Et toi? ","Yes, I live in France. And you?"
 Radio: Students Abroad,,J'habite en Espagne. Tu travailles ici?,I live in Spain. Do you work here?
@@ -64,3 +68,10 @@ Adventure: Nice to Meet You,,livre,book or pound
 Adventure: Nice to Meet You,,ordinateur,computer
 Adventure: Nice to Meet You,,tableau,"painting, board, chart"
 Adventure: Nice to Meet You,,Un moment,A moment
+Radio: Train Station Talk - Lucy is Listening,,Salut. Je suis Lisa.,Please provide the French word you would like to translate.
+Radio: Train Station Talk - Lucy is Listening,,Salut. Je m'appelle Louis.,Hi. My name is Louis.
+Radio: Train Station Talk - Lucy is Listening,,Tu habites ici?,Do you live here?
+Radio: Train Station Talk - Lucy is Listening,,"Oui j'habite à Bordeaux, et toi?","Yes, I live in Bordeaux, and you?"
+Radio: Train Station Talk - Lucy is Listening,,J'habite à Paris.,I live in Paris.
+Radio: Train Station Talk - Lucy is Listening,,Tu travailles à Paris?,Do you work in Paris?
+Radio: Train Station Talk - Lucy is Listening,,"Oui, je travaille à Paris et à New York.","Yes, I work in Paris and in New York."

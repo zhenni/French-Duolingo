@@ -20,11 +20,11 @@ Radio: Pets and Conversation,,Très bien. Merci. Tu as un animal de compagnie,Ve
 Radio: Pets and Conversation,,"Oui, j'ai un chat. Et toi?","Yes, I have a cat. And you?"
 Radio: Pets and Conversation,,"Non, mais mon père a un chien.","No, but my father has a dog."
 Radio: Pets and Conversation,,"Ah, c'est chouette!","Ah, that's cool!"
-Radio: Paris Garden Chat,,"Bonjour, je m'appelle Marie. Ma famille habite à Paris.","Hello, my name is Marie. My family lives in Paris."
-Radio: Paris Garden Chat,,Mon père est français. ,My father is French.
-Radio: Paris Garden Chat,,Ma mère est aussi française.,My mother is also French.
-Radio: Paris Garden Chat,,J'ai un jardin à Paris.,I have a garden in Paris.
-Radio: Paris Garden Chat,,"Dan le jardin, je joue avec mon animal de compagnie, un chat.","In the garden, I play with my pet, a cat."
+Radio: Paris Garden Chat - Late Nights with Lin,,"Bonjour, je m'appelle Marie. Ma famille habite à Paris.","Hello, my name is Marie. My family lives in Paris."
+Radio: Paris Garden Chat - Late Nights with Lin,,Mon père est français. ,My father is French.
+Radio: Paris Garden Chat - Late Nights with Lin,,Ma mère est aussi française.,My mother is also French.
+Radio: Paris Garden Chat - Late Nights with Lin,,J'ai un jardin à Paris.,I have a garden in Paris.
+Radio: Paris Garden Chat - Late Nights with Lin,,"Dan le jardin, je joue avec mon animal de compagnie, un chat.","In the garden, I play with my pet, a cat."
 Speak: Ask for Names,,Comment s'appelle ton frère?,What's your brother's name?
 Speak: Ask for Names,,Mon frère s'appelle Marc.,My brother's name is Marc.
 Speak: Ask for Names,,Comment s'appelle ton père?,What's your father's name?
@@ -35,13 +35,13 @@ Story: Zari's Family,,Euh... Qui va au restaurant? J'étudie...,Uh... Who is goi
 Story: Zari's Family,,"Mon grand-père, ma grand-mère, ma mère, mon père, ma sœur. Et mon cousin.","My grandfather, my grandmother, my mother, my father, my sister. And my cousin."
 Story: Zari's Family,,"Ah, ton cousin?","Ah, your cousin?"
 Story: Zari's Family,,"Il est où, le restaurant.",Where is the restaurant.
-Radio: Family Origins,,"Bonjour Louis, comment ça va?","Hello Louis, how are you?"
-Radio: Family Origins,,"Salut, Lisa. Je vais bien. Merci. Et toi?","Hello, Lisa. I'm well. Thank you. And you?"
-Radio: Family Origins,,"Bien, merci! Ta sœur s'appelle Julia?","Well, thank you! Is your sister named Julia?"
-Radio: Family Origins,,"Non, c'est ma fille qui s'appelle Julia.","No, it's my daughter whose name is Julia."
-Radio: Family Origins,,Oh d'accord. Ta mère est française?,Oh okay. Is your mother French?
-Radio: Family Origins,,"Oui, et mon père habite en Italie.","Yes, and my father lives in Italy."
-Radio: Family Origins,,C'est chouette. Ma famille habite à Paris,That's cool/nice. My family lives in Paris.
+Radio: Family Origins - Falstaff’s Guide to Humans,,"Bonjour Louis, comment ça va?","Hello Louis, how are you?"
+Radio: Family Origins - Falstaff’s Guide to Humans,,"Salut, Lisa. Je vais bien. Merci. Et toi?","Hello, Lisa. I'm well. Thank you. And you?"
+Radio: Family Origins - Falstaff’s Guide to Humans,,"Bien, merci! Ta sœur s'appelle Julia?","Well, thank you! Is your sister named Julia?"
+Radio: Family Origins - Falstaff’s Guide to Humans,,"Non, c'est ma fille qui s'appelle Julia.","No, it's my daughter whose name is Julia."
+Radio: Family Origins - Falstaff’s Guide to Humans,,Oh d'accord. Ta mère est française?,Oh okay. Is your mother French?
+Radio: Family Origins - Falstaff’s Guide to Humans,,"Oui, et mon père habite en Italie.","Yes, and my father lives in Italy."
+Radio: Family Origins - Falstaff’s Guide to Humans,,C'est chouette. Ma famille habite à Paris,That's cool/nice. My family lives in Paris.
 Speak: Ask about Locations,,Où habite ton frère?,Where does your brother live?
 Speak: Ask about Locations,,Mon frère habite en Italie.,My brother lives in Italy.
 Speak: Ask about Locations,,Où habite ta famille?,Where does your family live?
@@ -70,3 +70,7 @@ New words - Adventure,,utile,useful
 New words - Adventure,,chaise,chair
 New words - Adventure,,bagages,luggage
 New words - Adventure,,l'hôtel,the hotel
+Radio: Brother’s Cat - Lily and Strangers,,"Salut, je m'appelle Omar. Ma famille habite en France.","Hello, my name is Omar. My family lives in France."
+Radio: Brother’s Cat - Lily and Strangers,,Mon père est français et ma mère est italienne. ,My father is French and my mother is Italian.
+Radio: Brother’s Cat - Lily and Strangers,,Elle habite en Italie avec ma grand-mère.,She lives in Italy with my grandmother.
+Radio: Brother’s Cat - Lily and Strangers,,"J'ai un frère et une sœur. Mon frère a un animal de compagnie, un chat.","I have a brother and a sister. My brother has a pet, a cat."
