@@ -1,6 +1,31 @@
 // Morandi palette (soft muted colors)
 const morandiColors = ["#AAB8AB", "#97A5C0", "#8D8FA4", "#BFB3B3", "#D3BBB7"];
 
+// load the summary
+let summaryCache = new Map(); // section-name -> summary HTML
+
+async function initSummaries() {
+  try {
+    const response = await fetch('sections/summary.csv');
+    const text = await response.text();
+    const result = Papa.parse(text, {
+      header: true,
+      skipEmptyLines: true
+    });
+    
+    // Store each summary by its section-name (e.g., "sec1-1")
+    result.data.forEach(row => {
+      summaryCache.set(row['section-name'], row.summary);
+    });
+  } catch (err) {
+    console.error("Error loading summary.csv:", err);
+  }
+}
+
+// Call this once on page load
+initSummaries();
+
+
 // Load CSV
 async function loadCSV(path) {
   const response = await fetch(path);
@@ -27,9 +52,17 @@ async function loadCSV(path) {
 
 
 // Render blocks
-function renderWordBlocks(data) {
+function renderWordBlocks(data, summaryHtml = "") {
   const container = document.getElementById("word-blocks-container");
   container.innerHTML = "";
+
+  // 1. If a summary exists, inject it at the top
+  if (summaryHtml) {
+    const summaryDiv = document.createElement("div");
+    summaryDiv.className = "unit-summary-wrapper";
+    summaryDiv.innerHTML = summaryHtml; // The CSV contains the full <div class='unit-summary'>...</div>
+    container.appendChild(summaryDiv);
+  }
 
   data.forEach((block, index) => {
     const blockDiv = document.createElement("div");
@@ -126,16 +159,20 @@ const container = document.getElementById("word-blocks-container");
 const cache = new Map(); // csvPath → parsed data
 
 async function loadSection(csvPath) {
-  // Already loaded → reuse
+  // Extract "sec1-1" from "sections/sec1-1.csv"
+  const sectionName = csvPath.split('/').pop().replace('.csv', '');
+  const summaryHtml = summaryCache.get(sectionName) || "";
+
+  // Check cache for word list data
   if (cache.has(csvPath)) {
-    renderWordBlocks(cache.get(csvPath));
+    renderWordBlocks(cache.get(csvPath), summaryHtml);
     return;
   }
 
   try {
     const data = await loadCSV(csvPath);
     cache.set(csvPath, data);
-    renderWordBlocks(data);
+    renderWordBlocks(data, summaryHtml);
   } catch (err) {
     console.error("Failed to load:", csvPath, err);
   }
@@ -152,6 +189,9 @@ async function loadSection(csvPath) {
 //     loadSection(btn.dataset.csv);
 //   });
 // });
+
+
+
 
 
 // Start all sections folded

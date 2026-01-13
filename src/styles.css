@@ -197,6 +197,80 @@ body {
 }
 
 
+/* Unit Summary Container */
+.unit-summary {
+  background-color: #F5F3EE;
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  color: #555;
+  line-height: 1.6;
+}
+
+/* Summary Main Title */
+.unit-summary h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #4E4A44;
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #DDD8D1;
+}
+
+/* Sub-headings (Vocabulary/Grammar) */
+.unit-summary h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #4E4A44;
+  margin: 20px 0 10px;
+  display: flex;
+  align-items: center;
+}
+
+/* Lists */
+.unit-summary ul {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.unit-summary li {
+  margin-bottom: 8px;
+  position: relative;
+  padding-left: 20px;
+}
+
+/* Custom Bullet Points */
+.unit-summary li::before {
+  content: "•";
+  color: #B8AFAF; /* Using your button color for accents */
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+/* Nested Lists for translations */
+.unit-summary ul ul {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 1px solid #DDD8D1;
+}
+
+/* Pro-tip Styling */
+.pro-tip {
+  display: block;
+  background-color: #EFEDE8; /* Slightly darker than card */
+  border-left: 4px solid #B8AFAF;
+  padding: 12px 16px;
+  margin: 10px 0 20px;
+  border-radius: 0 8px 8px 0;
+  font-size: 0.95rem;
+  font-style: italic;
+}
+
+/* Mobile adjustments */
 @media (max-width: 600px) {
   #sections{
     margin-bottom: 12px;
@@ -219,6 +293,12 @@ body {
   }
   .word-table{
     font-size: 0.8rem;
+  }
+  .unit-summary {
+    padding: 15px;
+  }
+  .unit-summary h2 {
+    font-size: 1.2rem;
   }
   body {
     padding: 10px;
