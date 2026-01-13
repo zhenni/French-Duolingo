@@ -226,7 +226,8 @@ body {
   transition: max-height 0.4s ease-out, padding 0.3s ease;
   background-color: #F5F3EE;
   border-radius: 12px;
-  padding: 10px 20px; 
+  padding: 0px 20px; 
+  margin: 10px 0px;
 }
 
 /* Typography inside Summary */
@@ -273,12 +274,15 @@ body {
     font-size: 0.8rem;
   }
   .unit-summary {
-    padding: 15px;
+    padding: 0px 10px;
+    margin: 5px 0px;
   }
   .unit-summary h2 {
     font-size: 1.2rem;
   }
-  .summary-title { font-size: 1rem; }
+  .summary-title { 
+    font-size: 1rem; 
+  }
   body {
     padding: 10px;
   }
