@@ -165,11 +165,33 @@ document.querySelectorAll('.unit-list').forEach((list, index) => {
 });
 
 // Fold/unfold sections when header clicked
-document.querySelectorAll('.section-header').forEach(header => {
+document.querySelectorAll('.section-header').forEach((header, index) => {
   header.addEventListener('click', () => {
     const unitList = header.nextElementSibling; // <ul class="unit-list">
     unitList.classList.toggle('folded');
+
+    // Save state
+    const states = JSON.parse(localStorage.getItem('sectionStates') || '{}');
+    states[index] = unitList.classList.contains('folded');
+    localStorage.setItem('sectionStates', JSON.stringify(states));
   });
+});
+
+document.querySelectorAll('.unit-list').forEach((list, index) => {
+  const saved = localStorage.getItem('sectionStates');
+
+  if (!saved) {
+    // FIRST VISIT ONLY
+    if (index === 0) {
+      list.classList.remove('folded');
+    } else {
+      list.classList.add('folded');
+    }
+  } else {
+    // RESTORE SAVED STATE
+    const states = JSON.parse(saved);
+    list.classList.toggle('folded', states[index]);
+  }
 });
 
 
