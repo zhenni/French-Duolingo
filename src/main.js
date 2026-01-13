@@ -58,10 +58,39 @@ function renderWordBlocks(data, summaryHtml = "") {
 
   // 1. If a summary exists, inject it at the top
   if (summaryHtml) {
-    const summaryDiv = document.createElement("div");
-    summaryDiv.className = "unit-summary-wrapper";
-    summaryDiv.innerHTML = summaryHtml; // The CSV contains the full <div class='unit-summary'>...</div>
-    container.appendChild(summaryDiv);
+    const summaryWrapper = document.createElement("div");
+    summaryWrapper.className = "unit-summary-wrapper";
+
+    summaryWrapper.innerHTML = `
+      <div class="summary-header" id="summaryHeader">
+        <span class="summary-title">💡 Le Résumé (Unit Summary)</span>
+        <span class="fold-icon">▼</span>
+      </div>
+      <div class="unit-summary" id="summaryContent">
+        ${summaryHtml}
+      </div>
+    `;
+    
+    container.appendChild(summaryWrapper);
+
+    const header = summaryWrapper.querySelector("#summaryHeader");
+    const content = summaryWrapper.querySelector("#summaryContent");
+    const icon = summaryWrapper.querySelector(".fold-icon");
+
+    header.onclick = () => {
+      const isFolded = content.classList.contains("folded");
+      
+      if (isFolded) {
+        content.classList.remove("folded");
+        // Using scrollHeight allows for a smooth dynamic transition
+        content.style.maxHeight = content.scrollHeight + "px";
+        icon.style.transform = "rotate(0deg)";
+      } else {
+        content.classList.add("folded");
+        content.style.maxHeight = "0px";
+        icon.style.transform = "rotate(-90deg)";
+      }
+    };
   }
 
   data.forEach((block, index) => {
