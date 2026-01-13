@@ -226,7 +226,7 @@ body {
   transition: max-height 0.4s ease-out, padding 0.3s ease;
   background-color: #F5F3EE;
   border-radius: 12px;
-  padding: 0 20px; /* Padding changes via JS when open */
+  padding: 10px 20px; 
 }
 
 /* Typography inside Summary */
