@@ -1,176 +1,453 @@
 section,unit,section-name,summary
 1,1,sec1-1,"<div class='unit-summary'>
-<h3>Key Vocabulary</h3>
+<h2>A1 French Unit Summary</h2>
+<h3>Vocabulaire Clé (Key Vocabulary)</h3>
 <ul>
-<li><strong>Greetings/Introductions:</strong>
+<li><strong>Salutations et Phrases Communes:</strong> <strong>Bonjour</strong> (Hello), <strong>Non</strong> (No), <strong>Oui</strong> (Yes), <strong>Ah</strong> (Ah).</li>
+<li><strong>Noms (Nouns):</strong> <strong>un chat</strong> (a cat), <strong>un chien</strong> (a dog), <strong>un croissant</strong> (a croissant), <strong>une pizza</strong> (a pizza), <strong>une orange</strong> (an orange), <strong>un garçon</strong> (a boy), <strong>une fille</strong> (a girl), <strong>un homme</strong> (a man), <strong>une femme</strong> (a woman).</li>
+<li><strong>Verbes (Verbs):</strong> <strong>mange</strong> (eats/is eating), <strong>ai</strong> (have), <strong>as</strong> (have).</li>
+</ul>
+<h3>Grammaire Essentielle (Essential Grammar)</h3>
+<h4>1. Les Pronoms Sujets et le Verbe Être (Subject Pronouns and the Verb To Be)</h4>
 <ul>
-<li><strong>Bonjour</strong> (Hello)</li>
-<li><strong>Je suis Marie/Paul/Louis</strong> (I am Marie/Paul/Louis)</li>
-<li><strong>Tu es Marc?</strong> (Are you Marc?)</li>
+<li>The verb ""to be"" (<strong>être</strong>) is introduced with the first three persons: <strong>je suis</strong> (I am), <strong>tu es</strong> (you are, singular informal), <strong>il est</strong> (he is/it is, masculine), <strong>elle est</strong> (she is/it is, feminine).</li>
+<li>Use <strong>Je suis Marie</strong> (I'm Marie) to introduce yourself.</li>
+<li>Use <strong>Tu es Marc?</strong> (Are you Marc?) to ask someone's name/identity.</li>
 </ul>
-</li>
-<li><strong>People:</strong>
+<p class=""pro-tip"">Remember that <strong>tu es</strong> is informal and used with friends, family, or people your age. French distinguishes between the formal ""you"" (<strong>vous</strong>) and informal ""you"" (<strong>tu</strong>).</p>
+<h4>2. Le Genre des Noms (Gender of Nouns)</h4>
 <ul>
-<li><strong>un garçon</strong> (a boy)</li>
-<li><strong>une fille</strong> (a girl)</li>
-<li><strong>un homme</strong> (a man)</li>
-<li><strong>une femme</strong> (a woman)</li>
+<li>All French nouns are either masculine or feminine.</li>
+<li>Masculine nouns use the article <strong>un</strong> (a/an): e.g., <strong>un chat</strong>, <strong>un chien</strong>, <strong>un homme</strong>, <strong>un garçon</strong>.</li>
+<li>Feminine nouns use the article <strong>une</strong> (a/an): e.g., <strong>une pizza</strong>, <strong>une femme</strong>, <strong>une fille</strong>.</li>
+<li><strong>C'est un chat</strong> means ""It's a cat.""</li>
 </ul>
-</li>
-<li><strong>Food/Animals:</strong>
+<p class=""pro-tip"">Do not guess the gender of a noun based on its meaning! Learn the noun with its article (<strong>un</strong> or <strong>une</strong>) from the start. For example, <strong>une orange</strong> is feminine, even though its meaning is gender-neutral in English.</p>
+<h4>3. Le Verbe Avoir (The Verb To Have)</h4>
 <ul>
-<li><strong>un chat</strong> (a cat)</li>
-<li><strong>un chien</strong> (a dog)</li>
-<li><strong>un croissant</strong> (a croissant)</li>
-<li><strong>une pizza</strong> (a pizza)</li>
-<li><strong>une orange</strong> (an orange)</li>
+<li>The verb ""to have"" (<strong>avoir</strong>) is used to talk about possessions.</li>
+<li>Present tense forms used: <strong>tu as</strong> (you have), <strong>j'ai</strong> (I have). Note the contraction <strong>j'ai</strong> used before a vowel sound (instead of <strong>je ai</strong>).</li>
+<li>Use <strong>Tu as un chien?</strong> (Do you have a dog?) to ask about pets.</li>
 </ul>
-</li>
-</ul>
-<h3>Grammar Focus</h3>
-<h4>1. The Verb Être (To Be)</h4>
-<ul>
-<li>Conjugations introduced: <strong>je suis</strong> (I am), <strong>tu es</strong> (you are, singular informal), <strong>il est</strong> (he/it is), <strong>elle est</strong> (she is).</li>
-<li>Used for introductions and descriptions (e.g., <strong>Je suis un garçon</strong>).</li>
-</ul>
-<p class="pro-tip">Pro-tip: Beginners often confuse <strong>tu es</strong> and <strong>je suis</strong>. Remember that <strong>suis</strong> starts with 's' like 'self' (I) and <strong>es</strong> ends with 's' like 'you' (tu).</p>
-<h4>2. The Verb Manger (To Eat)</h4>
-<ul>
-<li>Used in simple present tense for actions: <strong>Un chat mange</strong> (A cat eats/is eating), <strong>Tu manges une pizza?</strong> (Are you eating a pizza?), <strong>je mange</strong> (I am eating).</li>
-</ul>
-<p class="pro-tip">Pro-tip: When forming questions like ""Are you eating...?"", you can simply use rising intonation on the statement form (e.g., <strong>Tu manges une pizza?</strong>). In A1, avoid complicated inversions.</p>
-<h4>3. Possession (Avoir - To Have)</h4>
-<ul>
-<li>The phrase <strong>Tu as un chien?</strong> (You have a dog?) and the affirmative answer <strong>Oui, j'ai un chien.</strong> (Yes, I have a dog.) introduce the verb <strong>avoir</strong> (to have).</li>
-</ul>
-<p class="pro-tip">Pro-tip: The form <strong>j'ai</strong> is a contraction of <strong>je ai</strong>. This contraction always happens when <strong>je</strong> is followed by a word starting with a vowel sound (like 'ai' in <strong>avoir</strong>).</p>
-<h4>4. Noun Gender and Articles</h4>
-<ul>
-<li>French nouns are either masculine (preceded by <strong>un</strong>) or feminine (preceded by <strong>une</strong>).</li>
-<li>Masculine examples: <strong>un garçon</strong>, <strong>un homme</strong>, <strong>un chien</strong>.</li>
-<li>Feminine examples: <strong>une fille</strong>, <strong>une femme</strong>, <strong>une pizza</strong>.</li>
-<li>The indefinite article <strong>un/une</strong> means ""a"" or ""an"".</li>
-</ul>
-<p class="pro-tip">Pro-tip: You must learn the gender (<strong>un</strong> or <strong>une</strong>) with every new noun. Do not assume gender based on English; for example, <strong>une pizza</strong> is feminine, but <strong>un croissant</strong> is masculine.</p>
+<p class=""pro-tip"">When asking questions like ""Do you have..."" (<strong>Tu as...</strong>), beginners often forget the standard word order. Simply raising your voice at the end of the statement (intonation) is the easiest way to form a question in A1 French.</p>
 </div>"
 1,2,sec1-2,"<div class='unit-summary'>
-<h3>Key A1 Vocabulary: Greetings, Farewells, and Basic Responses</h3>
+<h3>Key Vocabulary Summary (A1 Greetings & Farewells)</h3>
 <ul>
-<li><strong>Greetings and Inquiries:</strong>
+<li><strong>Greetings and Politeness:</strong>
 <ul>
 <li><strong>Bonjour</strong> (Hello)</li>
-<li><strong>Bonjour, commen ça va?</strong> (Hello, how are you doing?/Hello, how are you?)</li>
-<li><strong>Tu mange un croissant?</strong> (Do you eat a croissant?)</li>
-</ul>
-</li>
-<li><strong>Responses to Inquiries:</strong>
-<ul>
-<li><strong>Ça va très bien, et toi?</strong> (It's going very well, and you?)</li>
-<li><strong>Ça va.</strong> (It's okay.)</li>
-<li><strong>Ça va bien, merci. Et toi?</strong> (Everything is fine, thank you. And you?)</li>
-<li><strong>Bien, merci.</strong> (Okay, well, thank you./Fine, thank you.)</li>
-<li><strong>Merci beaucoup.</strong> (Thank you very much.)</li>
-<li><strong>Non, je mange une pizza.</strong> (No, I'm eating a pizza.)</li>
+<li><strong>Merci beaucoup</strong> (Thank you very much)</li>
+<li><strong>Bien</strong> / <strong>très bien</strong> / <strong>ça va bien</strong> (Fine / very well / it's going well)</li>
+<li><strong>Ça va</strong> (It's okay/fine)</li>
+<li><strong>Et toi?</strong> (And you? - informal)</li>
 </ul>
 </li>
 <li><strong>Farewells:</strong>
 <ul>
 <li><strong>Au revoir</strong> (Goodbye)</li>
-<li><strong>Au revoir, bonne journée.</strong> (Goodbye, have a nice day.)</li>
-<li><strong>Bonne journée!</strong> (Have a nice day!)</li>
-<li><strong>Bon, à bientôt, alors?</strong> (Well, see you soon, then?)</li>
-<li><strong>Oui, à bientôt.</strong> (Yes, see you soon.)</li>
-<li><strong>Bon, à demain, alors?</strong> (All righty, then. / Well, see you tomorrow, then?)</li>
-<li><strong>Oui, à demain.</strong> (Yes, see you tomorrow.)</li>
+<li><strong>Bonne journée</strong> (Have a nice day)</li>
+<li><strong>À bientôt</strong> (See you soon)</li>
+<li><strong>À demain</strong> (See you tomorrow)</li>
+</ul>
+</li>
+<li><strong>Food Vocabulary:</strong>
+<ul>
+<li><strong>un croissant</strong> (a croissant)</li>
+<li><strong>une pizza</strong> (a pizza)</li>
 </ul>
 </li>
 </ul>
-<h3>A1 Grammar Highlights</h3>
-<h4>1. Informal Address: Using ""Tu""</h4>
+<h3>Grammar Focus: Simple Questions and Responses</h3>
 <ul>
-<li>The phrases use the informal pronoun <strong>tu</strong> (you) and its corresponding verb forms, like in <strong>et toi?</strong> and <strong>Tu mange un croissant?</strong>.</li>
-<li>The informal <strong>tu</strong> is used when speaking to friends, family, children, or people your own age.</li>
-</ul>
-<p class="pro-tip">Pro-tip: A common beginner mistake is confusing <strong>tu</strong> (informal) with <strong>vous</strong> (formal/plural). When in doubt with adults or people you don't know well, always use <strong>vous</strong> to be polite.</p>
-<h4>2. Basic Responses using ""Ça va""</h4>
+<li><strong>Asking How Someone Is:</strong>
 <ul>
-<li>The phrase <strong>Ça va</strong> literally means ""it goes"" but is used to ask and respond to ""How are you?""</li>
-<li>Responses include <strong>Ça va très bien</strong> (Very well), <strong>Ça va bien</strong> (Fine), or simply <strong>Ça va</strong> (Okay/Fine).</li>
+<li>The phrase <strong>Comment ça va?</strong> (How are you doing?) is a very common way to greet someone.</li>
+<li>The response often uses <strong>Ça va...</strong> followed by a state (e.g., <strong>Ça va bien</strong>, <strong>Ça va très bien</strong>).</li>
+<li>To return the question in an informal setting, use <strong>Et toi?</strong> (And you?).</li>
 </ul>
-<p class="pro-tip">Pro-tip: When someone asks <strong>Ça va?</strong>, always remember to ask back using <strong>et toi?</strong> (informal) or <strong>et vous?</strong> (formal) to maintain politeness, as seen in the phrase <strong>Ça va bien, merci. Et toi?</strong></p>
+</li>
+<p class=""pro-tip"">Pro-tip: Do not confuse <strong>Comment ça va?</strong> (How are you?) with <strong>Comment tu t'appelles?</strong> (What is your name?). Always remember to include the verb <strong>va</strong> or <strong>allez</strong> when asking about well-being.</p>
+<li><strong>Basic Verbs and Negation:</strong>
+<ul>
+<li>The phrases show basic usage of verbs like <strong>mange</strong> (eat) and <strong>suis</strong>/<strong>est</strong> (implied state of being, e.g., <strong>Ça va</strong>).</li>
+<li>Negation in French typically involves <strong>ne...pas</strong> (e.g., <strong>Non, je ne mange pas une pizza.</strong> - <em>The provided example simplifies this to just ""Non"" or uses an affirmative verb like ""mange""</em>). The example <strong>Non, je mange une pizza</strong> shows a simple negative response followed by an affirmative statement.</li>
+</ul>
+</li>
+<p class=""pro-tip"">Pro-tip: While the content uses simple ""Non"" to refuse, remember that proper French negation uses two parts: <strong>ne</strong> before the verb and <strong>pas</strong> after it (e.g., <strong>je ne mange pas</strong>). Practice using the full negation early on.</p>
+</ul>
 </div>"
 1,3,sec1-3,"<div class='unit-summary'>
-<h3>Vocabulaire Clé (Key Vocabulary)</h3>
+<h3>A1 Unit Summary: Introductions, Languages, and Preferences</h3>
+<h4>Key Vocabulary</h4>
 <ul>
-<li><strong>Salutations & Basic Phrases:</strong>
+<li><strong>Greetings/Politeness:</strong> <strong>Bonjour</strong> (Hello), <strong>Excuse-moi</strong> (Excuse me), <strong>Merci</strong> (Thank you).</li>
+<li><strong>Self/Identity:</strong> <strong>Je m'appelle</strong> (My name is), <strong>Mon ami s'appelle</strong> (My friend's name is), <strong>Qui est</strong> (Who is), <strong>Mon passeport</strong> (My passport).</li>
+<li><strong>Nationalities:</strong> <strong>français/française</strong> (French), <strong>américain/américaine</strong> (American), <strong>espagnol/espagnole</strong> (Spanish), <strong>Mexicain</strong> (Mexican), <strong>anglaise</strong> (English).</li>
+<li><strong>Food/Preferences:</strong> <strong>les croissants</strong> (croissants), <strong>les éclair</strong> (éclairs), <strong>les gâteaux</strong> (cakes), <strong>les fruits</strong> (fruits).</li>
+<li><strong>Verbs/Expressions:</strong> <strong>Tu parles français?</strong> (Do you speak French?), <strong>Je ne suis pas disponible pour l'instant</strong> (I am not available at the moment), <strong>Tu préfères</strong> (Do you prefer).</li>
+</ul>
+<h4>Grammar Points</h4>
+<h5>Verb: Être (To Be)</h5>
 <ul>
-<li><strong>Bonjour</strong> (Hello)</li>
-<li><strong>Excuse-moi</strong> (Excuse me)</li>
-<li><strong>Comment tu t'appelles?</strong> (What is your name?)</li>
+<li>Conjugations seen: <strong>Je suis</strong> (I am), <strong>Tu es</strong> (You are, informal), <strong>Il est</strong> (He is), <strong>Elle est</strong> (She is).</li>
+<li>This verb is essential for stating identity and nationality (e.g., <strong>Je suis française</strong>).</li>
+</ul>
+<p class=""pro-tip"">Beginners often forget to use <strong>être</strong> when stating nationality. Remember to say <strong>Je suis américain</strong>, not just <strong>Je américain</strong>.</p>
+<h5>Verb: Parler (To Speak) - Regular -ER Verb</h5>
+<ul>
+<li>Conjugations seen: <strong>Je parle</strong> (I speak), <strong>Tu parles</strong> (You speak), <strong>Il parle</strong> (He speaks), <strong>Elle parle</strong> (She speaks).</li>
+<li>The conjugation pattern for <strong>parler</strong> is typical for most regular French verbs ending in -er.</li>
+</ul>
+<p class=""pro-tip"">The pronunciations for <strong>Je parle</strong>, <strong>Tu parles</strong>, <strong>Il parle</strong>, and <strong>Elle parle</strong> sound identical, even though the spelling changes. Focus on clear pronunciation and using the correct subject pronoun (<strong>Je</strong>, <strong>Tu</strong>, <strong>Il</strong>, <strong>Elle</strong>).</p>
+<h5>Verb: Préférer (To Prefer) - Regular -ER Verb Variation</h5>
+<ul>
+<li>Conjugations seen: <strong>Je préfère</strong> (I prefer), <strong>Tu préfères</strong> (Do you prefer/You prefer).</li>
+<li>Used to express likes and preferences (e.g., <strong>Je préfère les gâteaux</strong>).</li>
+</ul>
+<p class=""pro-tip"">Notice the accent change in the infinitive (<strong>préférer</strong>) compared to the conjugated forms (<strong>préfère</strong>, <strong>préfères</strong>). The change from 'é' to 'è' helps indicate pronunciation changes.</p>
+<h5>Gender Agreement (Feminine vs. Masculine)</h5>
+<ul>
+<li>Nationalities change form depending on the subject's gender: <strong>Il est américain</strong> (Masculine) vs. <strong>Elle est américaine</strong> (Feminine).</li>
+<li>The feminine form often adds an 'e' to the masculine form (e.g., <strong>espagnol</strong> vs. <strong>espagnole</strong>).</li>
+</ul>
+<p class=""pro-tip"">Always check the gender of the person you are describing. If the subject is female, you must use the feminine form of the adjective: <strong>Sarah est espagnole</strong>.</p>
+</div>"
+1,4,sec1-4,"<div class='unit-summary'>
+<h2>A1 Unit Summary: Introductions, Location, and Work/Study</h2>
+<h3>Vocabulary</h3>
+<ul>
+<li><strong>Greetings and Farewells:</strong>
+<ul>
+<li><strong>Bonjour!</strong> (Hello!)</li>
+<li><strong>Salut.</strong> (Hi/Hello.)</li>
+<li><strong>Au revoir!</strong> (Goodbye.)</li>
+<li><strong>Bonne journée!</strong> (Have a nice day!)</li>
+<li><strong>Pardon.</strong> (Sorry/Excuse me.)</li>
+<li><strong>Enchantée.</strong> (Nice to meet you. - feminine)</li>
+<li><strong>Bienvenue!</strong> (Welcome!)</li>
+</ul>
+</li>
+<li><strong>Personal Information:</strong>
+<ul>
+<li><strong>Comment tu t'appelles?</strong> (What's your name?)</li>
 <li><strong>Je m'appelle...</strong> (My name is...)</li>
-<li><strong>Merci</strong> (Thank you)</li>
-<li><strong>Mon passeport</strong> (My passport)</li>
-<li><strong>Je ne suis pas disponible pour l'instant</strong> (I am not available at the moment)</li>
+<li><strong>Et toi?</strong> (And you? - informal)</li>
+<li><strong>Comment ça va?</strong> (How are you?)</li>
+<li><strong>Ça va bien.</strong> (I'm doing well.)</li>
+<li><strong>Oui.</strong> (Yes.)</li>
+<li><strong>Non.</strong> (No.)</li>
 </ul>
 </li>
-<li><strong>Nationalités & Identity:</strong>
+<li><strong>Professions and Status:</strong>
 <ul>
-<li><strong>français/française</strong> (French)</li>
-<li><strong>américain/américaine</strong> (American)</li>
-<li><strong>mexicain/mexicaine</strong> (Mexican)</li>
-<li><strong>espagnol/espagnole</strong> (Spanish)</li>
-<li><strong>Qui est...?</strong> (Who is...?)</li>
+<li><strong>journaliste</strong> (journalist)</li>
+<li><strong>professeur/professeure</strong> (teacher/professor)</li>
+<li><strong>étudiant/étudiante</strong> (student)</li>
+<li><strong>professeur de sport</strong> (sports teacher)</li>
+<li><strong>professeur d'art</strong> (art teacher)</li>
 </ul>
 </li>
-<li><strong>Food & Preferences:</strong>
+<li><strong>Places and Objects:</strong>
 <ul>
-<li><strong>les croissants</strong> (croissants)</li>
-<li><strong>les éclairs</strong> (éclairs)</li>
-<li><strong>les gâteaux</strong> (cakes)</li>
-<li><strong>les fruits</strong> (fruit)</li>
+<li><strong>ici</strong> (here)</li>
+<li><strong>livre</strong> (book/pound)</li>
+<li><strong>ordinateur</strong> (computer)</li>
+<li><strong>tableau</strong> (painting, board, chart)</li>
+<li><strong>université</strong> (university)</li>
 </ul>
 </li>
 </ul>
-<h3>Grammaire et Verbes (Grammar and Verbs)</h3>
-<h4>1. Le Verbe ÊTRE (To Be) & Nationalities</h4>
+<h3>Grammar Rules</h3>
 <ul>
-<li>The verb <strong>être</strong> (to be) is used to express nationality and identity:
+<li><strong>The Verb ÊTRE (To Be):</strong>
 <ul>
-<li><strong>Je suis...</strong> (I am...)</li>
-<li><strong>Tu es...?</strong> (You are...?)</li>
-<li><strong>Il est...</strong> (He is...)</li>
-<li><strong>Elle est...</strong> (She is...)</li>
+<li>Used to state identity, profession, and status.</li>
+<li>Conjugation examples seen: <strong>Je suis</strong> (I am), <strong>Tu es</strong> (You are).</li>
+<li>Example: <strong>Je suis étudiant.</strong> (I am a student.)</li>
+</ul>
+<p class=""pro-tip"">Avoid translating word-for-word from English. In French, you do not need an article (like 'a') when stating a profession after <strong>être</strong>, unless you add an adjective. Say <strong>Je suis journaliste</strong>, not <strong>Je suis un journaliste</strong>.</p>
+</li>
+<li><strong>The Verb HABITER (To Live):</strong>
+<ul>
+<li>Used to indicate residence.</li>
+<li>Conjugation examples seen: <strong>J'habite</strong> (I live), <strong>Tu habites</strong> (You live), <strong>Marie habite</strong> (Marie lives).</li>
+<li>Prepositions for location: Use <strong>à</strong> for cities (<strong>J'habite à Paris.</strong>) and <strong>en</strong> for most countries that are feminine or start with a vowel (<strong>J'habite en France.</strong>, <strong>J'habite en Angleterre.</strong>).</li>
+</ul>
+<p class=""pro-tip"">Remember the difference between <strong>à</strong> (for cities) and <strong>en</strong> (for many countries). Also, <strong>habite</strong> is often contracted to <strong>J'habite</strong> because it starts with a vowel.</p>
+</li>
+<li><strong>The Verb TRAVAILLER (To Work):</strong>
+<ul>
+<li>Used to indicate employment.</li>
+<li>Conjugation examples seen: <strong>Je travaille</strong> (I work), <strong>Tu travailles</strong> (You work).</li>
+<li>Example: <strong>Je travaille à Paris.</strong> (I work in Paris.)</li>
+</ul>
+<p class=""pro-tip"">The pronunciation of the first person singular (<strong>Je travaille</strong>) and the second person singular (<strong>Tu travailles</strong>) is identical. Context is key!</p>
+</li>
+<li><strong>The Verb ÉTUDIER (To Study):</strong>
+<ul>
+<li>Used to indicate the act of studying.</li>
+<li>Conjugation examples seen: <strong>J'étudie</strong> (I study), <strong>Tu étudies</strong> (You study).</li>
+<li>Often followed by the subject (e.g., <strong>l'anglais</strong>, <strong>l'espagnol</strong>) or a location (<strong>à New York</strong>, <strong>en France</strong>).</li>
+</ul>
+<p class=""pro-tip"">Like <strong>habiter</strong>, <strong>étudie</strong> is often contracted to <strong>J'étudie</strong>. Be sure to include the preposition <strong>à</strong> when studying in a city (<strong>J'étudie à Paris</strong>).</p>
+</li>
+</ul>
+</div>"
+1,5,sec1-5,"<div class='unit-summary'>
+<h2>Vocabulary Summary</h2>
+<h3>Places and Destinations</h3>
+<ul>
+<li><strong>la gare</strong>: the train station</li>
+<li><strong>l'aéroport</strong>: the airport</li>
+<li><strong>un restaurant</strong> (français/mexicain): a restaurant (French/Mexican)</li>
+<li><strong>Paris</strong>, <strong>Lyon</strong>, <strong>Marseille</strong>, <strong>Espagne</strong>: cities and country</li>
+</ul>
+<h3>Transportation and Travel</h3>
+<ul>
+<li><strong>le train</strong>: the train</li>
+<li><strong>l'avion</strong>: the plane</li>
+<li><strong>la voiture</strong>: the car</li>
+<li><strong>un taxi</strong>: a taxi</li>
+<li><strong>le billet d'avion</strong>: the plane ticket</li>
+<li><strong>une valise</strong>: a suitcase</li>
+<li><strong>un passeport</strong>: a passport</li>
+</ul>
+<h3>Key Phrases</h3>
+<ul>
+<li><strong>Où est... s'il vous plaît?</strong>: Where is... please?</li>
+<li><strong>À bientôt!</strong>: See you soon!</li>
+<li><strong>Bonne journée.</strong>: Have a nice day.</li>
+<li><strong>Bon voyage!</strong>: Have a good trip!</li>
+<li><strong>près de la gare</strong>: near the station</li>
+</ul>
+<h2>Grammar Rules</h2>
+<h3>1. The verb <strong>Aller</strong> (To go)</h3>
+<ul>
+<li><strong>je vais</strong> (I go/I'm going)</li>
+<li><strong>tu vas</strong> (you go/you're going - informal)</li>
+<li><strong>il va</strong>, <strong>elle va</strong> (he/she goes)</li>
+<li><strong>on va</strong> (we go/we will)</li>
+</ul>
+<p class=""pro-tip"">Remember that <strong>aller</strong> is highly irregular. Use <strong>Je vais à</strong> (I am going to) when talking about a destination (e.g., <strong>Je vais à Paris</strong>).</p>
+<h3>2. The verb <strong>Avoir</strong> (To have)</h3>
+<ul>
+<li><strong>j'ai</strong> (I have)</li>
+<li><strong>tu as</strong> (you have - informal)</li>
+<li><strong>il a</strong>, <strong>elle a</strong> (he/she has)</li>
+</ul>
+<p class=""pro-tip"">Be careful with the spelling of <strong>tu as</strong>. It is not <strong>tu ai</strong>. Use <strong>j'ai</strong> before a vowel (e.g., <strong>J'ai un passeport</strong>).</p>
+<h3>3. Definite Articles</h3>
+<ul>
+<li><strong>le</strong>: used for masculine singular nouns (e.g., <strong>le garçon</strong>)</li>
+<li><strong>la</strong>: used for feminine singular nouns (e.g., <strong>la femme</strong>)</li>
+<li><strong>l'</strong>: used for singular nouns starting with a vowel or silent 'h' (e.g., <strong>l'homme</strong>, <strong>l'aéroport</strong>)</li>
+</ul>
+<p class=""pro-tip"">In French, almost all nouns have a gender (masculine or feminine). Always learn the noun with its article (e.g., <strong>un passeport</strong>, <strong>une valise</strong>) to remember its gender.</p>
+</div>"
+1,6,sec1-6,"<div class='unit-summary'>
+<h3>Key Vocabulary</h3>
+<h4>Family Members (La Famille)</h4>
+<ul>
+<li><strong>mon père</strong> (my father)</li>
+<li><strong>ma mère</strong> (my mother)</li>
+<li><strong>ton frère</strong> (your brother)</li>
+<li><strong>ta sœur</strong> (your sister)</li>
+<li><strong>son fils</strong> (his son)</li>
+<li><strong>sa fille</strong> (her daughter)</li>
+<li><strong>ma famille</strong> (my family)</li>
+<li><strong>mon grand-père</strong> (my grandfather)</li>
+<li><strong>ma grand-mère</strong> (my grandmother)</li>
+<li><strong>mon cousin</strong> (my cousin)</li>
+</ul>
+<h4>Pets (Les Animaux de Compagnie)</h4>
+<ul>
+<li><strong>un animal de compagnie</strong> (a pet)</li>
+<li><strong>un chat</strong> (a cat)</li>
+<li><strong>un chien</strong> (a dog)</li>
+</ul>
+<h4>General Words & Phrases</h4>
+<ul>
+<li><strong>habite</strong> (lives, from the verb habiter)</li>
+<li><strong>étudie</strong> (is studying)</li>
+<li><strong>chouette</strong> (nice, cool)</li>
+<li><strong>utile</strong> (useful)</li>
+<li><strong>d'accord</strong> (okay)</li>
+<li><strong>l'hôtel</strong> (the hotel)</li>
+<li><strong>qui s'appelle</strong> (whose name is)</li>
+</ul>
+<h3>Grammar Focus</h3>
+<h4>Possessive Adjectives (Adjectifs Possessifs)</h4>
+<ul>
+<li>Possessive adjectives like <strong>mon</strong>/<strong>ma</strong>/<strong>mes</strong> (my), <strong>ton</strong>/<strong>ta</strong>/<strong>tes</strong> (your), and <strong>son</strong>/<strong>sa</strong>/<strong>ses</strong> (his/her/its) must agree in gender and number with the NOUN they describe, not the owner.</li>
+<li>Use <strong>mon</strong>, <strong>ton</strong>, and <strong>son</strong> before masculine singular nouns (e.g., <strong>mon père</strong>, <strong>ton frère</strong>).</li>
+<li>Use <strong>ma</strong>, <strong>ta</strong>, and <strong>sa</strong> before feminine singular nouns (e.g., <strong>ma mère</strong>, <strong>ta sœur</strong>).</li>
+<li>To express possession (e.g., Marie's cat), use the structure: [Noun] + <strong>de</strong> + [Owner] (e.g., <strong>le chat de Marie</strong>).</li>
+</ul>
+<p class=""pro-tip"">Remember that the choice between <strong>mon</strong> and <strong>ma</strong> depends on the noun's gender. Even if the owner is female, you say <strong>son fils</strong> (her son) because <strong>fils</strong> is masculine.</p>
+<h4>Verb Usage and Questions</h4>
+<ul>
+<li>The verb <strong>habiter</strong> (to live) is frequently used: <strong>Ton père habite ici?</strong> (Does your father live here?).</li>
+<li>Common ways to ask ""How are you?"": <strong>Ça va?</strong> and <strong>Comment ça va?</strong></li>
+<li>To ask for a name: <strong>Comment s'appelle ton frère?</strong> (What's your brother's name?).</li>
+<li>To ask for a location: <strong>Où habite ta famille?</strong> (Where does your family live?).</li>
+<li>The verb <strong>avoir</strong> (to have) is used for possession: <strong>J'ai un chat.</strong> (I have a cat).</li>
+</ul>
+<p class=""pro-tip"">In A1 French, simple questions often use tone (intonation) or <strong>Où est...?</strong> (Where is...?) and <strong>Comment s'appelle...?</strong> (What's the name of...?). The simplest response to a location question is often just a repetition of the verb: <strong>Mon frère habite en Italie.</strong></p>
+</div>"
+1,7,sec1-7,"<div class='unit-summary'>
+<ul>
+<li>
+<strong>Key Vocabulary (Vocabulaire Clé)</strong>
+<ul>
+<li>Places: <strong>le parc</strong> (the park), <strong>le cinéma</strong> (the cinema), <strong>l'école</strong> (the school), <strong>le restaurant</strong> (the restaurant), <strong>le zoo</strong> (the zoo), <strong>le travail</strong> (work), <strong>une boulangerie</strong> (a bakery).</li>
+<li>Food: <strong>un croissant</strong> (a croissant), <strong>le chocolat</strong> (chocolate), <strong>une pizza</strong> (a pizza), <strong>une orange</strong> (an orange), <strong>de la laitue</strong> (lettuce).</li>
+<li>Verbs: <strong>manger</strong> (to eat), <strong>étudier</strong> (to study), <strong>aimer</strong> (to like), <strong>aller</strong> (to go), <strong>vouloir</strong> (to want), <strong>lire</strong> (to read), <strong>habiter</strong> (to live).</li>
+<li>Other phrases: <strong>Je suis fatigué</strong> (I am tired), <strong>un livre</strong> (a book), <strong>en bus</strong> (by bus), <strong>en métro</strong> (by subway).</li>
 </ul>
 </li>
-<li>Nationalities must agree in gender (masculine/feminine) with the person:
+<li>
+<strong>Grammar Focus (Points Grammaticaux)</strong>
 <ul>
-<li>Masculine: <strong>français</strong>, <strong>américain</strong>, <strong>espagnol</strong></li>
-<li>Feminine: <strong>française</strong>, <strong>américaine</strong>, <strong>espagnole</strong> (often adding -e)</li>
+<li><strong>The verb ALLER (to go)</strong>: This verb is highly irregular and essential for talking about movement and locations.
+<ul>
+<li><strong>Je vais</strong> (I go)</li>
+<li><strong>Tu vas</strong> (You go)</li>
+<li><strong>Il/Elle va</strong> (He/She goes)</li>
+<li><strong>Nous allons</strong> (We go)</li>
 </ul>
 </li>
-<p class="pro-tip">Pro-tip: Remember that the feminine forms (like <strong>américaine</strong> and <strong>française</strong>) are pronounced differently than the masculine forms. Pay attention to the extra 'e' which changes the final sound.</li>
 </ul>
-<h4>2. Le Verbe PARLER (To Speak)</h4>
+<p class=""pro-tip"">Remember the contractions when using <strong>aller</strong>! You must use <strong>au</strong> (à + le) before masculine singular places (e.g., <strong>au parc</strong>, <strong>au restaurant</strong>) and <strong>à la</strong> (e.g., <strong>à la boulangerie</strong>) before feminine singular places. Do not use <strong>à le</strong>.</p>
 <ul>
-<li>This is a regular -ER verb, essential for discussing languages:
+<li><strong>Expressing Likes and Dislikes (Aimer & Adorer)</strong>:
 <ul>
-<li><strong>Je parle</strong> (I speak)</li>
-<li><strong>Tu parles</strong> (You speak)</li>
-<li><strong>Il parle</strong> (He speaks)</li>
-<li><strong>Elle parle</strong> (She speaks)</li>
+<li>Use <strong>aimer</strong> (to like) and <strong>adorer</strong> (to love/adore).</li>
+<li>When talking about liking general things, you must use the definite articles <strong>le/la/les</strong> (e.g., <strong>J'aime le chocolat</strong>, <strong>Nous aimons la boulangerie</strong>).</li>
 </ul>
 </li>
-<li>It is often used with languages: <strong>Je parle français et anglais.</strong></li>
-<p class="pro-tip" >Pro-tip: For regular -ER verbs like <strong>parler</strong>, the forms for <strong>je</strong>, <strong>tu</strong>, <strong>il</strong>, and <strong>elle</strong> sound exactly the same when spoken, even though the spelling changes (e.g., <strong>parle</strong> vs. <strong>parles</strong>). Context determines the meaning.</li>
 </ul>
-<h4>3. Le Verbe PRÉFÉRER (To Prefer)</h4>
+<p class=""pro-tip"">When expressing a desire for *some* of something (I want some chocolate), use the partitive article <strong>du/de la/de l'</strong> (e.g., <strong>Je veux du chocolat</strong>). When expressing general liking, use <strong>le/la/les</strong>.</p>
 <ul>
-<li>This verb is used to ask about and state preferences:
+<li><strong>Verb Conjugation (Present Tense)</strong>:
 <ul>
-<li><strong>Tu préfères...?</strong> (Do you prefer...?)</li>
-<li><strong>Je préfère...</strong> (I prefer...)</li>
+<li>You saw regular -ER verbs like <strong>manger</strong> (<strong>Nons mangeons</strong>) and <strong>étudier</strong> (<strong>J'étudie</strong>).</li>
+<li>The endings for the subject pronouns <strong>Je</strong>, <strong>Tu</strong>, <strong>Il/Elle</strong>, and <strong>Nous</strong> are used to show who is performing the action.</li>
 </ul>
 </li>
-<p class="pro-tip">Pro-tip: Note the use of the definite articles (<strong>les</strong>, meaning 'the') after verbs of preference like <strong>préférer</strong> when talking about things in general (e.g., <strong>Je préfère les croissants.</strong>). You must use <strong>le/la/les</strong>, not just the noun alone.</li>
 </ul>
+<p class=""pro-tip"">The conjugations for <strong>Je</strong>, <strong>Tu</strong>, <strong>Il/Elle</strong>, and <strong>Ils/Elles</strong> often sound the same in regular -ER verbs, but the spelling is different (e.g., <strong>J'étudie</strong>, <strong>Tu étudies</strong>, <strong>Elle étudie</strong>).</p>
+</li>
+</ul>
+</div>"
+2,13,sec2-13,"<div class='unit-summary'>
+<h2>Vocabulary Summary</h2>
+<ul>
+<li><strong>Formal Address/Titles:</strong>
+<ul>
+<li><strong>Monsieur</strong>: Mister, Mr., gentleman, sir</li>
+<li><strong>Mademoiselle</strong>: Miss</li>
+<li><strong>Madame</strong>: Mrs., Madam, Lady</li>
+</ul>
+</li>
+<li><strong>Key Phrases & Greetings:</strong>
+<ul>
+<li><strong>Excusez-moi</strong>: Excuse me</li>
+<li><strong>Bonne journée</strong>: Have a nice day</li>
+<li><strong>De rien</strong>: You're welcome</li>
+<li><strong>À bientôt</strong>: See you soon</li>
+<li><strong>Pas de problème</strong>: No problem</li>
+<li><strong>Je ne sais pas</strong>: I don't know</li>
+</ul>
+</li>
+<li><strong>Nouns (Travel & Places):</strong>
+<ul>
+<li><strong>la compangnie aérienne</strong>: the airline company</li>
+<li><strong>le vol</strong>: flight</li>
+<li><strong>bagages</strong>/<strong>valise</strong>: luggage/suitcase</li>
+<li><strong>arrivée</strong>: arrival</li>
+<li><strong>le prénom</strong>: first name</li>
+<li><strong>le nom de famille</strong>: the last name</li>
+<li><strong>la nationalité</strong>: nationality</li>
+<li><strong>l'Afrique</strong>: Africa</li>
+<li><strong>une question</strong>: a question</li>
+<li><strong>carte</strong>: card, map, menu</li>
+<li><strong>portefeuille</strong>: wallet</li>
+<li><strong>clés</strong>: keys</li>
+</ul>
+</li>
+<li><strong>Nouns (Food & Drink):</strong>
+<ul>
+<li><strong>quelque chose</strong>: something</li>
+<li><strong>jus d'orange</strong>: orange juice</li>
+<li><strong>café</strong>: coffee</li>
+<li><strong>thé</strong>: tea</li>
+<li><strong>légumes</strong>: vegetables</li>
+<li><strong>dessert</strong>: dessert</li>
+<li><strong>pizza</strong>: pizza</li>
+</ul>
+</li>
+<li><strong>Verbs & Actions:</strong>
+<ul>
+<li><strong>trouver</strong>: to find</li>
+<li><strong>attendre</strong>: to wait for, to await, to expect</li>
+<li><strong>venir</strong>: to come (e.g., <strong>Vous venez d'Italie?</strong> - Are you from Italy?)</li>
+<li><strong>voyager</strong>: to travel</li>
+<li><strong>manger</strong>: to eat</li>
+<li><strong>boire</strong>: to drink</li>
+</ul>
+</li>
+<li><strong>Adjectives & Colors:</strong>
+<ul>
+<li><strong>violet</strong>/<strong>voilette</strong>: purple</li>
+<li><strong>bleu(e)</strong>: blue</li>
+<li><strong>jaune</strong>: yellow</li>
+<li><strong>rouge</strong>: red</li>
+<li><strong>en retard</strong>: late (e.g., <strong>Le vol est en retard</strong>)</li>
+<li><strong>seule</strong>: alone (feminine)</li>
+<li><strong>intéressant</strong>: interesting</li>
+<li><strong>important</strong>: important</li>
+<li><strong>raison</strong>: reason (often used in <strong>Vous avez raison</strong> - You are right)</li>
+</ul>
+</li>
+</ul>
+<h2>Grammar Focus</h2>
+<h3>1. Formal vs. Informal Address (Tu vs. Vous)</h3>
+<ul>
+<li>The content focuses heavily on the formal 'You' (<strong>Vous</strong>) for respectful interactions (e.g., <strong>Voulez-vous manger ici?</strong>, <strong>Comment allez vous, Monsieur Dumas</strong>).</li>
+<li>The informal 'You' (<strong>Tu</strong>) is used between friends (e.g., <strong>Tu aimes le vin?</strong>, <strong>Tu es en retard</strong>).</li>
+</ul>
+<p class=""pro-tip"">Beginners often mix up <strong>Tu</strong> and <strong>Vous</strong>. When in doubt with a stranger, service provider, or superior, ALWAYS use <strong>Vous</strong>. Only use <strong>Tu</strong> with friends, family, children, or people who invite you to do so.</p>
+<h3>2. Asking Questions (Interrogative Adjectives)</h3>
+<ul>
+<li><strong>Quel/Quelle</strong> (Which/What) changes gender to match the noun it precedes:
+<ul>
+<li>Masculine singular (<strong>Quel</strong>): <strong>Quel train va à Paris?</strong> (Which train...)</li>
+<li>Feminine singular (<strong>Quelle</strong>): <strong>Quelle est votre destination?</strong> (What is your destination?)</li>
+</ul>
+</li>
+<li>Common interrogative forms include inversion (less frequent here) or using <strong>Est-ce que</strong> (implied by context) or simply raising your voice/adding a question mark (e.g., <strong>Vous venez d'Italie?</strong>).</li>
+</ul>
+<p class=""pro-tip"">Remember that <strong>Quel</strong> must agree with the noun's gender. If you are asking for a feminine noun (like <strong>destination</strong> or <strong>profession</strong>), use <strong>Quelle</strong>.</p>
+<h3>3. Expressing Wants and Preferences (Vouloir and Conditional)</h3>
+<ul>
+<li>The verb <strong>Vouloir</strong> (to want) is used in two main forms in the context:
+<ul>
+<li>Present Tense (Direct): <strong>Je veux une pizza</strong> (I want a pizza). This is strong.</li>
+<li>Conditional (Polite Request): <strong>Je voudrais</strong> (I would like) is much more polite (e.g., <strong>Je voudrais du jus, s'il vous plaît</strong>).</li>
+</ul>
+</li>
+</ul>
+<p class=""pro-tip"">To sound polite in French, especially when ordering food or drink, always use the conditional form <strong>Je voudrais</strong> instead of the simple present <strong>Je veux</strong> (I want). Using <strong>Je veux</strong> can sound demanding.</p>
+<h3>4. Possession (Mon, Ma, Mes, Votre)</h3>
+<ul>
+<li>The possessive adjectives change based on the gender and number of the object possessed:
+<ul>
+<li><strong>Ma valise</strong> (My feminine suitcase)</li>
+<li><strong>Mes bagages</strong> (My plural luggage)</li>
+<li><strong>Votre nom de famille</strong> (Your formal/plural last name)</li>
+</ul>
+</li>
+</ul>
+<p class=""pro-tip"">Possessive adjectives like <strong>ma</strong>, <strong>mon</strong>, and <strong>mes</strong> must agree with the object being possessed (the noun), not the person who possesses it. For example, <strong>Ma valise</strong> (My suitcase) is used even if the speaker is male, because <strong>valise</strong> is feminine.</p>
 </div>"
