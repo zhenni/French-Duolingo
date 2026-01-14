@@ -10,7 +10,7 @@ Tip - No more silence!,,grand,"tall, big, long, great"
 Tip - No more silence!,,grand arbre,big tree
 Tip - No more silence!,,Je pars et il arrive.,I am leaving and he is arriving.
 New words - Radio,,pendant,during
-Radio: Fun Activities - Late Nights with Lin,,"Bonjour, je m'appelle Marie. je marche beaucoup tous les jours.","Hello, my name is Marie. I walk a lot every day."
+Radio: Fun Activities - Late Nights with Lin,,"Bonjour, je m'appelle Marie. Je marche beaucoup tous les jours.","Hello, my name is Marie. I walk a lot every day."
 Radio: Fun Activities - Late Nights with Lin,,Aujourd'hui je marche au parc près de chez moi.,Today I walk in the park near my house.
 Radio: Fun Activities - Late Nights with Lin,,J'aime écouter de la musique pendant que je marche.,I like listening to music while I walk.
 Radio: Fun Activities - Late Nights with Lin,,Parfois je danse aussi. C'est très amusant.,Sometimes I also dance. It's very fun.
@@ -46,9 +46,9 @@ Radio: Human Preferences - Falstaff’s Guide to Humans,,"Ah, intéressant. Tu �
 Radio: Human Preferences - Falstaff’s Guide to Humans,,"Oui, chaque matin. Et toi tu écoutes souvent?","Yes, every morning. And you, do you listen often?"
 Radio: Human Preferences - Falstaff’s Guide to Humans,,"Oui, j'écoute la radio le soir.","Yes, I listen to the radio in the evening."
 Speak: Ask About Habits,,Tu danses souvent?,Do you dance often?
-Speak: Ask About Habits,,Tu danses souvent?,Do you dance often?
-Speak: Ask About Habits,,Tu danses souvent?,Do you dance often?
-Speak: Ask About Habits,,Tu danses souvent?,Do you dance often?
+Speak: Ask About Habits,,"Oui, je danse tous les jours.","Yes, I dance every day."
+Speak: Ask About Habits,,Tu chantes souvent?,Do you sing often?
+Speak: Ask About Habits,,"Oui, je chante tous le jours.","Yes, I sing every day."
 New words - Story,,faciles,easy
 New words - Story,,nourriture,food
 New words - Story,,voit,[s/he] sees
@@ -70,15 +70,17 @@ Story: The Dog,,Junior! C'est un chien derrière toi?,Junior! Is that a dog behi
 Story: The Dog,,Oui! C'est mon ami. Il est très intelligent.,Yes! He is my friend. He is very intelligent.
 Story: The Dog,,Il monge ton sandwich et ta salade?,Is he eating your sandwich and your salad?
 Story: The Dog,,"Oui! Les chiens, c'est facile, Papa!","Yes! Dogs are easy, Daddy!"
-Radio: Walking and Music - Lily and Strangers,,"Bonjour, je m'appelle Pual. J'aime marcher dans le jardin.","Hello, my name is Pual. I like to walk in the garden."
+New words - Radio,,promenades,walk
+Radio: Walking and Music - Lily and Strangers,,"Bonjour, je m'appelle Paul. J'aime marcher dans le jardin.","Hello, my name is Paul. I like walking in the garden."
 Radio: Walking and Music - Lily and Strangers,,Je marche souvant avec mon voisine.,I often walk with my neighbor.
-Radio: Walking and Music - Lily and Strangers,,Il est très intelligent et gentil.,He is very intelligent and kind.
-Radio: Walking and Music - Lily and Strangers,,Parfois nous visitons le musée ensemble.,Sometimes we visit the museum together.
-Radio: Walking and Music - Lily and Strangers,,???? do not understand.,"The text ""?? do not understand."" is already in English."
+Radio: Walking and Music - Lily and Strangers,,Elle est très intelligente et gentille.,She is very intelligent and kind.
+Radio: Walking and Music - Lily and Strangers,,Parfois nous visitons des musées ensemble.,Sometimes we visit museums together.
+Radio: Walking and Music - Lily and Strangers,,Nous aimons aussi écouter de la musique après nos promenades.,We also like listening to music after our walks.
 Radio: Singing Stranger - Lily and Strangers,,"Bonjour, je m'appelle Léo. Je danse souvent dans la rue.","Hello, my name is Léo. I often dance in the street."
 Radio: Singing Stranger - Lily and Strangers,,J'aime aussi chanter. Je voyage avec mes amis.,I also like to sing. I travel with my friends.
-Radio: Singing Stranger - Lily and Strangers,,Nous visitons souvent des églises. C'est amusant et intéressant,We often visit churches. It's fun and interesting.
+Radio: Singing Stranger - Lily and Strangers,,Nous visitons souvent des églises. C'est amusant et intéressant.,We often visit churches. It's fun and interesting.
 Speak: Invite to Join,,Veux-tu chanter avec moi?,Do you want to sing with me?
-Speak: Invite to Join,,Veux-tu chanter avec moi?,Do you want to sing with me?
-Speak: Invite to Join,,Veux-tu chanter avec moi?,Do you want to sing with me?
-Speak: Invite to Join,,Veux-tu chanter avec moi?,Do you want to sing with me?
+Speak: Invite to Join,,"Oui, je veux chanter.","Yes, I want to sing."
+Speak: Invite to Join,,Veux-tu danses au parc?,Do you want to dance in the park?
+Speak: Invite to Join,,"Oui, je veux danser.","Yes, I want to dance."
+Radio: Dancing and Singing,,,Please provide the French text you would like translated.
