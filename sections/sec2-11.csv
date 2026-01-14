@@ -44,6 +44,10 @@ Radio: Two Weeks in Paris,,"Bien, aussi. Travailles-tu en France maintenant?","G
 Radio: Two Weeks in Paris,,"Oui, j'habite à Paris, et toi?","Yes, I live in Paris, and you?"
 Radio: Two Weeks in Paris,,"Non, je suis ici pour un voyage intéressant à deux semaines à Paris.","No, I am here for an interesting two-week trip to Paris."
 Radio: Two Weeks in Paris,,"Oui, et j'aime beaucoup la ville.","Yes, and I like the city very much."
+Speak: Ask About Living,,Habitez-vous en France?,Do you live in France?
+Speak: Ask About Living,,"Oui, j'habite en France.","Yes, I live in France."
+Speak: Ask About Living,,Habitez-vous avec votre famille?,Do you live with your family?
+Speak: Ask About Living,,"Oui, j'habite avec ma famille.","Yes, I live with my family."
 Story: To the Station!,,À la gare!,To the station!
 Story: To the Station!,,Oscar prend un taxi.,Oscar takes a taxi.
 Story: To the Station!,,"Son amie, Lin, est la chauffeur du taxi.","His friend, Lin, is the taxi driver."
@@ -78,6 +82,10 @@ Radio: Foreign Students,,Je connais cette église.,I know this church.
 Radio: Foreign Students,,Pourquoi es-tu en Espagne maintenant?,Why are you in Spain now?
 Radio: Foreign Students,,J'étudie l'espagnol. Et toi? Pourquoi es-tu ici?,I am studying Spanish. And you? Why are you here?
 Radio: Foreign Students,,J'étudie l'espagnol. J'étudie avec mon frère.,I study Spanish. I study with my brother.
+Speak: Ask About Residency,,Habites-tu en France maintenant?,Do you live in France now?
+Speak: Ask About Residency,,"Oui, j'habite en France maintenant.","Yes, I live in France now."
+Speak: Ask About Residency,,Habites-tu aux États-Unis maintenant?,Do you live in the United States now?
+Speak: Ask About Residency,,"Oui, j'habite aux États-Unis maintenant.","Yes, I live in the United States now."
 Radio: Walking in the Park,,"Bonjour, Alice. Où habite-tu?","Hello, Alice. Where do you live?"
 Radio: Walking in the Park,,"Bonjour, Léo. J'habite en France. Et toi?","Hello, Léo. I live in France. And you?"
 Radio: Walking in the Park,,J'habite près d'un parc en ville.,I live near a park in the city.

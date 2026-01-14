@@ -40,6 +40,10 @@ Radio: Time Talk - Falstaff’s Guide to Humans,,"Non, je sors du travail.","No,
 Radio: Time Talk - Falstaff’s Guide to Humans,,"Ah, je dois rentrer bientôt.","Ah, I have to go home soon."
 Radio: Time Talk - Falstaff’s Guide to Humans,,Chez toi ou chez Alice et Paul?,At your place or at Alice and Paul's?
 Radio: Time Talk - Falstaff’s Guide to Humans,,Chez moi pour prendre un peu de café.,At my place to have some coffee.
+Speak: Offer and Accept,,Tu veux un peu de chocolat?,Do you want some chocolate?
+Speak: Offer and Accept,,"Oui, je veux un peu de chocolat.","Yes, I want a little chocolate."
+Speak: Offer and Accept,,Tu veux un peu de café?,Would you like some coffee?
+Speak: Offer and Accept,,"Oui, je veux un peu de café.","Yes, I want a little coffee."
 "Story: A Coffee, Please",,"Un café, s'il te plaît.","A cup of coffee, please."
 "Story: A Coffee, Please",,"Eddy est au restaurant avec son fils, Junior.","Eddy is at the restaurant with his son, Junior."
 "Story: A Coffee, Please",,"Salut, Eddy! Tu veux un thé?","Hello, Eddy! Do you want a tea?"
