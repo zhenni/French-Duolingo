@@ -32,3 +32,58 @@ Story: A Big Family,,Maman.,"Mom (or Mum, Mommy, Mama)"
 Story: A Big Family,,"Ah, oui! J'ai deux filles maintenant.","Ah, yes! I have two daughters now."
 Story: A Big Family,,"Bienvenue dans la famille, Odie!","Welcome to the family, Odie!"
 Story: A Big Family,,Merci beaucoup!,thank you very much
+Radio: Living in Shadows - Lily and Strangers,,Bonjour. Je m'appelle Paul. J'ai deux sœurs.,Hello. My name is Paul. I have two sisters.
+Radio: Living in Shadows - Lily and Strangers,,Mes sœurs sont intelligentes et amusantes.,My sisters are intelligent and fun.
+Radio: Living in Shadows - Lily and Strangers,,Elles aiment les chats et les chiens.,They like cats and dogs.
+Radio: Living in Shadows - Lily and Strangers,,Nous habitons en France. Mes sœurs sont contentes ici.,We live in France. My sisters are happy here.
+Radio: Day at the Park - Late Nights with Lin,,"Bonjour, je m'appelle Emma. J'ai trois frères et ils sont intelligents.","Hello, my name is Emma. I have three brothers and they are intelligent."
+Radio: Day at the Park - Late Nights with Lin,,Mes parents sont contents de mes frères.,My parents are happy with my brothers.
+Radio: Day at the Park - Late Nights with Lin,,Nous habitons en France et nous aimons Paris.,We live in France and we love Paris.
+Radio: Day at the Park - Late Nights with Lin,,Je vais au parc avec mes frères tous les jours.,I go to the park with my brothers every day.
+Radio: Day at the Park - Late Nights with Lin,,C'est amusant avec mes frères au parc.,It's fun with my brothers at the park.
+Speak: Ask About Preferences,,Tu aimes les pizzas?,Do you like pizza?
+Speak: Ask About Preferences,,"Oui, j'aime les pizzas.","Yes, I like pizzas."
+Speak: Ask About Preferences,,Tu aimes les voitures?,Do you like cars?
+Speak: Ask About Preferences,,"Oui, j'aime les voitures.","Yes, I like cars."
+Story: Anna,,Anna est très amusante.. et intelligente!,Anna is very funny... and intelligent!
+Story: Anna,,Elle habite ici mais ses parents sont mexicains.,She lives here but her parents are Mexican.
+Story: Anna,,Elle travaille à la boulangerie!,She works at the bakery!
+Story: Anna,,À la boulangerie?,To the bakery?
+Story: Anna,,Oui!,Yes!
+Story: Anna,,Je connais Anna.,I know Anna.
+Story: Anna,,Elle est mariée... et elle a deux filles.,She is married... and she has two daughters.
+Story: Anna,,Tu connais Anna?,Do you know Anna?
+Story: Anna,,Oui?,Yes?
+Story: Anna,,Elle a une sœur?,Does she have a sister?
+Radio: International Alliances - Lucy is Listening,,"Bonjour, Léo. Comment ça va?","Hello, Léo. How are you?"
+Radio: International Alliances - Lucy is Listening,,"Salut, Emma. Ça va bien, merci. Et toi?","Hi, Emma. I'm doing well, thank you. And you?"
+Radio: International Alliances - Lucy is Listening,,Ça va. Mes parents sont ici.,It's going well. My parents are here.
+Radio: International Alliances - Lucy is Listening,,"Ah, ils sont en vacances?","Ah, are they on vacation?"
+Radio: International Alliances - Lucy is Listening,,"Oui, mes parents sont américains et ils aiment la France.","Yes, my parents are American and they love France."
+Radio: International Alliances - Lucy is Listening,,C'est chouette. Tes frères sont avec eux?,It's great. Are your brothers with them?
+Radio: International Alliances - Lucy is Listening,,Non mes frères sont à l'université.,"No, my brothers are at the university."
+Speak: Ask About Family,,Où travaillent tes parents?,Where do your parents work?
+Speak: Ask About Family,,Ils travaillent en France.,They work in France.
+Speak: Ask About Family,,Où travaillent tes frère?,Where do your brothers work?
+Speak: Ask About Family,,Ils travaillent aux Etats-Unis.,They work in the United States.
+Radio: Chocolate Lovers - Lucy is Listening,,"Bonjour, Marie.","Good Morning, marie."
+Radio: Chocolate Lovers - Lucy is Listening,,"Bonjour, Paul. Commen ça va?","Hello, Paul. How are you?"
+Radio: Chocolate Lovers - Lucy is Listening,,Ça va bien. Merci. Tes parents sont ici?,I am well. Thank you. Are your parents here?
+Radio: Chocolate Lovers - Lucy is Listening,,"Oui, mes parents et mes frères sont ici.","Yes, my parents and my brothers are here."
+Radio: Chocolate Lovers - Lucy is Listening,,"Ah, tes frère aime le chocolat.","Ah, your brother likes chocolate."
+Radio: Chocolate Lovers - Lucy is Listening,,"Oui, ils aiment beaucoup le chocolat.","Yes, they really like chocolate."
+Radio: Chocolate Lovers - Lucy is Listening,,Ils sont contents alor?,Are they happy then?
+Radio: Chocolate Lovers - Lucy is Listening,,"Oui, ils sont très contents.","Yes, they are very happy."
+Adventure: Where Are My Cats?,,J'aime mes chats.,I love my cats.
+Adventure: Where Are My Cats?,,Ma grand-mère a trois chats. Ils sont très amusants.,My grandmother has three cats. They are very amusing.
+Adventure: Where Are My Cats?,,Où sont tes chats?,Where are your cats?
+Adventure: Where Are My Cats?,,"Oui, Mamie, où sont tes chats?","Yes, Grandma, where are your cats?"
+Adventure: Where Are My Cats?,,Dans ton appartement?,In your apartment?
+Adventure: Where Are My Cats?,,"Oui, ils sont dans l'appartement!","Yes, they are in the apartment!"
+Adventure: Where Are My Cats?,,Les chats sont très intelligents. Où sont les trois chats?,Cats are very intelligent. Where are the three cats?
+Adventure: Where Are My Cats?,,Un chat est-il ici? Non.,Is a cat here? No.
+Adventure: Where Are My Cats?,,Un chat!,A cat!
+Adventure: Where Are My Cats?,,Les trois chats!,The three cats!
+Adventure: Where Are My Cats?,,"Tes trois chats, Lucie!","Your three cats, Lucie!"
+Adventure: Where Are My Cats?,,"Maintenant, ma grand-mère est contente.","Now, my grandmother is happy."
+Adventure: Where Are My Cats?,,"Mes chats sont très intelligents. Comme toi, Oscar!","My cats are very intelligent. Just like you, Oscar!"

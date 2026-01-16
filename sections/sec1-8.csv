@@ -18,6 +18,20 @@ Tip - Let's talk about Present Tense!,,nous parlons,we speak
 Tip - Let's talk about Present Tense!,,vous parlez,you speak
 Tip - Let's talk about Present Tense!,,ils parlent,They speak or They are speaking
 Tip - Let's talk about Present Tense!,,elles parlent,"They speak, They are speaking"
+Radio: Almost a Zoo - Lily and Strangers,,"Bonjour, je m'appelle Paul. J'ai deux chiens et trois chats.","Hello, my name is Paul. I have two dogs and three cats."
+Radio: Almost a Zoo - Lily and Strangers,,Les chiens mangent les croissants. Les chats mange les pizzas.,The dogs eat the croissants. The cats eat the pizzas.
+Radio: Almost a Zoo - Lily and Strangers,,Ils habitent ici avec moi.,They live here with me.
+Radio: Almost a Zoo - Lily and Strangers,,Les animaux sont très heureux.,The animals are very happy.
+Radio: Croissants and Orange - Lucy is Listening,,"Bonjour, Samia.","Hello, Samia."
+Radio: Croissants and Orange - Lucy is Listening,,"Bonjour, Paul. Comment ça va?","Hello, Paul. How are you?"
+Radio: Croissants and Orange - Lucy is Listening,,"Bien, merci. Et toi?","Fine thanks, and you?"
+Radio: Croissants and Orange - Lucy is Listening,,Bien aussi. Merci. Tu manges une pizza?,Good as well. Thank you. Are you eating a pizza?
+Radio: Croissants and Orange - Lucy is Listening,,"Non, je mange trois croissants, et toi?","No, I'm eating three croissants, and you?"
+Radio: Croissants and Orange - Lucy is Listening,,J'ai une orange et deux croissants.,I have an orange and two croissants.
+Speak: Ask About Location,,Où sont les croissants?,Where are the croissants?
+Speak: Ask About Location,,Les croissant sont ici.,The croissants are here.
+Speak: Ask About Location,,Où sont les oranges?,Where are the oranges?
+Speak: Ask About Location,,Les oranges sont ici.,The oranges are here.
 Story: At the Park,,Au parc,at the park
 Story: At the Park,,Ces femmes sont étudientes.,These women are students.
 Story: At the Park,,Elles parlent de l'université!,They are talking about the university!
@@ -27,3 +41,42 @@ Story: At the Park,,J'ai une idée...,I've got an idea...
 Story: At the Park,,Elles sont journalistes!,They are journalists!
 Story: At the Park,,Elles habitent dans un appartment et ont deux chats.,They live in an apartment and have two cats.
 Story: At the Park,,Nous allons au restaurant. Tu viens?,We're going to the restaurant. Are you coming?
+Radio: Croissants and Cats - Lily and Strangers,,"Salut, je m'appelle Claude. Je suis étudiant.","Hi, my name is Claude. I am a student."
+Radio: Croissants and Cats - Lily and Strangers,,J'habite en France. Et j'ai deux chats.,I live in France. And I have two cats.
+Radio: Croissants and Cats - Lily and Strangers,,J'étudie la musique.,I am studying music.
+Radio: Croissants and Cats - Lily and Strangers,,Et les étudiants de mon université étudient beaucoup.,And the students at my university study a lot.
+Radio: Croissants and Cats - Lily and Strangers,,Ils aiment la pizza et les croisssants.,They like pizza and croissants.
+Speak: Ask About Location 2,,Où sont tes filles?,Where are your daughters?
+Speak: Ask About Location 2,,Elles sont à Paris.,They are in Paris.
+Speak: Ask About Location 2,,Où sont tes parents?,Where are your parents?
+Speak: Ask About Location 2,,Ils sont à New York.,They are in New York.
+Radio: Boys and Girls - Falstaff’s Guide to Humans,,"Bonjour, Paul. Où sont les garçons?","Hello, Paul. Where are the boys?"
+Radio: Boys and Girls - Falstaff’s Guide to Humans,,"Bonjour, Samia. Les garçons sont ici.","Hello, Samia. The boys are here."
+Radio: Boys and Girls - Falstaff’s Guide to Humans,,"Et les filles, elles sont ici aussi?","And the girls, are they here too?"
+Radio: Boys and Girls - Falstaff’s Guide to Humans,,"Non, les filles sont en Espagnol.","No, the girls are in Spanish."
+Radio: Boys and Girls - Falstaff’s Guide to Humans,,"Ah, ils parlent Espagnol?","Ah, they speak Spanish?"
+Radio: Boys and Girls - Falstaff’s Guide to Humans,,"Oui, ils parlent aussie Anglais.","Yes, they also speak English."
+Adventure: The Quest for Croissants,,"Junior, nous voulons des croissants.","Junior, we want croissants."
+Adventure: The Quest for Croissants,,"Trois croissants, s'il te plaît!","Three croissants, please!"
+Adventure: The Quest for Croissants,,Où est les croissants?,Where are the croissants?
+Adventure: The Quest for Croissants,,Vikram a des croissants.,Vikram has some croissants.
+Adventure: The Quest for Croissants,,"Merci, Junior!","Thank you, Junior!"
+Adventure: The Quest for Croissants,,"Salut, Junior!","Hello, Junior!"
+Adventure: The Quest for Croissants,,"Bonjour, Vikram.","Hello, Vikram."
+Adventure: The Quest for Croissants,,Tu veux du gâteau?,You want some cake?
+Adventure: The Quest for Croissants,,"Non, trois croissants, s'il te plaît.","No, three croissants, please."
+Adventure: The Quest for Croissants,,Trois?,Three?
+Adventure: The Quest for Croissants,,Oui. Elles mangent beaucoup.,Yes. They eat a lot.
+Adventure: The Quest for Croissants,,"Cinq euros, s'il te plaît!","Five euros, please!"
+Adventure: The Quest for Croissants,,Cinq euros?,Five euros?
+Adventure: The Quest for Croissants,,Ton père a cinq euro.,Your father has five euros.
+Adventure: The Quest for Croissants,,"Salut, Junior!","Hello, Junior!"
+Adventure: The Quest for Croissants,,Tu as cinq euros?,Do you have five euros?
+Adventure: The Quest for Croissants,,Pourquoi?,Why?
+Adventure: The Quest for Croissants,,Les filles veulent des croissants.,The girls want some croissants.
+Adventure: The Quest for Croissants,,"Zari et Lily? Tu es un bon ami, Junior.","Zari and Lily? You're a good friend, Junior."
+Adventure: The Quest for Croissants,,"Cinq euros, s'il te plaît!","Five euros, please!"
+Adventure: The Quest for Croissants,,"Merci, Junior!","Thank you, Junior!"
+Adventure: The Quest for Croissants,,Trios croissants!,Three croissants!
+Adventure: The Quest for Croissants,,"Merci, Junior!","Thank you, Junior!"
+Adventure: The Quest for Croissants,,Tu es très gentil!,You're very kind!

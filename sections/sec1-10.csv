@@ -8,3 +8,93 @@ Key Phrases - Order food and drink,,"Une table pour deux personnes, s'il vous pl
 Tip - Je voudrais un verre d'eau!,,une bouteille d'eau,a bottle of water
 Tip - Je voudrais un verre d'eau!,,un fromage d'Italie,an Italian cheese
 Tip - Je voudrais un verre d'eau!,,"quatre verres d""eau",four glasses of water
+Story: The Honeymoon,,La lune de miel,The honeymoon
+Story: The Honeymoon,,Odile est dans un taxi.,Odile is in a taxi.
+Story: The Honeymoon,,Bonjour!,Hello!
+Story: The Honeymoon,,"Bonjour. À l'aéroport, s'il vous plaît.","Hello. To the airport, please."
+Story: The Honeymoon,,Très bien.,Very well. / Very good.
+Story: The Honeymoon,,Vous voyagez pour le travail?,Are you traveling for work?
+Story: The Honeymoon,,Non. J'ai un billet pour New York.,No. I got a ticket for New York.
+Story: The Honeymoon,,J'ai... deux billets pour New York.,I have... two tickets for New York.
+Story: The Honeymoon,,J'aime beaucoup New York!,I like New York very much!
+Story: The Honeymoon,,C'est pour ma lune de miel.,It is for my honeymoon.
+Story: The Honeymoon,,Où est votre mari?,Where is your husband?
+Story: The Honeymoon,,Ma femme.,My wife.
+Story: The Honeymoon,,Elle ne veut pas voyager à New York avec moi.,She does not want to travel to New York with me.
+Story: The Honeymoon,,C'est une journée difficile.,It is a difficult day.
+Story: The Honeymoon,,Oh... Je suis désolé.,Oh... I am sorry.
+Story: The Honeymoon,,"Hem-hem, nous sommes à l'aéroport.","Ahem, we are at the airport."
+Story: The Honeymoon,,Une femme arrive avec sa valise.,A woman arrives with her suitcase.
+Story: The Honeymoon,,Mélissa?,Melissa?
+Story: The Honeymoon,,Odile!,"Odile (meaning ""heritage,"" ""fortune,"" and ""wealth"")"
+Story: The Honeymoon,,Je suis désolée.,I am sorry.
+Story: The Honeymoon,,Je t'aime!,I love you!
+Story: The Honeymoon,,Je t'aime aussi!,I love you too!
+Story: The Honeymoon,,Nous allons à New York!,We are going to New York!
+Story: The Honeymoon,,Bon voyage!,have a nice trip
+Radio: Coffee and Croissants - Lucy is Listening,,"Bonjour, Emma!","Hello, Emma!"
+Radio: Coffee and Croissants - Lucy is Listening,,"Bonjour, Léo!","Hello, Léo!"
+Radio: Coffee and Croissants - Lucy is Listening,,Tu veux un café?,Do you want a coffee?
+Radio: Coffee and Croissants - Lucy is Listening,,"Non, je voudrais un thé, s'il te plaît.","No, I would like a tea, please."
+Radio: Coffee and Croissants - Lucy is Listening,,"Et moi, un café et un croissant.","And I, a coffee and a croissant."
+Radio: Coffee and Croissants - Lucy is Listening,,"Ah, j'aime les croissants.","Ah, I like croissants."
+Radio: Coffee or Tea? - Falstaff’s Guide to Humans,,"Bonjour, Samia!","Hello, Samia!"
+Radio: Coffee or Tea? - Falstaff’s Guide to Humans,,"Bonjour, Léo!","Hello, Leo!"
+Radio: Coffee or Tea? - Falstaff’s Guide to Humans,,"Tu prents un café ou un thé, s'il te plaît. Et toi?","You're having a coffee or a tea, please. And you?"
+Radio: Coffee or Tea? - Falstaff’s Guide to Humans,,"Moi, je prends un thé.",I'll have a tea.
+Radio: Coffee or Tea? - Falstaff’s Guide to Humans,,Tu veux aussi un dessert?,Do you also want a dessert?
+Radio: Coffee or Tea? - Falstaff’s Guide to Humans,,"Oui, un dessert et une bouteille d'eau.","Yes, a dessert and a bottle of water."
+Radio: Coffee or Tea? - Falstaff’s Guide to Humans,,Moi aussi.,me too
+Speak: Ask for Preferences,,Veux-tu une table pour deux?,Do you want a table for two?
+Speak: Ask for Preferences,,"Oui, je veux une table pour deux.","Yes, I want a table for two."
+Speak: Ask for Preferences,,Veux-tu un café?,Do you want a coffee?
+Speak: Ask for Preferences,,"Oui, je veux une café.","=AI(""Translate from French to English"", C51)"
+Story: The Check,,L'addition,The bill please!
+Story: The Check,,Bonjour! Je voudrais une salade... Un sandwich...,Hello! I would like a salad... A sandwich...
+Story: The Check,,"Non, deux... Et un dessert au chocolat!","No, two... And a chocolate dessert!"
+Story: The Check,,"Et une bouteille de vin, s'il vous plaît.","And a bottle of wine, please."
+Story: The Check,,"Je voudrais juste une salade, s'il vous plaît.","I would just like a salad, please."
+Story: The Check,,"Tu aimes ce restaurant, non?","You like this restaurant, right?"
+Story: The Check,,"J'aime beaucoup le restaurant, mais je paye l'addition.","I really like the restaurant, but I pay the bill."
+New Words - Radio,,commandes,"orders, controls"
+New Words - Radio,,sympathique,"nice, friendly, pleasant, likeable"
+Radio: Talking to Strangers - Lily and Strangers,,"Bonjour, je m'appelle Louis. Je suis serveur dans un restaurant.","Hello, my name is Louis. I am a waiter in a restaurant."
+Radio: Talking to Strangers - Lily and Strangers,,Je prends souvent des commandes de cafés et de thés.,I often take coffee and tea orders.
+Radio: Talking to Strangers - Lily and Strangers,,"Aujourd'hui, je voudrais un café pour moi.","Today, I would like a coffee for myself."
+Radio: Talking to Strangers - Lily and Strangers,,La serveuse est très sympathique.,The waitress is very friendly.
+Radio: Talking to Strangers - Lily and Strangers,,Elle travaille aussi avec moi au restaurant.,She also works with me at the restaurant.
+Radio: French Restaurant Life - Lily and Strangers,,"Bonjour, je m'appelle Alice. Je suis française et je travaille dans un restaurant.","Hello, my name is Alice. I am French and I work in a restaurant."
+Radio: French Restaurant Life - Lily and Strangers,,Je suis une serveuse et j'aime mon travail.,I am a waitress and I love my job.
+Radio: French Restaurant Life - Lily and Strangers,,"Dans le restaurant, nous avons du vin et du fromage.","In the restaurant, we have wine and cheese."
+Radio: French Restaurant Life - Lily and Strangers,,Trois personnes travaillent avec moi aussi.,Three people work with me too.
+Radio: French Restaurant Life - Lily and Strangers,,Nous aimons les restaurants français.,We love French restaurants.
+New Words - Adventure,,canapé,"sofa, couch, settee, or a small piece of decorative food served as an hors d'oeuvre"
+New Words - Adventure,,gratuit,free
+Adventure: I'm Hungry!,,Bonjour Junior! Un verre d'eau?,Hello Junior! A glass of water?
+Adventure: I'm Hungry!,,"Oui, Un verre d'eau, s'il te plaît.","Yes, a glass of water, please."
+Adventure: I'm Hungry!,,Tu veux un croissant ou un sandwich?,Do you want a croissant or a sandwich?
+Adventure: I'm Hungry!,,"Un sandwich, s'il te plaît.","A sandwich, please."
+Adventure: I'm Hungry!,,"Cinq euros, Junior.","Five euros, Junior."
+Adventure: I'm Hungry!,,"Ah, J'ai cinq euros sur la sofa.","Ah, I have five euros on the sofa."
+Adventure: I'm Hungry!,,"Salut, Junior!","Hi, Junior!"
+Adventure: I'm Hungry!,,Mon gâteau!,My cake!
+Adventure: I'm Hungry!,,Oh non!,Oh no!
+Adventure: I'm Hungry!,,"Junior, je veux du gâteau...","Junior, I want cake..."
+Adventure: I'm Hungry!,,"Cinq euros pour le sandwich, Junior.","Five euros for the sandwich, Junior."
+Adventure: I'm Hungry!,,Merci.,Thank you.
+Adventure: I'm Hungry!,,Et le gâteau?,And the cake?
+Adventure: I'm Hungry!,,Je veux un gâteau pour Falstaff.,I want a cake for Falstaff.
+Adventure: I'm Hungry!,,Pour Falstaff? Gratuit!,For Falstaff? Free!
+Adventure: I'm Hungry!,,Un gâteau.,A cake.
+Adventure: I'm Hungry!,,Un gâteau au chocolat? Merci! Bon appétit !,A chocolate cake? Thank you! Enjoy your meal!
+Radio: Humans and Drink - Falstaff’s Guide to Humans,,"Bonjour, Paul. Tu prends un café?","Hello, Paul. Are you having a coffee?"
+Radio: Humans and Drink - Falstaff’s Guide to Humans,,Non je voudrais un thé s'il vous plaît.,"No, I would like a tea, please."
+Radio: Humans and Drink - Falstaff’s Guide to Humans,,"Ah, un thé. Tu veux un dessert?","Ah, a tea. Do you want a dessert?"
+Radio: Humans and Drink - Falstaff’s Guide to Humans,,Oui j'aimerais un dessert.,"Yes, I would like a dessert."
+Radio: Humans and Drink - Falstaff’s Guide to Humans,,Moi aussi. Le serveur est là-bas.,Me too. The waiter is over there.
+Radio: Humans and Drink - Falstaff’s Guide to Humans,,Parfait. Je vais commander.,Perfect. I will order.
+Radio: Dessert Dedication - Late Nights with Lin,,Bonjour. Je m'appelle Alice. Tous les jours je vais au restaurant.,Hello. My name is Alice. Every day I go to the restaurant.
+Radio: Dessert Dedication - Late Nights with Lin,,Je prends souvent un café.,I often have a coffee.
+Radio: Dessert Dedication - Late Nights with Lin,,J'aime bien une tasse de thé aussi.,I also like a cup of tea.
+Radio: Dessert Dedication - Late Nights with Lin,,Je voudrais un dessert à la fin.,I would like a dessert at the end.
+Radio: Dessert Dedication - Late Nights with Lin,,"Le dessert c'est pour moi, et l'addition c'est pour moi aussi.","The dessert is on me, and the bill is on me too."
