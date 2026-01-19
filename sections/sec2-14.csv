@@ -76,11 +76,58 @@ Radio: Walking and Music - Lily and Strangers,,Je marche souvant avec mon voisin
 Radio: Walking and Music - Lily and Strangers,,Elle est très intelligente et gentille.,She is very intelligent and kind.
 Radio: Walking and Music - Lily and Strangers,,Parfois nous visitons des musées ensemble.,Sometimes we visit museums together.
 Radio: Walking and Music - Lily and Strangers,,Nous aimons aussi écouter de la musique après nos promenades.,We also like listening to music after our walks.
-Radio: Singing Stranger - Lily and Strangers,,"Bonjour, je m'appelle Léo. Je danse souvent dans la rue.","Hello, my name is Léo. I often dance in the street."
-Radio: Singing Stranger - Lily and Strangers,,J'aime aussi chanter. Je voyage avec mes amis.,I also like to sing. I travel with my friends.
-Radio: Singing Stranger - Lily and Strangers,,Nous visitons souvent des églises. C'est amusant et intéressant.,We often visit churches. It's fun and interesting.
 Speak: Invite to Join,,Veux-tu chanter avec moi?,Do you want to sing with me?
 Speak: Invite to Join,,"Oui, je veux chanter.","Yes, I want to sing."
 Speak: Invite to Join,,Veux-tu danses au parc?,Do you want to dance in the park?
 Speak: Invite to Join,,"Oui, je veux danser.","Yes, I want to dance."
-Radio: Dancing and Singing,,,Please provide the French text you would like translated.
+Radio: Dancing and Singing - Lucy is Listening,,"Bonjour, Marie. Tu danses anjourd'hui?","Hello, Marie. Are you dancing today?"
+Radio: Dancing and Singing - Lucy is Listening,,"Bonjour, Omar. Oui, je danse souvent. Et toi?","Hello, Omar. Yes, I often dance. And you?"
+Radio: Dancing and Singing - Lucy is Listening,,"Moi non, je chante ce matin.","Not me, I'm singing this morning."
+Radio: Dancing and Singing - Lucy is Listening,,"Ah, tu chantes bien?","Ah, you sing well?"
+Radio: Dancing and Singing - Lucy is Listening,,"Oui, merci. Après je veux visiter Paris.","Yes, thank you. Afterwards, I want to visit Paris."
+Radio: Dancing and Singing - Lucy is Listening,,"Chouette, j'aime visiter Paris aussi.","Great, I like visiting Paris too."
+New Words - Adventure,,mal,"badly, poorly, wrong, evil, bad, unwell"
+New Words - Adventure,,la gorge,the throat (part of the neck/back of the mouth) or the gorge (narrow valley)
+New Words - Adventure,,mal à la gorge,sore throat
+New Words - Adventure,,feux,Fires
+New Words - Adventure,,piétons,pedestrian
+New Words - Adventure,,feux pour piétons,pedestrian traffic lights
+New Words - Adventure,,poubelle,dustbin
+New Words - Adventure,,carte,"card, map, menu, pass"
+New Words - Adventure,,arrêt,"stop, stopping, halt, arrest, judgment, or save"
+New Words - Adventure,,arrêt de bus,bus stop
+New Words - Adventure,,malades,sick (plural)
+New Words - Adventure,,stande de smoothies,Smoothie stand
+New Words - Adventure,,cherche,"look for, search, or try"
+New Words - Adventure,,quelqu'un,"someone, somebody"
+New Words - Adventure,,apporte,bring
+New Words - Adventure,,médicament,medicine
+New Words - Adventure,,Demande,"request, demand, application"
+New Words - Adventure,,Donne,Give
+New Words - Adventure,,choisis,"chosen, selected, pick"
+New Words - Adventure,,la chanson,the song
+Adventure: The Quest for Karaoke,,"Salut, Mamie.","Hello, Grandma."
+Adventure: The Quest for Karaoke,,"Lin, allons à la plage pour nager!","Lin, let's go to the beach for a swim!"
+Adventure: The Quest for Karaoke,,Nager? Non merci Mamie.,Swim? No thanks Grandma.
+Adventure: The Quest for Karaoke,,Je vais au karaoké. Tu chantes avec moi!,I'm going to karaoke. Will you sing with me!
+Adventure: The Quest for Karaoke,,J'ai mal à la gorge. Je ne peux pas chanter. Désolée.,I have a sore throat. I can't sing. Sorry.
+Adventure: The Quest for Karaoke,,Le bus est en retard...,The bus is late...
+Adventure: The Quest for Karaoke,,Salut Lucie! Tu veux un smoothie protéiné?,Hi Lucie! Do you want a protein smoothie?
+Adventure: The Quest for Karaoke,,Ces smoothies sont-ils bons pour les gens malades?,Are these smoothies good for sick people?
+Adventure: The Quest for Karaoke,,"Non, pour ça, ces smoothies ne sont pas bons!","No, for that, these smoothies are not good!"
+Adventure: The Quest for Karaoke,,Tu veux chanter au karaokè avec moi?,Do you want to sing karaoke with me?
+Adventure: The Quest for Karaoke,,J'adore le karaoké! Mais je dois travailler.,I love karaoke! But I have to work.
+Adventure: The Quest for Karaoke,,Amuse-toi bien au karaoké!,Have fun at karaoke!
+Adventure: The Quest for Karaoke,,"Salut Lucie, tu prends le bus aussi?","Hi Lucie, are you taking the bus too?"
+Adventure: The Quest for Karaoke,,"Non, je cherche quelqu'un pour chanter au karaoké.","No, I'm looking for someone to sing karaoke with."
+Adventure: The Quest for Karaoke,,"Désolée, je ne peux pas venir. J'apporte ce médicament pour la gorge à Zari. Demade à Lin.","Sorry, I can't come. I'm bringing this throat medicine to Zari. Ask Lin."
+Adventure: The Quest for Karaoke,,Lin est malade et elle ne peut pas chanter.,Lin is sick and she cannot sing.
+Adventure: The Quest for Karaoke,,J'ai un médicament pour la gorge. Donne ce médicament à Lin.,I have medicine for the throat. Give this medicine to Lin.
+Adventure: The Quest for Karaoke,,Ça va Mamie?,"How are you, Granny?"
+Adventure: The Quest for Karaoke,,Voici un médicament pour ta gorge.,Here is a medicine for your throat.
+Adventure: The Quest for Karaoke,,Merci Mamie.,"Thank you, Grandma."
+Adventure: The Quest for Karaoke,,Tu peux chanter au karaoké maintanant?,Can you sing karaoke now?
+Adventure: The Quest for Karaoke,,"Oui, mais je choisis la chanson. Allons-y!","Yes, but I choose the song. Let's go!"
+Radio: Singing Stranger - Lily and Strangers,,"Bonjour, je m'appelle Léo. Je danse souvent dans la rue.","Hello, my name is Léo. I often dance in the street."
+Radio: Singing Stranger - Lily and Strangers,,J'aime aussi chanter. Je voyage avec mes amis.,I also like to sing. I travel with my friends.
+Radio: Singing Stranger - Lily and Strangers,,Nous visitons souvent des églises. C'est amusant et intéressant.,We often visit churches. It's fun and interesting.
