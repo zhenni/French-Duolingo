@@ -20,9 +20,43 @@ Speak: Ask About Pets,,"Oui, j'ai un chat","Yes, I have a cat"
 "Tip - I think, therefore...",,il est,He is or It is
 "Tip - I think, therefore...",,elle est,she is
 "Tip - I think, therefore...",,Je suis un garçon,I'm a boy
+Video Call: Falstaff,,Tu vois quoi?,What do you see?
+Video Call: Falstaff,,Je vois un homme.,I see a man.
+Video Call: Falstaff,,Je vois un garçon.,I see a boy.
+Video Call: Falstaff,,Je vois un chat.,I see a cat.
 Coded Breakfast - Lucy is Listening,,"Bonjour, je suis Marie.","Hello, I am Marie."
 Coded Breakfast - Lucy is Listening,,"Bonjour, je suis Louis.","Hello, I am Louis."
 Coded Breakfast - Lucy is Listening,,Tu manges une pizza?,Are you eating a pizza?
 Coded Breakfast - Lucy is Listening,,"Non, je mange un croissant.","No, I am eating a croissant."
 Coded Breakfast - Lucy is Listening,,"Ah, un croissant?","Ah, a croissant?"
 Coded Breakfast - Lucy is Listening,,"Oui, et une orange.","Yes, and an orange."
+Video Call: Lily,,Bonsoir.,Good evening
+Video Call: Lily,,Tu aimes les chats?,Do you like cats?
+Video Call: Lily,,J'aime les chats.,I like cats
+Video Call: Lily,,"Moi aussi, J'aime les chats.",I also like cats.
+Video Call: Lily,,Tu aimes les chiens?,Do you like dogs?
+Video Call: Lily,,J'aime les chiens.,I like dogs
+Video Call: Lily,,C'est super!,That's great!
+Video Call: Lily,,"Moi, j'ai un chien.",I have a dog.
+Video Call: Lily,,Tu aimes manger une orange?,Do you like to eat an orange?
+Video Call: Lily,,J'aime manger une orange.,I like to eat an orange.
+Video Call: Lily,,C'est bien!,That's good!
+Video Call: Lily,,Tu manges une orange.,You eat an orange.
+Video Call: Lily,,Tu aimes la pizza?,Do you like pizza?
+Video Call: Lily,,J'aime la pizza.,I like pizza.
+Video Call: Lily,,Tu aimes la pizza.,You like pizza.
+Video Call: Lily,,"Bon, à bientôt. Salut.","Well, see you soon. Bye."
+Adventure: Junior in Paris,,Un croissant!,A croissant!
+Adventure: Junior in Paris,,Un croissant? OK!,A croissant? OK!
+Adventure: Junior in Paris,,Bonjour!,Hello!
+Adventure: Junior in Paris,,Vous voulez quelque chose?,Do you want something?
+Adventure: Junior in Paris,,Je veux un croissant.,I want a croissant.
+Adventure: Junior in Paris,,Un croissant? Un ou deux?,A croissant? One or two?
+Adventure: Junior in Paris,,Un croissant.,A croissant.
+Adventure: Junior in Paris,,Nature au chocolat?,Plain with chocolate?
+Adventure: Junior in Paris,,Nature,Nature
+Adventure: Junior in Paris,,D'accord le croissant. Salut!,"Okay, the croissant. Bye!"
+New Words - Adventure,,table,table
+New Words - Adventure,,lait et sucre,milk and sugar
+New Words - Adventure,,canapé,"Sofa, couch, settee, or canapé (small, decorative appetizer)."
+New Words - Adventure,,gâteaux,cake

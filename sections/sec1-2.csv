@@ -9,6 +9,8 @@ Speak: Say Goodbye,,"Bon, à bientôt, alors?","Well, see you soon, then?"
 Speak: Say Goodbye,,"Oui,  à bientôt.","Yes, see you soon."
 Speak: Say Goodbye,,"Bon, à demain, alors?","All righty, then."
 Speak: Say Goodbye,,"Oui, à demain.","Yes, see you tomorrow."
+Video Call: Falstaff,,Comment ça va?,How are you?
+Video Call: Falstaff,,"Ça va bien, merci.","I'm fine, thank you."
 Radio: Hidden Politeness - Lucy is Listening,,Bonjour!,Hello!
 Radio: Hidden Politeness - Lucy is Listening,,"Bonjour, commen ça va?","Hello, how are you?"
 Radio: Hidden Politeness - Lucy is Listening,,"Ça va bien, merci. Et toi?","Everything is fine, thank you. And you?"
@@ -17,3 +19,31 @@ Radio: Hidden Politeness - Lucy is Listening,,Tu mange un croissant?,Do you eat 
 Radio: Hidden Politeness - Lucy is Listening,,"Non, je mange une pizza.","No, I'm eating a pizza."
 Radio: Hidden Politeness - Lucy is Listening,,Bonne journée!,Have a nice day!
 Radio: Hidden Politeness - Lucy is Listening,,Au revoir!,Goodbye
+Video Call: Lily,,Bonsoir!,Good evening!
+Video Call: Lily,,Comment ça va? Tu aimes les croissants?,How are you? Do you like croissants?
+Video Call: Lily,,"Ça va bien, j'aime les croissants.","I am doing well, I like croissants."
+Video Call: Lily,,Super! J'aime beaucoup les croissants aussi.,Great! I really like croissants too.
+Video Call: Lily,,Tu aimes la pizza?,Do you like pizza?
+Video Call: Lily,,J'aime la pizza.,I like pizza
+Video Call: Lily,,C'est bon!,That's/It's good
+Video Call: Lily,,Tu manges une orange?,Are you eating an orange?
+Video Call: Lily,,Je mange une orange.,I eat an orange.
+Video Call: Lily,,C'est très bien!,That's very good!
+Video Call: Lily,,"Bon, à bientôt, OK?","Right, see you in a while, OK?"
+Video Call: Lily,,"Ok, à bientôt.","Ok, see you soon."
+Video Call: Lily,,Salut.,Hi.
+Adventure: Lily at the pizzaria,,Une pizza!,A pizza!
+Adventure: Lily at the pizzaria,,Une pizza? OK!,A pizza? OK!
+Adventure: Lily at the pizzaria,,Salut.,Hello! (or Hi!)
+Adventure: Lily at the pizzaria,,Tu veux une pizza?,Do you want some pizza?
+Adventure: Lily at the pizzaria,,Je veux une pizza. ,I want a pizza.
+Adventure: Lily at the pizzaria,,Une grande pizza?,A big pizza?
+Adventure: Lily at the pizzaria,,"Grande, c'est beaucoup. Tu veux une petite pizza?","Big, that's a lot. Do you want a small pizza?"
+Adventure: Lily at the pizzaria,,Une grande pizza.,A large pizza.
+Adventure: Lily at the pizzaria,,La pizza! Merci!,The pizza! Thank you!
+New Words - Adventure,,jeu d'arcade,arcade game
+New Words - Adventure,,poubelle,dustbin
+New Words - Adventure,,buffet de pizzas,pizza buffet
+New Words - Adventure,,réfrigérateur,refrigerator
+New Words - Adventure,,boîtes à pizza,pizza boxes
+New Words - Adventure,,frigo à sodas,soda fridge
