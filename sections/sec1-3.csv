@@ -17,10 +17,34 @@ Speak: Ask About Preferences,,Tu préfères les croissants ou les éclair?,Do yo
 Speak: Ask About Preferences,,Je préfère les croissants.,I prefer croissants.
 Speak: Ask About Preferences,,Tu préfère les gâteaux ou les fruits?,Do you prefer cakes or fruit?
 Speak: Ask About Preferences,,Je préfère les gâteaux.,I prefer cakes.
+Video Call: Falstaff,,Tu parles français?,Do you speak French?
+Video Call: Falstaff,,"Non, je parle anglais.","No, I speak English."
+Video Call: Falstaff,,"Oui, je parle français et anglais.","Yes, I speak French and English."
 Radio: Multilingual Strangers - Lily and Strangers,,Bonjour. Je m'appelle Sophie.,Hello. My name is Sophie.
 Radio: Multilingual Strangers - Lily and Strangers,,Je suis française. Je parle français et anglais.,I am French. I speak French and English.
 Radio: Multilingual Strangers - Lily and Strangers,,Mon ami s'applle Louis. Louis est Mexicain.,My friend's name is Louis. Louis is Mexican.
 Radio: Multilingual Strangers - Lily and Strangers,,Louis parle espagnol.,Louis speaks Spanish.
+Video Call: Lily,,Tu aimes les chats?,Do you like cats?
+Video Call: Lily,,J'aime les chat.,I like the cat.
+Video Call: Lily,,Cool! Tu manges des croissants?,Cool! Are you eating croissants?
+Video Call: Lily,,Je mange des croissants.,I am eating croissants.
+Video Call: Lily,,"Ah, c'est bon! Tu aimes la pizza?","Ah, that's good! Do you like pizza?"
+Video Call: Lily,,J'aime la pizza.,I like pizza
+Video Call: Lily,,"Moi aussi, j'aime la pizza.",I also like pizza.
+Video Call: Lily,,Tu as un chien?,You have a dog?
+Video Call: Lily,,"Non, je n'ai pas de chien.","No, I do not have a dog."
+Video Call: Lily,,"D'accord, tu n'as pas de chien.","Okay, you don't have a dog."
+Video Call: Lily,,"Non, à bientôt.","No, see you soon."
+Adventure: Eddy at the Park,,Un menu!,A menu!
+Adventure: Eddy at the Park,,Tu veux de l'aide?,Do you want help?
+Adventure: Eddy at the Park,,Je veux un menu.,I want a menu.
+Adventure: Eddy at the Park,,Tu veux manger ou boire?,Do you want to eat or drink?
+Adventure: Eddy at the Park,,"Les deux, s'il vous plaît.","Both, please."
+Adventure: Eddy at the Park,,"Voici, le menu.",Here is the menu.
+New Words - Adventure,,buisson,bush
+New Words - Adventure,,stand de smoothies,smoothie stand
+New Words - Adventure,,poubelle,dustbin
+New Words - Adventure,,banc,bench
 Adventure: Oscar Finds a Passport,,Je ne suis pas disponible pour l'instant,I am not available at the moment
 Adventure: Oscar Finds a Passport,,Un passport américain!,An American passport!
 Adventure: Oscar Finds a Passport,,Qui est américain...?,Who is American...?
