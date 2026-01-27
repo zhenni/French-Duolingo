@@ -10,9 +10,18 @@ Tip - J'habite à Paris!,,J'habite en France.,I live in France.
 Tip - J'habite à Paris!,,Je travaille à Madrid.,I work in Madrid.
 Tip - J'habite à Paris!,,Je travaille en Espagne.,I work in Spain.
 Tip - J'habite à Paris!,,Je travaille en France.,I work in France.
+Video Call: Falstaff,,Tu habites où?,Where do you live?
+Video Call: Falstaff,,J'habite à Paris.,I live in Paris.
 Radio: Brief Encounter - Lily and Strangers,,Bonjour! Je m'appelle Omar. J'étudie en France. ,Hello! My name is Omar. I am studying in France.
 Radio: Brief Encounter - Lily and Strangers,,J'étudie à Paris. Je suis étudiant. J'étudie avec un professeur. ,I am studying in Paris. I am a student. I am studying with a professor.
 Radio: Brief Encounter - Lily and Strangers,,"Oui, je suis très heureux ici.","Yes, I am very happy here."
+Video Call: Falstaff 2,,Tu travaille ici?,Do you work here?
+Video Call: Falstaff 2,,"Oui, je travaille ici.","Yes, I work here."
+Video Call: Falstaff 2,,"Non, je travaille à Paris.","No, I work in Paris."
+Video Call: Falstaff 3,,Tu étudie ou tu travailles?,Are you studying or are you working?
+Video Call: Falstaff 3,,J'étudie.,I study. / I am studying.
+Video Call: Falstaff 3,,Je travaille.,I work.
+Video Call: Falstaff 3,,J'etudie et je travaille.,I study and I work.
 Radio: Living in Different Cities,,"Bonjour, Lisa!","Hello, Lisa!"
 Radio: Living in Different Cities,,"Bonjour, Louis! Tu habites ici?","Hello, Louis! Do you live here?"
 Radio: Living in Different Cities,,"Non, j'habite en Angleterre. Et toi?","No, I live in England. And you?"
@@ -24,6 +33,17 @@ Speak: Discuss Studies,,"Tu étudie l'anglais, non?","You study English, right?"
 Speak: Discuss Studies,,"Oui, j'étudie l'anglais.","Yes, I am studying English."
 Speak: Discuss Studies,,"Tu étudie l'espagnol, non?","You study Spanish, right?"
 Speak: Discuss Studies,,"Oui, j'étudie l'espagnol.","Yes, I study Spanish."
+Video Call: Lily,,"Moi, je suis étudiante.",I am a student.
+Video Call: Lily,,Tu es étudiant ou étudiante?,Are you a student?
+Video Call: Lily,,Tu aimes la musique?,Do you like music?
+Video Call: Lily,,"Je suis étudiente, j'aime la musique.","I am a student, I love music."
+Video Call: Lily,,Très bien! J'aime la musique aussi.,Very good! I like the music too.
+Video Call: Lily,,Tu aimes la pizza?,Do you like pizza?
+Video Call: Lily,,J'aime la pizza.,I like pizza.
+Video Call: Lily,,"Moi aussi, j'aime la pizza.",I like pizza too.
+Video Call: Lily,,Tu habites où?,where do you live?
+Video Call: Lily,,J'habite aux États-Unis.,I live in the United States.
+Video Call: Lily,,"D'accord, tu habites aux États-Unis.","Okay, you live in the United States."
 Story: The Journalist,,Le journaliste.,The journalist.
 Story: The Journalist,,Pardon.,Sorry. / Excuse me. / Pardon?
 Story: The Journalist,,Bonjour! Je m'appelle Eddy.,Hello! My name is Eddy.
@@ -44,12 +64,40 @@ Radio: Names and Smells - Falstaff’s Guide to Humans,,"Oui j'étudie à une un
 Radio: Names and Smells - Falstaff’s Guide to Humans,,"Oui, je travaille ici en France.","Yes, I work here in France."
 Radio: Names and Smells - Falstaff’s Guide to Humans,,"Ah, tu habites en France?","Ah, you live in France?"
 Radio: Names and Smells - Falstaff’s Guide to Humans,,"Non, j'habite en Angleterre.","No, I live in England."
+Speak: Ask About Studies,,"Tu étudies le français, non?","You study French, right?"
+Speak: Ask About Studies,,"Oui, j'étudie le français.","Yes, I study French."
+Speak: Ask About Studies,,"Tu étudies l'italien, non?","You're studying Italian, right?"
+Speak: Ask About Studies,,"Oui, j'étudie l'italien.","Yes, I am studying Italian."
+Video Call: Lily,,Tu es étudiante? Tu aimes étudier?,Are you a student? Do you like to study?
+Video Call: Lily,,"Je suis étudiante, j'aime étudier.","I am a student, I like to study."
+Video Call: Lily,,Cool! Tu aimes la musique?,Cool! Do you like music?
+Video Call: Lily,,J'aime la musique.,I like music.
+Video Call: Lily,,Super! Tu aimes la pizza?,Great! Do you like pizza?
+Video Call: Lily,,J'aime la pizza.,I like pizza.
+Video Call: Lily,,Très bien! La pizza est très bonne.,Very good! The pizza is very good.
 Radio: Students Abroad,,Salut Léo! tu habites ici? ,Hello Leo! Do you live here?
 Radio: Students Abroad,,"Oui, j'habite en France. Et toi? ","Yes, I live in France. And you?"
 Radio: Students Abroad,,J'habite en Espagne. Tu travailles ici?,I live in Spain. Do you work here?
 Radio: Students Abroad,,"Non, je suis étudient. Et toi? Tu travailles?","No, I am a student. And you? Do you work?"
 Radio: Students Abroad,,"Non, je suis étudiente aussi. Ah, tu étudies avec un professeur? ","No, I'm a student too. Ah, are you studying with a professor?"
 Radio: Students Abroad,,"Oui, et j'étudie beaucoup.","Yes, and I study a lot."
+Adventure: Eddy at the Library,,Un magazine.,A magazine.
+Adventure: Eddy at the Library,,Tu veux de l'aide?,Do you want help?
+Adventure: Eddy at the Library,,Je veux un magazine.,I want a magazine.
+Adventure: Eddy at the Library,,Un magazine? En anglais ou en français?,A magazine? In English or in French?
+Adventure: Eddy at the Library,,Je ne sais pas.,I don't know.
+Adventure: Eddy at the Library,,Tu étudies le français?,Do you study French?
+Adventure: Eddy at the Library,,Je étudie le français.,I study French.
+Adventure: Eddy at the Library,,"D'accord, un magazine. À bientôt.","Okay, a magazine. See you soon."
+Adventure: Eddy at the Library,,"Le magazine, merci!","The magazine, thank you!"
+New Words - Adventure,,livres,books or pounds
+Roleplay: Meet your French teacher,,"Salut, tu es étudiante ici?","Hi, are you a student here?"
+Roleplay: Meet your French teacher,,Je suis étudiante ici.,I am a student here.
+Roleplay: Meet your French teacher,,D'accord. Tu habites où?,Okay. Where do you live?
+Roleplay: Meet your French teacher,,J'habite aux États-Unis.,I live in the United States.
+Roleplay: Meet your French teacher,,"Ah, c'est intéressant. Tu amies l'école?","Ah, that's interesting. Do you like school?"
+Roleplay: Meet your French teacher,,"Oui, j'aime l'école.","Yes, I like school."
+Roleplay: Meet your French teacher,,"Très bien. Maintenant, tu travailles avec moi.",Very good. Now you work with me.
 Adventure: Nice to Meet You,,Bonjour! Comment ça va?,"Hello, how are you?"
 Adventure: Nice to Meet You,,Ça va bien. Je m'appelle Zari.,I'm doing well. My name is Zari.
 Adventure: Nice to Meet You,,Tu es étudiente ici?,Are you a student here?
