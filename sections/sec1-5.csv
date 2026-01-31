@@ -15,6 +15,9 @@ Tip - Tu as un passeport?,,j'ai ,I have
 Tip - Tu as un passeport?,,tu ai,you have
 Tip - Tu as un passeport?,,"il a, elle a",he/she has
 Tip - Tu as un passeport?,,J'ai un passeport.,I have a passport.
+Video Call: Falstaff,,Tu manges où aujourd'hui?,Where are you eating today?
+Video Call: Falstaff,,Je vais au café.,I'm going to the cafe.
+Video Call: Falstaff,,Ja vais au restaurant.,I go to a restaurant.
 Radio: Flying Plans - Falstaff’s Guide to Humans,,"Bonjour, Louis. Tu vas où?","Hello, Louis. Where are you going?"
 Radio: Flying Plans - Falstaff’s Guide to Humans,,"Salut, Samia. Je vais à la gare. Et toi?","Hi, Samia. I am going to the train station. And you?"
 Radio: Flying Plans - Falstaff’s Guide to Humans,,Je vais à l'aéroport.,I'm going to the airport.
@@ -22,6 +25,16 @@ Radio: Flying Plans - Falstaff’s Guide to Humans,,Tu prends un avion?,Are you 
 Radio: Flying Plans - Falstaff’s Guide to Humans,,"Oui, j'ai un billet d'avion. Et toi, le train?","Yes, I have a plane ticket. And you, the train?"
 Radio: Flying Plans - Falstaff’s Guide to Humans,,"Oui, je prends le train. Bonne journée.","Yes, I am taking the train. Have a nice day."
 Radio: Flying Plans - Falstaff’s Guide to Humans,,Merci! À bientôt!,Thank you! See you soon!
+Video Call: Falstaff 2,,Comment vas-tu à Paris?,How are you going to Paris?
+Video Call: Falstaff 2,,Je vais à Paris en avion.,I am going to Paris by plane.
+Video Call: Falstaff 2,,Je vais à Paris en train.,I am going to Paris by train.
+Video Call: Falstaff 2,,Je vais à Paris en voiture.,I am going to Paris by car.
+Video Call: Falstaff 3,,Comment vas-tu à l'aéroport?,How are you going to the airport?
+Video Call: Falstaff 3,,Comment vas-tu à l'hôtel?,How are you going to the hotel?
+Video Call: Falstaff 3,,Je vais à l'aéroport en voiture.,I am going to the airport by car.
+Video Call: Falstaff 3,,Je vais à l'hôtel en voiture.,I am going to the hotel by car.
+Video Call: Falstaff 3,,Je vais à l'hôtel en taxi.,I am going to the hotel by taxi.
+Video Call: Falstaff 3,,Je vais à l'aéroport en taxi.,I am going to the airport by taxi.
 Radio: Bus Stop Encounter - Lucy is Listening,,"Salut, Léo. Tu vas où?","Hi, Léo. Where are you going?"
 Radio: Bus Stop Encounter - Lucy is Listening,,"Salut, Paul. Je vais à la gare. Et toi?","Hi, Paul. I'm going to the station. And you?"
 Radio: Bus Stop Encounter - Lucy is Listening,,Je vais à l'aeroport en taxi.,I am going to the airport by taxi.
@@ -33,6 +46,17 @@ Speak: Ask About Living,,Tu habites où?,Where do you live?
 Speak: Ask About Living,,J'habite à Paris.,I live in Paris.
 Speak: Ask About Living,,Tu travailles où?,Where do you work?
 Speak: Ask About Living,,Je travaille à Lyon.,I work in Lyon.
+Video call: Lily,,Tu aimes le chat?,Do you like the cat?
+Video call: Lily,,Je n'aime pas le chat.,I don't like the cat.
+Video call: Lily,,"Si, j'aime le chat.","Yes, I like the cat."
+Video call: Lily,,Tu aimes la voiture.,You like the car.
+Video call: Lily,,Je n'aime pas la voiture.,I do not like the car.
+Video call: Lily,,"Oui, je n'aime pas la voiture.","Yes, I don't like the car."
+Video call: Lily,,Tu aimes le train.,You like the train.
+Video call: Lily,,"Non, je n'aime pas le train.","No, I do not like the train."
+Video call: Lily,,"D'accord. Bon à bientôt, OK?","All right. See you soon, okay?"
+Video call: Lily,,"Je parle avec toi encore, pas de problème.","I'm talking to you again, no problem."
+Video call: Lily,,"On parle encore un peu, oui?","Shall we talk a little more, yes?"
 Story: At the Airport,,À l'aéroport,at the airport
 Story: At the Airport,,"Lin, tu as ton passeport?","Lin, do you have your passport?"
 Story: At the Airport,,J'ai la valise!,I have the suitcase!
@@ -41,17 +65,48 @@ Story: At the Airport,,Et un croissant!,And a croissant!
 Story: At the Airport,,"Où est ton passeport, Lin?","Where is your passport, Lin?"
 Story: At the Airport,,Oh non! Il est à la gare!,Oh no! He is at the station!
 Story: At the Airport,,Comment on va en Espagne?!,How do we go to Spain?!
+New Words - Story,,on va,"we go, or we are going"
 Radio: Traveling to France - Lily and Strangers,,"Bonjour, je m'appelle Alice. Je vais en France.","Hello, my name is Alice. I'm going to France."
 Radio: Traveling to France - Lily and Strangers,,Je prends le traint et l'avion.,I'm taking the train and the plane.
 Radio: Traveling to France - Lily and Strangers,,J'ai un passeport américain.,I have an American passport.
 Radio: Traveling to France - Lily and Strangers,,"En France, je vais à un restaurant français.","In France, I go to a French restaurant."
 Radio: Traveling to France - Lily and Strangers,,Le restaurant est près de la gare.,The restaurant is near the train station.
+New Words - Radio,,près de la gare,near the train station
 Speak: Ask About Places,,Tu étudies où?,Where do you study?
 Speak: Ask About Places,,J'étudie à Paris.,I study in Paris.
 Speak: Ask About Places,,Tu habites où?,Where do you live?
 Speak: Ask About Places,,J'habite à Marseille.,I live in Marseille.
-New Words - Story,,on va,we will
-New Words - Radio,,près de la gare,near the station
+Video Call: Lily,,Tu aimes les trains?,Do you like trains?
+Video Call: Lily,,Je n'aime pas les trains.,I do not like trains.
+Video Call: Lily,,Je ne comprends pas bien.,I don't understand well.
+Video Call: Lily,,Tu aimes les voiture?,You like cars?
+Video Call: Lily,,"Non, je n'aime pas les voiture. Tu aimes le taxi?","No, I don't like cars. Do you like the taxi?"
+Video Call: Lily,,"Oui, j'aime le taxi. Tu aimes le restaurant?","Yes, I like the taxi. Do you like the restaurant?"
+Video Call: Lily,,"Oui, j'aime le restaurant, j'aime le restaurant français.","Yes, I like the restaurant, I like the French restaurant."
+Video Call: Lily,,J'aime aussi le restaurant français.,I also like the French restaurant.
+Video Call: Lily,,"Bon, à bientôt.","Right, see you in a while."
+Adventure: Lucy Arrives in Nice,,Un taxi.,A taxi.
+Adventure: Lucy Arrives in Nice,,Vous avez besoin d'aide?,You need help
+Adventure: Lucy Arrives in Nice,,Je veux un taxi.,I want a taxi.
+Adventure: Lucy Arrives in Nice,,Un taxi. Où? Où allez-vous?,A taxi. Where? Where are you going?
+Adventure: Lucy Arrives in Nice,,Je ne sais pas.,I don't know.
+Adventure: Lucy Arrives in Nice,,C'est possible. Au revoir!,It's possible. Goodbye!
+Adventure: Lucy Arrives in Nice,,Merci pour l'info.,Thank you for the information.
+New Words - Adventure,,récupération des bagages,Baggage claim
+New Words - Adventure,,bagage,baggage
+New Words - Adventure,,récupération,recovery
+New Words - Adventure,,panneau sol mouillé,wet floor sign
+New Words - Adventure,,panneau,"sign, panel, board"
+New Words - Adventure,,sol,"floor, soil, ground, or G (music note)"
+New Words - Adventure,,mouillé,wet
+New Words - Adventure,,poubelle,the trash or the garbage
+Roleplay: Socialize on a flight,,"Salut, tu t'appelles comment?","Hi, what is your name?"
+Roleplay: Socialize on a flight,,Je m'appelle Alice.,My name is Alice.
+Roleplay: Socialize on a flight,,"D'où viens-tu, Alice?","Where are you from, Alice?"
+Roleplay: Socialize on a flight,,Je viens des États-Unis.,I'm from the United States.
+Roleplay: Socialize on a flight,,"Ah, les États-Unis. C'est loin, non?","Ah, the United States. That's far, isn't it?"
+Roleplay: Socialize on a flight,,"Oui, c'est loin de la France.","Yes, it is far from France."
+Roleplay: Socialize on a flight,,"Oui, c'est très loin. Bon voyage, Alice.","Yes, it's very far. Have a good trip, Alice."
 Adventure: Let's Fly!,,Bonjour! Tu vas où?,Hello! Where are you going?
 Adventure: Let's Fly!,,Bonjour! Je vais à Paris.,Hello! I am going to Paris.
 Adventure: Let's Fly!,,Passeport?,Passport?

@@ -7,11 +7,20 @@ Key Phrases - Talk about things you do,,Tu vas à l'école?,Are you going to sch
 Key Phrases - Talk about things you do,,"Non, je vais au parc.","No, I'm going to the park."
 Tip - Au wow!,,Tu vas au restaurant.,You go to the restaurant.
 Tip - Au wow!,,Elle va au zoo.,She goes to the zoo.
+Video Call: Falstaff,,Vous habitez où?,Where do you live?
+Video Call: Falstaff,,Nous habitons dans une maison à Paris.,We live in a house in Paris.
+Video Call: Falstaff,,Nous habitons dans un appartemant à Paris.,We live in an apartment in Paris.
 Radio: Reading Habits - Lily and Strangers,,"Bonjour, je m'appelle Emma. Nous sommes français et nous habitons en France.","Hello, my name is Emma. We are French and we live in France."
 Radio: Reading Habits - Lily and Strangers,,Nous aimons beaucoup lire.,We like reading a lot.
 Radio: Reading Habits - Lily and Strangers,,Je veux lire un livre au parc.,I want to read a book in the park.
 Radio: Reading Habits - Lily and Strangers,,Après nous allons au cinéma.,"After, we are going to the cinema."
 Radio: Reading Habits - Lily and Strangers,,C'est une bonne journée.,It's a good day.
+Video Call: Falstaff 2,,Tu aimes où tu habites?,Do you like where you live?
+Video Call: Falstaff 2,,"Oui, j'aime mon appartemant.","Yes, I like my apartment."
+Video Call: Falstaff 2,,"Oui, j'aime ma maison.","Yes, I love my house."
+Video Call: Falstaff 3,,Où mangeons-nous aujourd'hui?,Where are we eating today?
+Video Call: Falstaff 3,,Nous allons au café.,We are going to the café.
+Video Call: Falstaff 3,,Nous allons au restaurant.,We are going to the restaurant
 Radio: Bus to the Park - Late Nights with Lin,,Bonjour. Je m'appelle Paul. Je vais au travail tous les jours.,Hello. My name is Paul. I go to work every day.
 Radio: Bus to the Park - Late Nights with Lin,,Je vais au travail en bus.,I go to work by bus.
 Radio: Bus to the Park - Late Nights with Lin,,"Après, je vais au parc en bus aussi.","Afterwards, I'm going to the park by bus too."
@@ -21,6 +30,12 @@ Speak: Ask About Locations,,Habitons-nous à Paris?,Do we live in Paris?
 Speak: Ask About Locations,,"Oui, nous habitons à Paris.","Yes, we live in Paris."
 Speak: Ask About Locations,,Habitons-nous à Montréal?,Do we live in Montreal?
 Speak: Ask About Locations,,"Oui, nous habitons à Montréeal.","Yes, we live in Montreal."
+Video Call: Lily,,Tu aimes la musique?,Do you like music?
+Video Call: Lily,,"J'aime la musique, et toi?","I like music, and you?"
+Video Call: Lily,,"Moi aussi, j'aime la musique.",I also like music.
+Video Call: Lily,,Tu aimes lire des livres?,Do you like reading books?
+Video Call: Lily,,J'aime lire aussi.,I like to read too.
+Video Call: Lily,,Merci! J'aime mes livres aussi.,Thank you! I like my books too.
 Story: I'm Tired,,Je suis fatigué,I am tired.
 Story: I'm Tired,,Nous allons au parc? au zoo?,Shall we go to the park? to the zoo?
 Story: I'm Tired,,Je suis fatigué.,I'm tired.
@@ -34,11 +49,37 @@ Radio: Secret Rendezvous - Lucy is Listening,,"Non, je vais au restaurant.","No,
 Radio: Secret Rendezvous - Lucy is Listening,,"Ah, j'aime les restaurants. Tu veux une pizza?","Ah, I like restaurants. Do you want a pizza?"
 Radio: Secret Rendezvous - Lucy is Listening,,"Oui, j'aime beaucoup la pizza.","Yes, I like pizza a lot."
 Radio: Secret Rendezvous - Lucy is Listening,,"Parfait, allons au restaurant ensemble.","Perfect, let's go to the restaurant together."
+Speak:  Ask About Pets,,Avons-nous un chat?,Do we have a cat?
+Speak:  Ask About Pets,,"Oui, nous avons un chat.","Yes, we have a cat."
+Speak:  Ask About Pets,,Avons-nous un chien?,Do we have a dog?
+Speak:  Ask About Pets,,"Oui, nous avons un chien.","Yes, we have a dog."
+Video Call: Lily 2,,Tu aimes la musique?,Do you like music?
+Video Call: Lily 2,,Je n'aime pas la musique.,I don't like music.
+Video Call: Lily 2,,"D'accord, c'est bien. Tu aimes le chocolat?","Okay, that's good. Do you like chocolate?"
+Video Call: Lily 2,,J'aime le chocolat. Je mange beaucoup de chocolat.,I like chocolate. I eat a lot of chocolate.
+Video Call: Lily 2,,Super! Le chocolat est bon. Tu aimes lire un livre?,Great! The chocolate is good. Do you like to read a book?
+Video Call: Lily 2,,Je n'aime pas lire.,I don't like reading.
+Video Call: Lily 2,,D'accord. On peut parler encore ensemble.,Okay. We can talk together again.
 Radio: Music and the Park - Lily and Strangers,,"Bonjour, je m'appelle Alice. J'aime la musique.","Hello, my name is Alice. I like music."
 Radio: Music and the Park - Lily and Strangers,,J'étudie la musique à l'école.,I study music at school.
 Radio: Music and the Park - Lily and Strangers,,Nous avons un professeur très gentil.,We have a very nice teacher.
 Radio: Music and the Park - Lily and Strangers,,"Après l'école, je vais au parc.","After school, I go to the park."
 Radio: Music and the Park - Lily and Strangers,,J'aime lire un livre au parc.,I like to read a book in the park.
+Adventure: Zari at the Library,,Je veux un livre.,I want a book.
+Adventure: Zari at the Library,,Tu veux un livre?,Do you want a book?
+Adventure: Zari at the Library,,"Un livre? Mystère, romance, science-fiction?","A book? Mystery, romance, science fiction?"
+Adventure: Zari at the Library,,Tu veux quel genre de livre?,What kind of book do you want?
+Adventure: Zari at the Library,,Voici un bon livre. ,Here is a good book.
+Adventure: Zari at the Library,,Merci pour le livre.,Thank you for the book.
+Roleplay: Get tickets at a box office,,Combien de billets voulez-vous?,How many tickets do you want?
+Roleplay: Get tickets at a box office,,"Un billet, s'il vous plaît.","A ticket, please."
+Roleplay: Get tickets at a box office,,Ça coûte dix euros. Vous payez en espèces ou par carte?,It costs ten euros. Do you pay in cash or by card?
+Roleplay: Get tickets at a box office,,Je paie avec ma carte.,I pay with my card.
+Roleplay: Get tickets at a box office,,"D'accord. Vous avez besoin de votre carte, je suppose?","Okay. You need your card, I suppose?"
+Roleplay: Get tickets at a box office,,Très bien. Voici votre billet.,Very good. Here is your ticket.
+Roleplay: Get tickets at a box office,,Vous aimez la musique?,Do you like music?
+Roleplay: Get tickets at a box office,,"Non, je n'aime pas vraiment la musique.","No, I don't really like music."
+Roleplay: Get tickets at a box office,,"Oui, j'adore la musique.","Yes, I love the music."
 Adventure: The Babysitter,,"Je veux du chocolat, Zari. J'aime le chocolat!","I want some chocolate, Zari. I like chocolate!"
 Adventure: The Babysitter,,Je prends le métro pour aller à l'école.,I take the subway to go to school.
 Adventure: The Babysitter,,"Le métro? Non, je veux du chocolat!","The subway? No, I want chocolate!"

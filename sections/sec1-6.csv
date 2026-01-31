@@ -13,6 +13,10 @@ Tip - Ma famille!,,son fils,his son
 Tip - Ma famille!,,sa fille,her daughter
 Tip - Whose kid is this?,,le chat de Marie,Marie's cat
 Tip - Whose kid is this?,,le chien d'Anna,Anna's dog
+Video Call: Falstaff,,Comment s'appelle ton frère?,What's your brother's name?
+Video Call: Falstaff,,Comment s'appelle ton père?,What's your father's name?
+Video Call: Falstaff,,Mon frère s'appelle Kevin.,My brother's name is Kevin.
+Video Call: Falstaff,,Mon père s'appelle Sam.,My father's name is Sam.
 Radio: Pets and Conversation,,"Bonjour, Louis.","Hello, Louis."
 Radio: Pets and Conversation,,"Bonjour, Lisa. Ça va?","Hello, Lisa. How are you?"
 Radio: Pets and Conversation,,"Oui, et toi?","Yes, and you?"
@@ -20,6 +24,14 @@ Radio: Pets and Conversation,,Très bien. Merci. Tu as un animal de compagnie,Ve
 Radio: Pets and Conversation,,"Oui, j'ai un chat. Et toi?","Yes, I have a cat. And you?"
 Radio: Pets and Conversation,,"Non, mais mon père a un chien.","No, but my father has a dog."
 Radio: Pets and Conversation,,"Ah, c'est chouette!","Ah, that's cool!"
+Video Call: Falstaff 2,,Ta famille habite où?,Where does your family live?
+Video Call: Falstaff 2,,Ma famille habite à Paris.,My family lives in Paris.
+Video Call: Falstaff 2,,Ma famille habite à Bordeaux.,My family lives in Bordeaux.
+Video Call: Falstaff 3,,C'est qui?,Who is it?
+Video Call: Falstaff 3,,C'est mon frère.,He's my brother.
+Video Call: Falstaff 3,,C'est mon père.,He's my father.
+Video Call: Falstaff 3,,C'est ma sœur.,She's my sister.
+Video Call: Falstaff 3,,C'est ma mère.,It's my mother.
 Radio: Paris Garden Chat - Late Nights with Lin,,"Bonjour, je m'appelle Marie. Ma famille habite à Paris.","Hello, my name is Marie. My family lives in Paris."
 Radio: Paris Garden Chat - Late Nights with Lin,,Mon père est français. ,My father is French.
 Radio: Paris Garden Chat - Late Nights with Lin,,Ma mère est aussi française.,My mother is also French.
@@ -29,6 +41,13 @@ Speak: Ask for Names,,Comment s'appelle ton frère?,What's your brother's name?
 Speak: Ask for Names,,Mon frère s'appelle Marc.,My brother's name is Marc.
 Speak: Ask for Names,,Comment s'appelle ton père?,What's your father's name?
 Speak: Ask for Names,,Mon pére s'appelle Jean.,My father's name is Jean.
+Video Call: Lily,,Tu aimes les animaux?,You like animals?
+Video Call: Lily,,"Oui, j'aime les animaux.","Yes, I like animals."
+Video Call: Lily,,Cool! Tu as un chien ou un chat?,Cool! Do you have a dog or a cat?
+Video Call: Lily,,"Non, je n'ai pas de chien et je n'ai pas de chat.","No, I do not have a dog and I do not have a cat."
+Video Call: Lily,,D'accord. Tu aimes la maison ou l'appartement?,Okay. Do you like the house or the apartment?
+Video Call: Lily,,"Oui, j'aime la maison et aussi l'appartement.","Yes, I like the house and also the apartment."
+Video Call: Lily,,"C'est chouette que tu aimes les duex, maison et appartement.","It's great that you like both, house and apartment."
 Story: Zari's Family,,La famille de Zari,Zari's family
 Story: Zari's Family,,Nous allons au restaurant mexicain avec ma famille. Tu veux venir?,We are going to the Mexican restaurant with my family. Do you want to come?
 Story: Zari's Family,,Euh... Qui va au restaurant? J'étudie...,Uh... Who is going to the restaurant? I'm studying...
@@ -46,6 +65,15 @@ Speak: Ask about Locations,,Où habite ton frère?,Where does your brother live?
 Speak: Ask about Locations,,Mon frère habite en Italie.,My brother lives in Italy.
 Speak: Ask about Locations,,Où habite ta famille?,Where does your family live?
 Speak: Ask about Locations,,Ma famille habite en France.,My family lives in France.
+Video Call: Lily 2,,Tu aimes les chiens?,Do you like dogs?
+Video Call: Lily 2,,J'aime les chiens. Tu aimes les chiens?,I like dogs. Do you like dogs?
+Video Call: Lily 2,,"Oui, j'aime les chiens beaucoup. Les chiens sont chouettes!","Yes, I like dogs a lot. Dogs are great!"
+Video Call: Lily 2,,Tu aimes la maison ou l'appartement?,Do you like the house or the apartment?
+Video Call: Lily 2,,J'aime la maison et aussi l'appartement.,I like the house and also the apartment.
+Video Call: Lily 2,,"C'est super, les deux sont chouettes.","It's great, both are cool."
+Video Call: Lily 2,,Tu as une sœur?,Do you have a sister?
+Video Call: Lily 2,,"Non, je n'ai pas de sœur.","No, I don't have a sister."
+Video Call: Lily 2,,"D'accord, tu n'ai pas de sœur.","Okay, you don't have a sister."
 Radio: Family and Studies,,"Bonjour, Lisa. Ça va?","Hello, Lisa. How are you?"
 Radio: Family and Studies,,"Bonjour, Paul. Oui. Et toi?","Hello, Paul. Yes. And you?"
 Radio: Family and Studies,,Ça va. Merci. Où habite ta famille?,I'm fine. Thank you. Where does your family live?
@@ -53,6 +81,23 @@ Radio: Family and Studies,,Ma famille habite en France. Et ta sœur?,My family l
 Radio: Family and Studies,,Ma sœur étudie en Italie.,My sister is studying in Italy.
 Radio: Family and Studies,,Ah chouette! Ton frère va bien? ,Oh great! Is your brother doing well?
 Radio: Family and Studies,,"Oui, mon frère va bien. Merci!","Yes, my brother is well. Thank you!"
+Adventure: Junior in Paris,,"Où est mon chien bleu, Max?","Where is my blue dog, Max?"
+Adventure: Junior in Paris,,Vous voulez de l'aide?,Do you want help?
+Adventure: Junior in Paris,,Vous cherchez quelque chose?,Are you looking for something?
+Adventure: Junior in Paris,,Où est le chien bleu de Lily?,Where is Lily's blue dog?
+Adventure: Junior in Paris,,Un chien bleu or un chein orange?,A blue dog or an orange dog?
+Adventure: Junior in Paris,,Un chien bleu.,A blue dog.
+Adventure: Junior in Paris,,Vous cherchez le chien de Lily?,Are you looking for Lily's dog?
+Adventure: Junior in Paris,,"Oui, le chien de Lily.","Yes, Lily's dog."
+Adventure: Junior in Paris,,Le chien de Lily est au café.,Lily's dog is at the cafe.
+Adventure: Junior in Paris,,Ton chien est au café!,Your dog is at the cafe!
+Adventure: Junior in Paris,,Au café? Typique... Merci!,At the café? Typical... Thank you!
+New Words - Adventure,,arbre,tree
+New Words - Adventure,,fleurs,flowers
+New Words - Adventure,,buisson,bush
+New Words - Adventure,,rocher,rock
+New Words - Adventure,,tableau d'information,information board
+New Words - Adventure,,banc,"bench, seat, shoal (of fish)"
 Adventure: Where's Junior?,,Où est mon fils?,Where is my son?
 Adventure: Where's Junior?,,Ton fils? Comment s'appelle ton fils?,Your son? What is your son's name?
 Adventure: Where's Junior?,,Il s'appelle Junior.,His name is Junior.
@@ -60,6 +105,16 @@ Adventure: Where's Junior?,,"Ma grand-mère, Lucie, est utile!","My grandmother,
 Adventure: Where's Junior?,,"Mon fils, Junior... Où est-il?","My son, Junior... Where is he?"
 Adventure: Where's Junior?,,"Il est ici, dans l'hôtel!","He is here, in the hotel!"
 Adventure: Where's Junior?,,"Salut Papa! C'est mon animal de compagnie, Praline!","Hello Papa! This is my pet, Praline!"
+Roleplay: Discuss your family with a friend,,Tu as un frère ou une sœur?,Do you have a brother or a sister?
+Roleplay: Discuss your family with a friend,,Je n'ai ni frère ni sœur. Tu es un frère ou une sœur?,I have neither a brother nor a sister. Are you a brother or a sister?
+Roleplay: Discuss your family with a friend,,"Non, je n'ai pas de frère ni de sœor. C'est ennuyeux.","No, I don't have a brother or sister. It's boring."
+Roleplay: Discuss your family with a friend,,"J'ai une sœur. Elle est... chouette, je suppose","I have a sister. She's... cool, I guess."
+Roleplay: Discuss your family with a friend,,"Ta famille est petite. Tu as un animal de compagnie, alors?","Your family is small. Do you have a pet, then?"
+Roleplay: Discuss your family with a friend,,"Non, je n'ai pas d'animal de compagnie. C'est trop de travail. Et toi?","No, I don't have a pet. It's too much work. And you?"
+Roleplay: Discuss your family with a friend,,"Oui, ma famille est petite. J'ai un chat. Et toi?","Yes, my family is small. I have a cat. And you?"
+Roleplay: Discuss your family with a friend,,"Non, je n'ai pas d'animal de compagnie. C'est ennuyeux.","No, I do not have a pet. It is boring."
+Roleplay: Discuss your family with a friend,,"D'accord. Pas d'animal, pas de problème.","Agreed. No animal, no problem."
+Roleplay: Discuss your family with a friend,,D'accord. Les chats sont plus faciles.,Okay. Cats are easier.
 New words - Radio,,chouette,owl or nice
 New words - Radio,,joue,cheek
 New words - Story,,veux venir,want to come / want to go
