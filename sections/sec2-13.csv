@@ -46,6 +46,25 @@ New words - Talk to someone formally,,Elle va attendre,She is going to wait
 New words - Talk to someone formally,,Pouvez-vous attendre ici?,Can you wait here?
 New words - Talk to someone formally,,bagages,luggage
 New words - Talk to someone formally,,Mes bagages sont ici,My luggage is here
+Story: I want a Pizza,,Je veux une pizza.,I want a pizza.
+Story: I want a Pizza,,Lin marche dans la rue.,Lin is walking in the street.
+Story: I want a Pizza,,Elle a deux pizzas.,She has two pizzas.
+Story: I want a Pizza,,Elle voit Oscar.,She sees Oscar.
+Story: I want a Pizza,,"Salut, Lin. Ça sent bon!","Hi, Lin. It smells good!"
+Story: I want a Pizza,,"Oui, ce sont des pizzas de chez Emilio.","Yes, they are pizzas from Emilio's."
+Story: I want a Pizza,,"Oh, j'adore ce restaurant.","Oh, I love this restaurant."
+Story: I want a Pizza,,Je veux une pizza maintenant!,I want a pizza now!
+Story: I want a Pizza,,"Oh, mais le restaurant est fermé.","Oh, but the restaurant is closed."
+Story: I want a Pizza,,Ah! Tu as deux pizzas. Je peux acheter une de tes pizzas?,Ah! You have two pizzas. Can I buy one of your pizzas?
+Story: I want a Pizza,,"Non, désolée. Il y a une pizza pour ma grand-mère, Lucie, et une pizza pour moi.","No, sorry. There is a pizza for my grandmother, Lucie, and a pizza for me."
+Story: I want a Pizza,,Je peux avoir un peu de ta pizza?,Can I have a bit of your pizza?
+Story: I want a Pizza,,"Non, Oscar.","No, Oscar."
+Story: I want a Pizza,,Lin rentre chez elle.,Lin returns home.
+Story: I want a Pizza,,Je veux manger une pizza de chez Emilio maintenant.,I want to eat a pizza from Emilio's now.
+Story: I want a Pizza,,Oscar prend son téléphone.,Oscar takes his phone.
+Story: I want a Pizza,,"Salut, Lucie, c'est Oscar. Tu fais quelque chose pour le dîner?","Hi Lucie, it's Oscar. Are you doing something for dinner?"
+Story: I want a Pizza,,Je mange une pizza avec Lin! Tu veux manger avec nous?,I am eating a pizza with Lin! Do you want to eat with us?
+Story: I want a Pizza,,"Bonne idée, merci!","Good idea, thank you!"
 Radio: A Cafe Encounter - Lucy is Listening,,"Excusez-moi, mademoiselle. ","Excuse me, miss."
 Radio: A Cafe Encounter - Lucy is Listening,,Voulez-vous boire quelque chose?,Would you like a drink?
 Radio: A Cafe Encounter - Lucy is Listening,,"Oui, je voudrais du jus, s'il vous plaît.","Yes, I would like some juice, please."
@@ -81,25 +100,22 @@ Speak: Ask for Preferences,,Voulez-vous un café?,Would you like a coffee?
 Speak: Ask for Preferences,,"Oui, je voudrais un café.","Yes, I'd like a coffee."
 Speak: Ask for Preferences,,Voulez-vous manger quelque chose?,Do you want to eat something?
 Speak: Ask for Preferences,,"Oui, je voudrais manger quelque chose.","Yes, I would like to eat something."
-Story: I want a Pizza,,Je veux une pizza.,I want a pizza.
-Story: I want a Pizza,,Lin marche dans la rue.,Lin is walking down the street.
-Story: I want a Pizza,,Elle a deux pizzas.,She has two pizzas.
-Story: I want a Pizza,,Elle voit Oscar.,She sees Oscar.
-Story: I want a Pizza,,"Salut, Lin. Ça sent bon!","Hi, Lin. That smells good!"
-Story: I want a Pizza,,"Oui, ce sont des pizzas de chez Emilio.","Yes, they are pizzas from Emilio's."
-Story: I want a Pizza,,"Oh, j'adore ce restaurant.","Oh, I love this restaurant."
-Story: I want a Pizza,,Je veux une pizza maintenant!,I want a pizza now!
-Story: I want a Pizza,,"Oh, mais le restaurant est fermé.","Oh, but the restaurant is closed."
-Story: I want a Pizza,,Ah! Tu as deux pizzas. Je peux acheter une de tes pizzas?,Ah! You have two pizzas. Can I buy one of your pizzas?
-Story: I want a Pizza,,"Non, désolée. Il y a une pizza pour ma grand-mère, Lucie, et une pizza pour moi.","No, sorry. There is a pizza for my grandmother, Lucie, and a pizza for me."
-Story: I want a Pizza,,Je peux avoir un peu de ta pizza?,Can I have some of your pizza?
-Story: I want a Pizza,,"Non, Oscar.","No, Oscar."
-Story: I want a Pizza,,Lin rentre chez elle.,Lin goes home.
-Story: I want a Pizza,,Je veux manger une pizza de chez Emilio maintenant.,I want to eat a pizza from Emilio's now.
-Story: I want a Pizza,,Oscar prend son téléphone.,Oscar takes his phone.
-Story: I want a Pizza,,"Salut, Lucie, c'est Oscar. Tu fais quelque chose pour le dîner?","Hi, Lucie, it's Oscar. Are you doing anything for dinner?"
-Story: I want a Pizza,,Je mange une pizza avec Lin! Tu veux manger avec nous?,I'm eating a pizza with Lin! Do you want to eat with us?
-Story: I want a Pizza,,"Bonne idée, merci!","Good idea, thank you!"
+Story: Clothes for My Vacation,,Des vêtements pour mes vacances,Clothes for my vacation
+Story: Clothes for My Vacation,,Lucie est dans un magasin.,Lucie is in a store.
+Story: Clothes for My Vacation,,Bonjour! Je voudrais des vêtements pour mes vacances.,Hello! I would like some clothes for my holidays.
+Story: Clothes for My Vacation,,Je voudrais ... un short.,I would like ... a pair of shorts.
+Story: Clothes for My Vacation,,Lily prend un short rouge.,Lily takes a red short.
+Story: Clothes for My Vacation,,Non! Je voudrais un short vert!,No! I would like a green short!
+Story: Clothes for My Vacation,,Lily prend un short vert.,Lily takes a green pair of shorts.
+Story: Clothes for My Vacation,,Et je voudrais des bottes.,And I would like some boots.
+Story: Clothes for My Vacation,,Lily prend des bottes vertes.,Lily takes some green boots.
+Story: Clothes for My Vacation,,Non. Des bottes blanches!,No. White boots!
+Story: Clothes for My Vacation,,"Un short vert, des bottes blanches... et une veste!","Green shorts, white boots... and a jacket!"
+Story: Clothes for My Vacation,,Lily prend une veste.,Lily takes a jacket.
+Story: Clothes for My Vacation,,Non! Une veste orange!,No! An orange jacket!
+Story: Clothes for My Vacation,,Lily prend une veste orange.,Lily takes an orange jacket.
+Story: Clothes for My Vacation,,Parfait! Je peux aller en vacances.,Perfect! I can go on vacation.
+Story: Clothes for My Vacation,,"Et mois, je veux des vacances...","And me, I want a holiday..."
 Radio: Important Destination - Lily and Strangers,,Bonjour. Je m'appelle Louis. Je voyage au Sénégal.,Hello. My name is Louis. I am traveling to Senegal.
 Radio: Important Destination - Lily and Strangers,,Le Sénégal est un pays d'Afrique.,Senegal is an African country.
 Radio: Important Destination - Lily and Strangers,,Mes bagages sont ici. Ma destination est très importante pour moi. À bientôt.,My luggage is here. My destination is very important to me. See you soon.
@@ -112,6 +128,15 @@ Radio: Paul's Daily Routine,,Après je vais au travail tous le jours.,"After, I 
 Radio: Paul's Daily Routine,,Je travaille dans une usine.,I work in a factory.
 Radio: Paul's Daily Routine,,C'est intéressant et j'aime mon travail.,That's interesting and I love my job.
 Radio: Paul's Daily Routine,,"Après le travail, je rentre chez moi et lis un livre.","After work, I go home and read a book."
+Adventure: Eddy Goes to Paris,,À quelle heure est le vol?,What time is the flight?
+Adventure: Eddy Goes to Paris,,Avez-vous une question?,Do you have a question?
+Adventure: Eddy Goes to Paris,,Votre nom s'il vous plaît.,Your name please.
+Adventure: Eddy Goes to Paris,,Je ne comprends pas.,I don't understand.
+Adventure: Eddy Goes to Paris,,Quel est votre nom?,What is your name?
+Adventure: Eddy Goes to Paris,,Où allez-vous?,Where are you going?
+Adventure: Eddy Goes to Paris,,e vol pour Paris et à quinze heures.,The flight for Paris is at three o'clock.
+Adventure: Eddy Goes to Paris,,Le vol est à quinze heures.,The flight is at three o'clock.
+Adventure: Eddy Goes to Paris,,Merci pour l'info!,Thanks for the info!
 Adventure: Lucy's Lost Luggage,,Où est ma valise?,Where is my suitcase?
 Adventure: Lucy's Lost Luggage,,La valise bleue est à vous?,Is the blue suitcase yours?
 Adventure: Lucy's Lost Luggage,,"Non, ma valise est jaune.","No, my suitcase is yellow."

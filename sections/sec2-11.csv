@@ -9,6 +9,32 @@ Tip - Speak you French?,,Parles-tu chinois?,Do you speak Chinese?
 Tip - Speak you French?,,Tu habites au Luxembourg.,You live in Luxembourg.
 Tip - Speak you French?,,Habites-tu au Luxembourg?,Do you live in Luxembourg?
 Tip - Speak you French?,,Êtes-vous professeur?,Are you a teacher?
+New Words - Story,,conduit le taxi,drives the taxi
+New Words - Story,,conduire,"to drive, to lead, to conduct"
+New Words - Story,,difficille,difficult
+Story: To the Station!,,À la gare!,At the station!
+Story: To the Station!,,Oscar prend un taxi.,Oscar takes a taxi.
+Story: To the Station!,,"Son amie, Lin, est la chauffeur du taxi.","Her friend, Lin, is the taxi driver."
+Story: To the Station!,,Lin! Tu es chauffeur de taxi?,Lin! Are you a taxi driver?
+Story: To the Station!,,"Oui, c'est mon travail maintanant.","Yes, it's my job now."
+Story: To the Station!,,Tu vas où?,Where are you going?
+Story: To the Station!,,À la gare!,At the station!
+Story: To the Station!,,Où est la gare?,Where is the train station?
+Story: To the Station!,,Je ne sais pas.,I don't know
+Story: To the Station!,,OK...,D'accord...
+Story: To the Station!,,Lin conduit le taxi.,Lin drives the taxi.
+Story: To the Station!,,Voilà!,There you go!
+Story: To the Station!,,Lin... Ce n'est pas la gare. C'est l'université.,Lin... It's not the station. It's the university.
+Story: To the Station!,,C'est ici!,It's here!
+Story: To the Station!,,Oui?,Yes?
+Story: To the Station!,,Nous sommes à l'hôpital.,We are at the hospital.
+Story: To the Station!,,"OK, c'est ici!","OK, it's here!"
+Story: To the Station!,,"Lin, ce n'est pas la gare!","Lin, it's not the station!"
+Story: To the Station!,,"Oui, c'est mon appartement.","Yes, it is my apartment."
+Story: To the Station!,,Je ne veux pas conduire le taxi.,I don't want to drive the taxi.
+Story: To the Station!,,C'est un travail difficile.,It is a difficult job.
+Story: To the Station!,,Lin ouvre la porte.,Lin opens the door.
+Story: To the Station!,,"Bonne nuit, Oscar!","Good night, Oscar!"
 Radio: Family Trip Conversation,,"Bonjour, comment vas-tu?","Hello, how are you?"
 Radio: Family Trip Conversation,,"Bonjour, Omar. Je vais bien, et toi?","Hello, Omar. I am fine, and you?"
 Radio: Family Trip Conversation,,Je vais bien aussi.,I'm fine too.
@@ -48,32 +74,25 @@ Speak: Ask About Living,,Habitez-vous en France?,Do you live in France?
 Speak: Ask About Living,,"Oui, j'habite en France.","Yes, I live in France."
 Speak: Ask About Living,,Habitez-vous avec votre famille?,Do you live with your family?
 Speak: Ask About Living,,"Oui, j'habite avec ma famille.","Yes, I live with my family."
-Story: To the Station!,,À la gare!,To the station!
-Story: To the Station!,,Oscar prend un taxi.,Oscar takes a taxi.
-Story: To the Station!,,"Son amie, Lin, est la chauffeur du taxi.","His friend, Lin, is the taxi driver."
-Story: To the Station!,,Lin! Tu es chauffeur de taxi?,Lin! Are you a taxi driver?
-Story: To the Station!,,"Oui, c'est mon travail maintanant.","Yes, it's my job now."
-Story: To the Station!,,Tu vas où?,Where are you going?
-Story: To the Station!,,À la gare!,At the train station!
-Story: To the Station!,,Où est la gare?,Where is the train station?
-Story: To the Station!,,Je ne sais pas.,I don't know.
-Story: To the Station!,,OK...,OK...
-Story: To the Station!,,Lin conduit le taxi.,Lin drives the cab.
-Story: To the Station!,,Voilà!,There it is! (or: Behold!/Here it is!/There you go!)
-Story: To the Station!,,Lin... Ce n'est pas la gare. C'est l'université.,Lin... It is not the station. It is the university.
-Story: To the Station!,,C'est ici!,It is here!
-Story: To the Station!,,Oui?,Yes?
-Story: To the Station!,,Nous sommes à l'hôpital.,We are at the hospital.
-Story: To the Station!,,"OK, c'est ici!","OK, it's here!"
-Story: To the Station!,,"Lin, ce n'est pas la gare!","Lin, it's not the station!"
-Story: To the Station!,,"Oui, c'est mon appartement.","Yes, this is my apartment."
-Story: To the Station!,,Je ne veux pas conduire le taxi.,I do not want to drive the taxi.
-Story: To the Station!,,C'est un travail difficile.,It's hard work.
-Story: To the Station!,,Lin ouvre la porte.,Lin opens the door.
-Story: To the Station!,,"Bonne nuit, Oscar!","Good night, Oscar!"
-New Words - Story,,conduit le taxi,drives the taxi
-New Words - Story,,conduire,to drive
-New Words - Story,,difficille,Difficult
+Story: The perfect Girlfriend,,La petite amie parfaite,The perfect girlfriend
+Story: The perfect Girlfriend,,Lin est à la gare.,Lin is at the station.
+Story: The perfect Girlfriend,,Elle voit son ami Martin.,She sees her friend Martin.
+Story: The perfect Girlfriend,,Il est avec une femme.,He is with a woman.
+Story: The perfect Girlfriend,,"Salut, Martin! ",Where are you?
+Story: The perfect Girlfriend,,"Salut, Lin!","Hi, Lin!"
+Story: The perfect Girlfriend,,Bonjour! Je suis Suzanne.,Hello! I am Suzanne.
+Story: The perfect Girlfriend,,"Salut! Moi, c'est Lin.",Hi! I'm Lin.
+Story: The perfect Girlfriend,,"Oh, je dois acheter les billets, Martin!","Oh, I have to buy the tickets, Martin!"
+Story: The perfect Girlfriend,,"Au revoir, Lin!","Goodbye, Lin!"
+Story: The perfect Girlfriend,,Suzanne va acheter les billets.,Suzanne is going to buy the tickets.
+Story: The perfect Girlfriend,,Suzanne est gentille!,Suzanne is nice!
+Story: The perfect Girlfriend,,"Oui, elle est très gentille.","Yes, she is very kind."
+Story: The perfect Girlfriend,,Et elle est intelligent?,And is she intelligent?
+Story: The perfect Girlfriend,,Euh.. oui?,Um.. yes?
+Story: The perfect Girlfriend,,C'est la petite amie parfaite!,She is the perfect girlfriend!
+Story: The perfect Girlfriend,,Petite amie?! Non! Suzanne est ma mère!,Girlfriend?! No! Suzanne is my mother!
+Story: The perfect Girlfriend,,"Haha, pas de problème.","Haha, no problem."
+Story: The perfect Girlfriend,,"Euh... Ah! Mon train! Au revoir, Martin!","Um... Ah! My train! Goodbye, Martin!"
 Radio: Foreign Students,,"Bonjour, comment tu t'appelles?","Hello, what is your name?"
 Radio: Foreign Students,,"Bonjour, je m'appelle Ben. Et toi? Comment tu t'appelles?","Hello, my name is Ben. And you? What's your name?"
 Radio: Foreign Students,,Je m'appelle Lisa. Où habites-tu?,My name is Lisa. Where do you live?
@@ -96,6 +115,18 @@ New Words - Radio,,près,near
 New Words - Radio,,près de l'église,near the church
 New Words - Radio,,près d'un parc,near a park
 New Words - Radio,,marcher,to walk
+New words - Adventure,,bureau,office
+New words - Adventure,,cafetière,French press
+New words - Adventure,,boîte de beignets,box of doughnuts
+New words - Adventure,,allumé ou éteint?,on or off?
+New words - Adventure,,nouveau ou vieux?,new or old?
+Adventure - Oscar at the Office,,J'ai un problème avec mon ordinateur.,I have a problem with my computer.
+Adventure - Oscar at the Office,,"Euh, il y a un problème avec ton ordinateur..?","Um, is there a problem with your computer..?"
+Adventure - Oscar at the Office,,Avec qui es-tu?,Who are you with?
+Adventure - Oscar at the Office,,Il est allumé ou éteint?,Is it on or off?
+Adventure - Oscar at the Office,,Ton ordinateur est nouveau ou vieux?,Is your computer new or old?
+Adventure - Oscar at the Office,,Tu peux utiliser cette ordinateur pour le moment. À bientôt.,You can use this computer for the moment. See you soon.
+Adventure - Oscar at the Office,,Je peux utiliser cet ordinateur? Merci!,Can I use this computer? Thank you!
 Adventure: The Mysterious Diary,,Un journal intime!,A diary!
 Adventure: The Mysterious Diary,,Du chocolat belge! J'adore le chocolat belge!,Some Belgian chocolate! I love Belgian chocolate!
 Adventure: The Mysterious Diary,,Non Junior. C'est un journal intime...,"No, Junior. It's a diary..."
